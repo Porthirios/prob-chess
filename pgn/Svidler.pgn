@@ -1,0 +1,2798 @@
+[Event "ECCC 2013"]
+[Site "Rhodes"]
+[Date "2013.10.22"]
+[Round "3"]
+[Board "1"]
+[White "Svidler, Peter"]
+[Black "Papaioannou, Ioannis"]
+[Result "1-0"]
+[ECO "B51"]
+[WhiteElo "2740"]
+[BlackElo "2633"]
+[PlyCount "71"]
+[EventDate "2013.10.20"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[WhiteTeam "Saint-Petersburg"]
+[BlackTeam "Peristeri"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. O-O a6 5. Bd3 Ngf6 6. c3 b5 7. Bc2 Bb7 8. Re1
+e6 9. d4 cxd4 10. cxd4 Be7 11. Nbd2 O-O 12. Nf1 Rc8 13. Ng3 Re8 14. h3 Bf8 15.
+Bd2 Qc7 16. Rc1 Qb8 17. Ba5 g6 18. Qd2 Qa8 19. a3 Rc4 20. Bd3 Rxc1 21. Qxc1 Rc8
+22. Qd2 Qa7 23. h4 e5 24. Bc3 Ng4 25. Bb1 Bg7 26. Ba2 exd4 27. Bxd4 Bxd4 28.
+Nxd4 Nde5 29. Rd1 Ba8 30. f3 Nf6 31. Qg5 Ne8 32. Ngf5 Kf8 33. Nxd6 Nxf3+ 34.
+gxf3 Nxd6 35. Qf6 Qc5 36. b4 1-0
+
+[Event "ECCC 2013"]
+[Site "Rhodes"]
+[Date "2013.10.23"]
+[Round "4"]
+[Board "1"]
+[White "Jakovenko, Dmitry"]
+[Black "Svidler, Peter"]
+[Result "1/2-1/2"]
+[ECO "A34"]
+[WhiteElo "2719"]
+[BlackElo "2740"]
+[PlyCount "84"]
+[EventDate "2013.10.20"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[WhiteTeam "Ugra"]
+[BlackTeam "Saint-Petersburg"]
+
+1. Nf3 Nf6 2. c4 c5 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nb4 6. Bc4 Nd3+ 7. Ke2 Nf4+ 8.
+Kf1 Ne6 9. d3 Nc6 10. h4 h5 11. Ng5 g6 12. Nxe6 Bxe6 13. Bxe6 fxe6 14. Ne2 Qd6
+15. Bf4 e5 16. Bg5 Bh6 17. Bxh6 Rxh6 18. Rh3 O-O-O 19. Rc1 b6 20. a3 Kb7 21.
+Qd2 Rhh8 22. Rf3 Rhf8 23. Rxf8 Rxf8 24. Qe3 Rd8 25. Rd1 c4 26. Nc1 Nd4 27. Qd2
+Ne6 28. Qc3 Qc5 29. g3 g5 30. hxg5 Nxg5 31. Ke2 h4 32. Qb4 Qc7 33. gxh4 Ne6 34.
+Qxc4 Nf4+ 35. Ke1 Ng2+ 36. Ke2 Nf4+ 37. Ke1 Nxd3+ 38. Qxd3 Rxd3 39. Nxd3 Qc6
+40. f3 Qf6 41. Ke2 Qxh4 42. Nf2 Kc7 1/2-1/2
+
+[Event "ECCC 2013"]
+[Site "Rhodes"]
+[Date "2013.10.24"]
+[Round "5"]
+[Board "1"]
+[White "Svidler, Peter"]
+[Black "Nakamura, Hikaru"]
+[Result "0-1"]
+[ECO "E71"]
+[WhiteElo "2740"]
+[BlackElo "2783"]
+[PlyCount "58"]
+[EventDate "2013.10.20"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[WhiteTeam "Saint-Petersburg"]
+[BlackTeam "O.R. Padova"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. h3 O-O 6. Bg5 Na6 7. f4 Nh5 8. Nge2
+c5 9. d5 b5 10. cxb5 Nc7 11. a4 Rb8 12. g4 Nf6 13. Ng3 h6 14. Bh4 Nh7 15. Qd2
+a6 16. Bc4 axb5 17. axb5 Bd7 18. e5 Bxb5 19. Nxb5 Nxb5 20. Qa5 Qe8 21. O-O g5
+22. Nf5 gxh4 23. Rae1 dxe5 24. Rxe5 Bxe5 25. fxe5 e6 26. Nxh6+ Kg7 27. Qd2 Qd8
+28. Rf6 Nd4 29. Nxf7 Nxf6 0-1
+
+[Event "ECCC 2013"]
+[Site "Rhodes"]
+[Date "2013.10.25"]
+[Round "6"]
+[Board "1"]
+[White "Svidler, Peter"]
+[Black "Sutovsky, Emil"]
+[Result "1/2-1/2"]
+[ECO "D90"]
+[WhiteElo "2740"]
+[BlackElo "2657"]
+[PlyCount "97"]
+[EventDate "2013.10.20"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[WhiteTeam "Saint-Petersburg"]
+[BlackTeam "Odlar Yurdu"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Qb3 Nb6 6. d4 Bg7 7. Bf4 Be6 8.
+Qa3 c5 9. e4 cxd4 10. Nb5 O-O 11. Nc7 Nc6 12. Nxa8 Qxa8 13. Rc1 f5 14. e5 Nd5
+15. Bd2 Nxe5 16. Nxd4 Bf7 17. Be2 Nb6 18. b3 Qd8 19. Nf3 Nd3+ 20. Bxd3 Qxd3 21.
+Qxa7 Bb2 22. Qxb6 Bxc1 23. Bxc1 Rd8 24. Nd2 Rd6 25. Qb4 Bd5 26. f3 Re6+ 27. Kd1
+Re2 28. Bb2 Rxg2 29. Kc1 Bxf3 30. Re1 Rxh2 31. Bc3 Be4 32. Kb2 Qd6 33. Ka3 Qa6+
+34. Kb2 Qd6 35. Qc4+ Kf8 36. Kc1 Qd3 37. Qxd3 Bxd3 38. Re3 Bb5 39. a4 Bc6 40.
+Bb4 f4 41. Rxe7 Kg8 42. Bc5 f3 43. b4 f2 44. b5 Bd5 45. Re5 Bf7 46. a5 Rh1+ 47.
+Kc2 Re1 48. Re7 Bd5 49. a6 1/2-1/2
+
+[Event "ECCC 2013"]
+[Site "Rhodes"]
+[Date "2013.10.26"]
+[Round "7"]
+[Board "1"]
+[White "Caruana, Fabiano"]
+[Black "Svidler, Peter"]
+[Result "1/2-1/2"]
+[ECO "B48"]
+[WhiteElo "2779"]
+[BlackElo "2740"]
+[PlyCount "139"]
+[EventDate "2013.10.20"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[WhiteTeam "SOCAR"]
+[BlackTeam "Saint-Petersburg"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be3 a6 7. Qd2 Nf6 8.
+O-O-O Be7 9. f3 b5 10. g4 Nxd4 11. Bxd4 Bb7 12. Kb1 O-O 13. Qf2 Rac8 14. Rg1
+Bc6 15. Bd3 b4 16. Ne2 d5 17. g5 Nh5 18. exd5 Bxd5 19. Rg4 e5 20. Be3 Qc6 21.
+Rf1 g6 22. Nc1 f5 23. gxf6 Nxf6 24. Rgg1 Nh5 25. Qd2 Bxf3 26. Nb3 Rfd8 27. Qf2
+Rf8 28. Bh6 Rf7 29. Qe3 e4 30. Nd4 Qd5 31. Nxf3 exd3 32. Qxd3 Qxd3 33. cxd3 Bf8
+34. Bd2 Bd6 35. Ng5 Rxf1+ 36. Rxf1 Bxh2 37. Bxb4 Be5 38. Ne6 Ng7 39. Re1 Bg3
+40. Re4 Re8 41. Nc5 h5 42. Bc3 Rxe4 43. Nxe4 Bf4 44. Kc2 Nf5 45. Kd1 Kf7 46.
+Bd2 Be5 47. b4 Ke6 48. a4 Ng3 49. Nxg3 Bxg3 50. b5 axb5 51. axb5 Kd5 52. Be3
+Bd6 53. Ke2 Bc5 54. Bg5 Bb6 55. Kf3 Kc5 56. Ke4 Bc7 57. d4+ Kxb5 58. Kd5 Bg3
+59. Be3 Kb4 60. Ke6 h4 61. d5 Kc4 62. d6 Bxd6 63. Kxd6 Kd3 64. Bg1 Ke4 65. Ke6
+g5 66. Kf6 Kf4 67. Bh2+ Kg4 68. Kg6 Kh3 69. Kxg5 Kxh2 70. Kxh4 1/2-1/2
+
+[Event "ETCC 2011"]
+[Site "Porto Carras"]
+[Date "2011.11.03"]
+[Round "1"]
+[Board "1"]
+[White "Svidler, Peter"]
+[Black "Bologan, Viktor"]
+[Result "1/2-1/2"]
+[ECO "B12"]
+[WhiteElo "2755"]
+[BlackElo "2665"]
+[PlyCount "94"]
+[EventDate "2011.11.03"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[WhiteTeam "Russia"]
+[BlackTeam "Moldova"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 Ne7 6. Nbd2 h6 7. O-O Bg6 8. c3
+Nd7 9. Nb3 Nf5 10. g4 Nh4 11. Nxh4 Qxh4 12. f4 Be7 13. Bd2 Be4 14. Bf3 f5 15.
+gxf5 Bxf5 16. Be1 Qh3 17. Nc1 g5 18. Bg2 Qg4 19. Ne2 Qh5 20. Ng3 Qxd1 21. Rxd1
+g4 22. h3 h5 23. hxg4 hxg4 24. c4 Nb6 25. cxd5 Nxd5 26. Bd2 Rd8 27. Be4 Bxe4
+28. Nxe4 Rh3 29. f5 exf5 30. Rxf5 Kd7 31. Nf2 Rh7 32. Bg5 g3 33. Ne4 Rdh8 34.
+Nxg3 Rg8 35. e6+ Kxe6 36. Re1+ Kd7 37. Bxe7 Rxg3+ 38. Kf2 Rgh3 39. Ba3 b5 40.
+Ree5 a5 41. Bc5 Rh2+ 42. Kf3 Rxb2 43. Rf8 Rbh2 44. Ra8 Rf7+ 45. Kg3 Nc7 46.
+Rxa5 Rh8 47. Rg5 Ra8 1/2-1/2
+
+[Event "ETCC 2011"]
+[Site "Porto Carras"]
+[Date "2011.11.04"]
+[Round "2"]
+[Board "1"]
+[White "Navara, David"]
+[Black "Svidler, Peter"]
+[Result "0-1"]
+[ECO "D91"]
+[WhiteElo "2724"]
+[BlackElo "2755"]
+[PlyCount "92"]
+[EventDate "2011.11.03"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[WhiteTeam "Czech Rep."]
+[BlackTeam "Russia"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bg5 Ne4 5. Bh4 Nxc3 6. bxc3 dxc4 7. e3 Be6 8.
+Nf3 Bg7 9. Rb1 Nd7 10. Ng5 Bd5 11. e4 h6 12. exd5 hxg5 13. Bxg5 Nb6 14. Bxc4
+Qd6 15. g3 O-O-O 16. Bb3 Nxd5 17. Qf3 Rh5 18. Bxd5 Qxd5 19. Qxd5 Rxd5 20. Bxe7
+Ra5 21. a3 Kd7 22. Bb4 Ra4 23. Kd2 b6 24. Kc2 c5 25. Bxc5 bxc5 26. Rb7+ Kd6 27.
+Rxf7 Bh8 28. Kb3 Ra6 29. dxc5+ Rxc5 30. Rd1+ Kc6 31. Rf3 Rb5+ 32. Kc2 Rxa3 33.
+Rd8 Be5 34. Rg8 Ra2+ 35. Kd3 Rc5 36. c4 Ra3+ 37. Ke2 Rxf3 38. Kxf3 Bd6 39. h4
+a5 40. g4 a4 41. Ra8 Rxc4 42. h5 gxh5 43. gxh5 a3 44. h6 Rh4 45. Rh8 Kb7 46.
+Rh7+ Bc7 0-1
+
+[Event "ETCC 2011"]
+[Site "Porto Carras"]
+[Date "2011.11.05"]
+[Round "3"]
+[Board "1"]
+[White "Svidler, Peter"]
+[Black "Giri, Anish"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[WhiteElo "2755"]
+[BlackElo "2714"]
+[PlyCount "33"]
+[EventDate "2011.11.03"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[WhiteTeam "Russia"]
+[BlackTeam "Netherlands"]
+
+1. c4 Nf6 2. Nf3 e6 3. Nc3 d5 4. d4 Be7 5. Bf4 O-O 6. e3 Nbd7 7. Qc2 c5 8. Rd1
+Qa5 9. Nd2 cxd4 10. exd4 dxc4 11. Nxc4 Qd8 12. Bd3 Nb6 13. O-O Bd7 14. Nxb6
+Qxb6 15. d5 Kh8 16. Qe2 Rae8 17. d6 1/2-1/2
+
+[Event "ETCC 2011"]
+[Site "Porto Carras"]
+[Date "2011.11.06"]
+[Round "4"]
+[Board "1"]
+[White "Topalov, Veselin"]
+[Black "Svidler, Peter"]
+[Result "1-0"]
+[ECO "C88"]
+[WhiteElo "2768"]
+[BlackElo "2755"]
+[PlyCount "109"]
+[EventDate "2011.11.03"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[WhiteTeam "Bulgaria"]
+[BlackTeam "Russia"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. h3
+Bb7 9. d3 Re8 10. a3 h6 11. Nbd2 Bc5 12. c3 Bb6 13. Ba2 d6 14. Nf1 d5 15. exd5
+Nxd5 16. Qb3 Na5 17. Qc2 Qd6 18. b4 Nc6 19. Ng3 Rad8 20. Ne4 Qg6 21. g4 Nf6 22.
+Nh4 Qh7 23. Nf5 Qg6 24. Nh4 Qh7 25. Qe2 Ne7 26. Qf3 Nxe4 27. dxe4 g6 28. g5 Rd6
+29. gxh6 Nf5 30. Bg5 Nxh4 31. Bxh4 Bc8 32. Red1 Be6 33. Rxd6 cxd6 34. Bg5 Bxa2
+35. Rxa2 Rf8 36. a4 f6 37. Be3 Bxe3 38. Qxe3 bxa4 39. Rxa4 Qb7 40. Qd3 Qb5 41.
+Qxb5 axb5 42. Ra7 Rc8 43. Rg7+ Kh8 44. Rxg6 Rxc3 45. Rxf6 Rc4 46. f3 d5 47.
+exd5 Rxb4 48. Re6 Rd4 49. Rxe5 b4 50. Kf2 b3 51. Re3 Rxd5 52. Rxb3 Kh7 53. Rb6
+Rd2+ 54. Kg3 Rd1 55. f4 1-0
+
+[Event "ETCC 2011"]
+[Site "Porto Carras"]
+[Date "2011.11.07"]
+[Round "5"]
+[Board "1"]
+[White "Svidler, Peter"]
+[Black "Ivanchuk, Vassily"]
+[Result "1/2-1/2"]
+[ECO "B75"]
+[WhiteElo "2755"]
+[BlackElo "2775"]
+[PlyCount "72"]
+[EventDate "2011.11.03"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[WhiteTeam "Russia"]
+[BlackTeam "Ukraine"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 g6 4. d4 cxd4 5. Nxd4 Bg7 6. Be3 Nf6 7. Bc4 d6 8. f3
+Bd7 9. Qd2 Qc7 10. Bb3 Na5 11. g4 Nc4 12. Bxc4 Qxc4 13. O-O-O O-O 14. Bh6 Bxh6
+15. Qxh6 b5 16. Kb1 b4 17. Nd5 Nxd5 18. exd5 Rfe8 19. h4 Qxd5 20. h5 Qe5 21.
+hxg6 hxg6 22. Nf5 Bxf5 23. gxf5 Qg7 24. Qh4 Rac8 25. Rh2 g5 26. Qg4 e6 27. fxe6
+Rxe6 28. Qxb4 Qe5 29. Rdh1 a5 30. Qd2 Rc5 31. a4 Kf8 32. Qd3 Qf5 33. Qb3 Kg7
+34. Qb8 Rh6 35. Rxh6 Qxc2+ 36. Ka2 Qxa4+ 1/2-1/2
+
+[Event "ETCC 2011"]
+[Site "Porto Carras"]
+[Date "2011.11.08"]
+[Round "6"]
+[Board "1"]
+[White "Svidler, Peter"]
+[Black "Radjabov, Teimour"]
+[Result "0-1"]
+[ECO "D31"]
+[WhiteElo "2755"]
+[BlackElo "2781"]
+[PlyCount "106"]
+[EventDate "2011.11.03"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[WhiteTeam "Russia"]
+[BlackTeam "Azerbaijan"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Be7 4. cxd5 exd5 5. Bf4 Nf6 6. e3 Bf5 7. Nge2 c6 8.
+Ng3 Be6 9. Bd3 O-O 10. O-O Re8 11. h3 Nbd7 12. Rc1 Nf8 13. Nge2 Ng6 14. Bg3 Bd6
+15. Bxd6 Qxd6 16. f3 Nh5 17. Qd2 Ng3 18. Nxg3 Qxg3 19. Qf2 Qd6 20. f4 f5 21.
+Nb1 b6 22. Qc2 Bd7 23. Rfe1 Ne7 24. Nd2 Rac8 25. Qa4 a5 26. Nf3 Red8 27. Ne5
+Ng6 28. Nf3 Ne7 29. Rc3 Be8 30. Qc2 g6 31. Rc1 Qe6 32. Ne5 c5 33. dxc5 Rxc5 34.
+Qb3 Rdc8 35. Kf2 Qd6 36. Qa3 Kg7 37. Ba6 d4 38. Rd1 dxe3+ 39. Ke1 Qf6 40. Rxe3
+R8c7 41. Nd3 Rc2 42. Rd2 Rxd2 43. Kxd2 Bf7 44. Qa4 Bd5 45. g4 Be4 46. Rxe4 fxe4
+47. Qxe4 Rd7 48. Ke3 Nc6 49. g5 Qd6 50. Qc4 Re7+ 51. Kf2 Nd4 52. Ne5 Rc7 53.
+Qd3 Rc2+ 0-1
+
+[Event "ETCC 2011"]
+[Site "Porto Carras"]
+[Date "2011.11.09"]
+[Round "7"]
+[Board "1"]
+[White "Vallejo, Pons Francisco"]
+[Black "Svidler, Peter"]
+[Result "1/2-1/2"]
+[ECO "A16"]
+[WhiteElo "2705"]
+[BlackElo "2755"]
+[PlyCount "31"]
+[EventDate "2011.11.03"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[WhiteTeam "Spain"]
+[BlackTeam "Russia"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. h4 Bg7 6. h5 Nc6 7. e4 Nb6 8. Bb5
+Bg4 9. h6 Bf6 10. d4 Bxf3 11. Qxf3 Qxd4 12. Be3 Qd6 13. Bf4 Qe6 14. O-O O-O 15.
+Bxc6 bxc6 16. Rfe1 1/2-1/2
+
+[Event "ETCC 2011"]
+[Site "Porto Carras"]
+[Date "2011.11.11"]
+[Round "9"]
+[Board "1"]
+[White "Beliavsky, Alexander"]
+[Black "Svidler, Peter"]
+[Result "1/2-1/2"]
+[ECO "D72"]
+[WhiteElo "2617"]
+[BlackElo "2755"]
+[PlyCount "43"]
+[EventDate "2011.11.03"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[WhiteTeam "Slovenia"]
+[BlackTeam "Russia"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 d5 5. cxd5 Nxd5 6. e4 Nb6 7. Ne2 c5 8. d5
+O-O 9. O-O e6 10. Nec3 Na6 11. Na3 exd5 12. exd5 Bf5 13. Be3 Qd7 14. Qd2 Rfe8
+15. Rad1 h5 16. d6 Bg4 17. Rc1 Rad8 18. Ne4 Bf5 19. Nxc5 Nxc5 20. Rxc5 Qxd6 21.
+Qxd6 Rxd6 22. Nb5 1/2-1/2
+
+[Event "25th European Club Cup 2009"]
+[Site "Ohrid"]
+[Date "2009.10.04"]
+[Round "1"]
+[Board "1"]
+[White "Pedersen, Christian Kyndel"]
+[Black "Svidler, Peter"]
+[Result "1/2-1/2"]
+[ECO "C92"]
+[WhiteElo "2440"]
+[BlackElo "2741"]
+[PlyCount "40"]
+[EventDate "2009.10.04"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "MKD"]
+[WhiteTeam "Jetsmark"]
+[BlackTeam "SPbChFed Sankt-Peterburg"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O 9.h3
+Nd7 10.d4 Bf6 11.a4 Bb7 12.axb5 axb5 13.Rxa8 Qxa8 14.Na3 exd4 15.cxd4 Na5
+16.Nxb5 Bxe4 17.Bc2 Bxf3 18.Qxf3 Qxf3 19.gxf3 Nc6 20.Be3 Rb8 1/2-1/2
+
+[Event "25th European Club Cup 2009"]
+[Site "Ohrid"]
+[Date "2009.10.05"]
+[Round "2"]
+[Board "1"]
+[White "Svidler, Peter"]
+[Black "Nakamura, Hikaru"]
+[Result "1-0"]
+[ECO "B30"]
+[WhiteElo "2741"]
+[BlackElo "2735"]
+[PlyCount "109"]
+[EventDate "2009.10.04"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "MKD"]
+[WhiteTeam "SPbChFed Sankt-Peterburg"]
+[BlackTeam "Husek Wien"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 e6 4.O-O Nge7 5.c3 a6 6.Ba4 b5 7.Bc2 Bb7 8.a4 Ng6 9.Re1
+Rc8 10.Na3 b4 11.Nc4 Be7 12.d4 cxd4 13.cxd4 Na5 14.Ne3 O-O 15.b3 Nh4 16.Nxh4
+Bxh4 17.Bb2 d5 18.exd5 Bxd5 19.Nxd5 exd5 20.Bd3 Rc6 21.Rc1 Rxc1 22.Bxc1 Bf6
+23.Bxa6 Qb6 24.Bf1 Qxd4 25.Be3 Qxd1 26.Rxd1 d4 27.Bd2 Be7 28.Rb1 Bd6 29.Bd3 Re8
+30.g3 g6 31.Kf1 f5 32.Re1 Rc8 33.Rc1 Rxc1+ 34.Bxc1 Kf7 35.Ke2 Ke6 36.Kd1 Kf6
+37.Kc2 g5 38.h4 h6 39.hxg5+ hxg5 40.Bb2 Ke5 41.Bc1 f4 42.gxf4+ gxf4 43.f3 Bc5
+44.Bd2 Bd6 45.Bh7 d3+ 46.Bxd3 Nc6 47.Be4 Nd4+ 48.Kb2 Bc5 49.a5 Nb5 50.a6 Nc7
+51.Bd3 Kd4 52.Kc2 Ke5 53.Bc4 Bd6 54.Kd3 Bc5 55.Bc1 1-0
+
+[Event "17.ETCC 2009"]
+[Site "Novi Sad, Serbia"]
+[Date "2009.10.22"]
+[Round "1"]
+[Board "1"]
+[White "Stevic, Hrvoje"]
+[Black "Svidler, Peter"]
+[Result "1/2-1/2"]
+[ECO "B07"]
+[WhiteElo "2624"]
+[BlackElo "2741"]
+[PlyCount "66"]
+[EventDate "2009.10.22"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "SRB"]
+[WhiteTeam "Croatia"]
+[BlackTeam "Russia"]
+
+1.e4 g6 2.d4 Bg7 3.Nc3 d6 4.Nge2 a6 5.a4 Nc6 6.Be3 Nf6 7.h3 O-O 8.g3 e5 9.Bg2
+exd4 10.Nxd4 Bd7 11.O-O Re8 12.Re1 Nb4 13.Qd2 c5 14.Nb3 Bc6 15.Bf4 Nd7 16.Bxd6
+Ne5 17.Bxe5 Qxd2 18.Nxd2 Bxe5 19.Rec1 b5 20.axb5 axb5 21.Rxa8 Rxa8 22.Nd1 Ra2
+23.c3 Nd3 24.Rb1 Nxb2 25.Rxb2 Rxb2 26.Nxb2 Bxc3 27.Nbc4 bxc4 28.Nxc4 f6 29.f3
+Bd4+ 30.Kh2 Kf7 31.Bf1 f5 32.Bd3 Kf6 33.Kg2 h6 1/2-1/2
+
+[Event "17.ETCC 2009"]
+[Site "Novi Sad, Serbia"]
+[Date "2009.10.23"]
+[Round "2"]
+[Board "1"]
+[White "Svidler, Peter"]
+[Black "Georgiev, Vladimir"]
+[Result "1-0"]
+[ECO "C92"]
+[WhiteElo "2741"]
+[BlackElo "2537"]
+[PlyCount "63"]
+[EventDate "2009.10.22"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "SRB"]
+[WhiteTeam "Russia"]
+[BlackTeam "Former Yug Rep of Macedonia"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O 9.h3
+Bb7 10.d4 Nd7 11.a3 Bf6 12.d5 Na5 13.Ba2 Qc8 14.Nbd2 c5 15.b4 Nc4 16.Nxc4 bxc4
+17.Be3 cxb4 18.cxb4 a5 19.b5 Nc5 20.Qc2 c3 21.Rac1 a4 22.Qxc3 Nxe4 23.Qd3 Nc5
+24.Bxc5 dxc5 25.Nxe5 Bxe5 26.Rxe5 Qd7 27.d6 Rad8 28.Rd1 Ba8 29.Re7 Qc8 30.d7 Qb7
+31.f3 Qb6 32.Qd6 1-0
+
+[Event "17.ETCC 2009"]
+[Site "Novi Sad, Serbia"]
+[Date "2009.10.24"]
+[Round "3"]
+[Board "1"]
+[White "Caruana, Fabiano"]
+[Black "Svidler, Peter"]
+[Result "1/2-1/2"]
+[ECO "D87"]
+[WhiteElo "2662"]
+[BlackElo "2741"]
+[PlyCount "65"]
+[EventDate "2009.10.22"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "SRB"]
+[WhiteTeam "Italy"]
+[BlackTeam "Russia"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Bc4 c5 8.Ne2 Nc6
+9.Be3 O-O 10.O-O Qc7 11.Rc1 Rd8 12.Bf4 e5 13.Bg5 Rd6 14.Bd5 cxd4 15.cxd4 Be6
+16.Bb3 exd4 17.Bf4 Re8 18.Bxe6 Rexe6 19.Bxd6 Qxd6 20.Qd3 Qe7 21.Rb1 Nb4 22.Qa3
+Bf8 23.Qxa7 d3 24.Nc3 Qf6 25.Nd5 Nxd5 26.exd5 Re2 27.Qxb7 Qd4 28.Rbd1 d2 29.Qa6
+Re5 30.Qf6 Bg7 31.Qd8+ Bf8 32.Qf6 Bg7 33.Qd8+ 1/2-1/2
+
+[Event "17.ETCC 2009"]
+[Site "Novi Sad, Serbia"]
+[Date "2009.10.26"]
+[Round "5"]
+[Board "1"]
+[White "Sutovsky, Emil"]
+[Black "Svidler, Peter"]
+[Result "0-1"]
+[ECO "B17"]
+[WhiteElo "2676"]
+[BlackElo "2741"]
+[PlyCount "66"]
+[EventDate "2009.10.22"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "SRB"]
+[WhiteTeam "Israel"]
+[BlackTeam "Russia"]
+
+1.e4 c6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Nd7 5.Ng5 Ngf6 6.Bd3 e6 7.N1f3 Bd6 8.Qe2 h6
+9.Ne4 Nxe4 10.Qxe4 Qc7 11.O-O b6 12.Qg4 Kf8 13.b3 Bb7 14.Bb2 Nf6 15.Qh3 Nd5
+16.g3 c5 17.dxc5 Bxc5 18.Ne5 Nf6 19.Rae1 Rd8 20.Bg6 Ba8 21.Bh5 Nxh5 22.Qxh5 Qb7
+23.Re4 Kg8 24.Rfe1 Rd2 25.Nd3 f5 26.Nf4 fxe4 27.Qe8+ Bf8 28.Ng6 e3 29.Qxf8+ Kh7
+30.Qxh8+ Kxg6 31.f3 Rg2+ 32.Kh1 Re2 33.Rf1 Qxf3+ 0-1
+
+[Event "17.ETCC 2009"]
+[Site "Novi Sad, Serbia"]
+[Date "2009.10.27"]
+[Round "6"]
+[Board "1"]
+[White "Radjabov, Teimour"]
+[Black "Svidler, Peter"]
+[Result "1/2-1/2"]
+[ECO "D97"]
+[WhiteElo "2757"]
+[BlackElo "2741"]
+[PlyCount "42"]
+[EventDate "2009.10.22"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "SRB"]
+[WhiteTeam "Azerbaijan"]
+[BlackTeam "Russia"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Qb3 dxc4 6.Qxc4 O-O 7.e4 a6 8.Qa4 Nc6 9.d5
+Na7 10.Be3 c6 11.Rd1 cxd5 12.e5 Ng4 13.Nxd5 Nxe3 14.Nxe3 Qb6 15.b3 Qc5 16.Nd5
+Be6 17.b4 Qxd5 18.Rxd5 Bxd5 19.Be2 Nc6 20.O-O e6 21.a3 Nxe5 1/2-1/2
+
+[Event "17.ETCC 2009"]
+[Site "Novi Sad, Serbia"]
+[Date "2009.10.28"]
+[Round "7"]
+[Board "1"]
+[White "Svidler, Peter"]
+[Black "Jobava, Baadur"]
+[Result "1/2-1/2"]
+[ECO "B12"]
+[WhiteElo "2741"]
+[BlackElo "2696"]
+[PlyCount "62"]
+[EventDate "2009.10.22"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "SRB"]
+[WhiteTeam "Russia"]
+[BlackTeam "Georgia"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nf3 e6 5.Be2 Nd7 6.O-O Ne7 7.Nbd2 Ng6 8.Nb3 Bg4 9.h3
+Bxf3 10.Bxf3 f6 11.Bh5 fxe5 12.dxe5 Ndxe5 13.Re1 Kd7 14.Nd4 Bc5 15.Bxg6 Qf6
+16.Rxe5 Qxe5 17.Nf3 Qg3 18.Qe2 hxg6 19.b4 Bb6 20.c4 dxc4 21.Be3 Qc7 22.Rd1+ Kc8
+23.Bxb6 axb6 24.Qxe6+ Kb8 25.Rd7 Qf4 26.Rf7 Qc1+ 27.Kh2 Ka7 28.Nd4 Raf8 29.Rxb7+
+Kxb7 30.Qxc6+ Ka6 31.Qa4+ Kb7 1/2-1/2
+
+[Event "17.ETCC 2009"]
+[Site "Novi Sad, Serbia"]
+[Date "2009.10.29"]
+[Round "8"]
+[Board "1"]
+[White "Aronian, Levon"]
+[Black "Svidler, Peter"]
+[Result "1/2-1/2"]
+[ECO "D91"]
+[WhiteElo "2773"]
+[BlackElo "2741"]
+[PlyCount "71"]
+[EventDate "2009.10.22"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "SRB"]
+[WhiteTeam "Armenia"]
+[BlackTeam "Russia"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Bg5 Ne4 5.Bh4 Nxc3 6.bxc3 dxc4 7.e3 Be6 8.Nf3 Bg7
+9.Qb1 Qd5 10.Be2 Bf5 11.Qb4 c5 12.Bxc4 Qxf3 13.Qa4+ Bd7 14.Qxd7+ Nxd7 15.gxf3
+Rc8 16.Bd5 cxd4 17.cxd4 e5 18.dxe5 Bxe5 19.Rd1 Rc7 20.O-O O-O 21.Rd2 Kg7 22.f4
+Bc3 23.Rd3 Bf6 24.Bg3 Nc5 25.Rc1 b6 26.Bf3 Bb2 27.Rc2 f5 28.h4 Bf6 29.h5 Rd8
+30.Rxd8 Bxd8 31.hxg6 hxg6 32.Be2 Ne4 33.Rxc7+ Bxc7 34.Bh4 Bd6 35.Kf1 Kf8 36.Bg5 1/2-1/2
+
+[Event "17.ETCC 2009"]
+[Site "Novi Sad, Serbia"]
+[Date "2009.10.30"]
+[Round "9"]
+[Board "1"]
+[White "Svidler, Peter"]
+[Black "Shirov, Alexei"]
+[Result "1/2-1/2"]
+[ECO "C78"]
+[WhiteElo "2741"]
+[BlackElo "2730"]
+[PlyCount "64"]
+[EventDate "2009.10.22"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "SRB"]
+[WhiteTeam "Russia"]
+[BlackTeam "Spain"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O b5 6.Bb3 Bc5 7.c3 d6 8.a4 Rb8 9.d4
+Bb6 10.Na3 Bg4 11.axb5 axb5 12.Nxb5 O-O 13.Re1 Bxf3 14.gxf3 Nh5 15.Kh1 exd4
+16.Nxd4 Nxd4 17.cxd4 c5 18.Rg1 cxd4 19.Rg5 g6 20.f4 Kh8 21.f5 Qe7 22.f3 Rbc8
+23.Bd2 d3 24.Qf1 Bd4 25.Rb1 Bf6 26.Rg4 gxf5 27.exf5 Qe2 28.Qxe2 dxe2 29.Re4 Rb8
+30.Ba2 Rxb2 31.Rxb2 Bxb2 32.Rxe2 Be5 1/2-1/2
+
+[Event "World Chess Championship"]
+[Site "Mexico"]
+[Date "2007.09.13"]
+[Round "1"]
+[Board "1"]
+[White "Kramnik, Vladimir"]
+[Black "Svidler, Peter"]
+[Result "1/2-1/2"]
+[ECO "D43"]
+[WhiteElo "2769"]
+[BlackElo "2735"]
+[PlyCount "45"]
+[EventDate "2007.09.13"]
+[EventRounds "14"]
+[EventCountry "AUT"]
+
+1.Nf3 d5 2.d4 Nf6 3.c4 c6 4.Nc3 e6 5.Bg5 h6 6.Bxf6 Qxf6 7.e3 Nd7 8.Bd3 g6 9.e4
+dxc4 10.e5 Qe7 11.Bxc4 Bg7 12.O-O O-O 13.Re1 Rd8 14.Qe2 b6 15.Rad1 a5 16.Bd3 Bb7
+17.Be4 b5 18.h4 Nb6 19.Bb1 c5 20.Nxb5 Ba6 21.h5 g5 22.Nh2 Rxd4 23.Rxd4 1/2-1/2
+
+[Event "World Chess Championship"]
+[Site "Mexico"]
+[Date "2007.09.14"]
+[Round "2"]
+[Board "1"]
+[White "Svidler, Peter"]
+[Black "Leko, Peter"]
+[Result "1/2-1/2"]
+[ECO "C89"]
+[WhiteElo "2735"]
+[BlackElo "2751"]
+[PlyCount "85"]
+[EventDate "2007.09.13"]
+[EventRounds "14"]
+[EventCountry "AUT"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d5 9.exd5
+Nxd5 10.Nxe5 Nxe5 11.Rxe5 c6 12.d4 Bd6 13.Re1 Qh4 14.g3 Qh3 15.Qe2 Bg4 16.Qf1
+Qh5 17.Nd2 Rae8 18.Rxe8 Rxe8 19.f3 Bf5 20.Ne4 Bc7 21.Bd2 Qg6 22.Re1 Bxe4 23.Rxe4
+Rxe4 24.Bc2 f5 25.fxe4 fxe4 26.Qg2 Nf6 27.Qh3 Ng4 28.Bb3+ Kf8 29.Bd1 e3 30.Bc1
+h5 31.Bxg4 hxg4 32.Qf1+ Ke8 33.Bxe3 Kd7 34.Qe2 Qf5 35.b3 g6 36.Bf2 Bd6 37.c4
+bxc4 38.bxc4 Bc7 39.d5 cxd5 40.cxd5 Bd6 41.a4 Qb1+ 42.Kg2 Qf5 43.Kg1 1/2-1/2
+
+[Event "World Chess Championship"]
+[Site "Mexico"]
+[Date "2007.09.15"]
+[Round "3"]
+[Board "1"]
+[White "Morozevich, Alexander"]
+[Black "Svidler, Peter"]
+[Result "1-0"]
+[ECO "C45"]
+[WhiteElo "2758"]
+[BlackElo "2735"]
+[PlyCount "73"]
+[EventDate "2007.09.13"]
+[EventRounds "14"]
+[EventCountry "AUT"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5 5.Be3 Qf6 6.c3 Nge7 7.Bc4 O-O 8.O-O Ne5
+9.Bb3 d6 10.f3 Be6 11.Kh1 Bc4 12.Rf2 d5 13.Bc2 dxe4 14.Nd2 Bd3 15.Nxe4 Bxe4
+16.fxe4 Qg6 17.Rf4 Nc4 18.Bg1 Qh6 19.Rf3 Qd2 20.Qb1 Bb6 21.Bb3 Bxd4 22.cxd4 Na5
+23.Bc2 Rad8 24.Rc3 Nac6 25.d5 Nb4 26.Bb3 Na6 27.Be3 Qe2 28.Bc4 Qg4 29.h3 Qh4
+30.Bxa6 bxa6 31.Rxc7 f5 32.Bc5 Rfe8 33.d6 Ng6 34.exf5 Nf4 35.Qc2 Re2 36.Qb3+ Kh8
+37.Rg1 1-0
+
+[Event "World Chess Championship"]
+[Site "Mexico"]
+[Date "2007.09.16"]
+[Round "4"]
+[Board "1"]
+[White "Svidler, Peter"]
+[Black "Gelfand, Boris"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "2735"]
+[BlackElo "2733"]
+[PlyCount "48"]
+[EventDate "2007.09.13"]
+[EventRounds "14"]
+[EventCountry "AUT"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.Nc3 Nxc3 6.dxc3 Be7 7.Bf4 O-O 8.Qd2 Nd7
+9.O-O-O Nc5 10.Be3 Re8 11.Bc4 Be6 12.Bxe6 Nxe6 13.h4 Qd7 14.Qd5 Qc6 15.Qf5 Nf8
+16.h5 Qd7 17.Qd5 Qe6 18.c4 Qxd5 19.cxd5 Nd7 20.Nd4 Nf6 21.Nf5 Bf8 22.Bd4 Nxd5
+23.Bxg7 Ne7 24.Nxe7+ Rxe7 1/2-1/2
+
+[Event "World Chess Championship"]
+[Site "Mexico"]
+[Date "2007.09.18"]
+[Round "5"]
+[Board "1"]
+[White "Anand, Viswanathan"]
+[Black "Svidler, Peter"]
+[Result "1-0"]
+[ECO "C89"]
+[WhiteElo "2792"]
+[BlackElo "2735"]
+[PlyCount "77"]
+[EventDate "2007.09.13"]
+[EventRounds "14"]
+[EventCountry "AUT"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d5 9.exd5
+Nxd5 10.Nxe5 Nxe5 11.Rxe5 c6 12.Re1 Bd6 13.g3 Bf5 14.d4 Qd7 15.Be3 Rae8 16.Nd2
+Bg4 17.Qc2 Bf5 18.Qc1 Re7 19.Nf3 Bg4 20.Nh4 Rfe8 21.Qd2 h6 22.Qd3 g6 23.Bd1 Bh3
+24.Bf3 g5 25.Ng2 Bf5 26.Qd1 Nf6 27.a4 Ne4 28.axb5 axb5 29.Ra6 Qb7 30.Qa1 Bc8
+31.Ra8 Bb8 32.Bc1 Nf6 33.Rxe7 Rxe7 34.Qa3 Rd7 35.Ra5 Ba7 36.Ne3 Qc7 37.Nf5 c5
+38.Nxh6+ Kh7 39.Bxg5 1-0
+
+[Event "World Chess Championship"]
+[Site "Mexico"]
+[Date "2007.09.19"]
+[Round "6"]
+[Board "1"]
+[White "Grischuk, Alexander"]
+[Black "Svidler, Peter"]
+[Result "1/2-1/2"]
+[ECO "D43"]
+[WhiteElo "2726"]
+[BlackElo "2735"]
+[PlyCount "81"]
+[EventDate "2007.09.13"]
+[EventRounds "14"]
+[EventCountry "AUT"]
+
+1.Nf3 d5 2.d4 Nf6 3.c4 c6 4.Nc3 e6 5.Bg5 h6 6.Bh4 dxc4 7.e4 g5 8.Bg3 b5 9.Be2
+Bb7 10.h4 g4 11.Ne5 h5 12.O-O Nbd7 13.Qc2 Nxe5 14.Bxe5 Bg7 15.Bg3 Qxd4 16.Rfd1
+Qc5 17.Bd6 Qb6 18.a4 a6 19.e5 Nd7 20.a5 Qa7 21.Ne4 c5 22.Ng5 Nxe5 23.Bxe5 Bxe5
+24.Bxc4 bxc4 25.Qa4+ Kf8 26.Rd7 Bd5 27.Rd1 Bd4 28.Rxa7 Rxa7 29.b3 Kg7 30.bxc4
+Ba8 31.Qc2 g3 32.Rxd4 cxd4 33.Qe2 gxf2+ 34.Qxf2 Rd8 35.Qg3 Kf8 36.Qe5 Ke8
+37.Nxe6 fxe6 38.Qh8+ Ke7 39.Qg7+ Ke8 40.Qh8+ Ke7 41.Qg7+ 1/2-1/2
+
+[Event "World Chess Championship"]
+[Site "Mexico"]
+[Date "2007.09.20"]
+[Round "7"]
+[Board "1"]
+[White "Svidler, Peter"]
+[Black "Aronian, Levon"]
+[Result "1/2-1/2"]
+[ECO "C69"]
+[WhiteElo "2735"]
+[BlackElo "2750"]
+[PlyCount "40"]
+[EventDate "2007.09.13"]
+[EventRounds "14"]
+[EventCountry "AUT"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6 5.O-O f6 6.d4 exd4 7.Nxd4 c5 8.Ne2 Qxd1
+9.Rxd1 Bd7 10.Nbc3 O-O-O 11.Be3 Re8 12.Rd2 Bc6 13.Rad1 b6 14.f3 Bd6 15.Bf4 Bxf4
+16.Nxf4 Nh6 17.Kf2 f5 18.exf5 Nxf5 19.Re1 Rxe1 20.Kxe1 g5 1/2-1/2
+
+[Event "World Chess Championship"]
+[Site "Mexico"]
+[Date "2007.09.21"]
+[Round "8"]
+[Board "1"]
+[White "Svidler, Peter"]
+[Black "Kramnik, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "2735"]
+[BlackElo "2769"]
+[PlyCount "58"]
+[EventDate "2007.09.13"]
+[EventRounds "14"]
+[EventCountry "AUT"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.Nc3 Nxc3 6.dxc3 Be7 7.Bf4 O-O 8.Qd2 Nd7
+9.O-O-O Nc5 10.Be3 Re8 11.Bc4 Be6 12.Bxe6 Nxe6 13.h4 Qd7 14.Qd5 Qc6 15.Qf5 Qc4
+16.Kb1 g6 17.Qh3 h5 18.Nd2 Qe2 19.Rde1 Qg4 20.Qh2 d5 21.f3 Qa4 22.g4 Bd6 23.Qf2
+Ng7 24.c4 dxc4 25.Bd4 Qc6 26.Bc3 Bc5 27.Qg3 Bd6 28.Qf2 Bc5 29.Qg3 Bd6 1/2-1/2
+
+[Event "World Chess Championship"]
+[Site "Mexico"]
+[Date "2007.09.23"]
+[Round "9"]
+[Board "1"]
+[White "Leko, Peter"]
+[Black "Svidler, Peter"]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[WhiteElo "2751"]
+[BlackElo "2735"]
+[PlyCount "57"]
+[EventDate "2007.09.13"]
+[EventRounds "14"]
+[EventCountry "AUT"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nb3 Be6 8.Qd2 Nbd7
+9.f3 Be7 10.g4 O-O 11.O-O-O b5 12.Rg1 Nb6 13.Na5 Rc8 14.g5 Ne8 15.a3 Qc7 16.Kb1
+d5 17.exd5 Nxd5 18.Nxd5 Bxd5 19.Bh3 Be6 20.Bxe6 fxe6 21.Qd7 Qxd7 22.Rxd7 Rc7
+23.Rxe7 Rxe7 24.Bc5 Ref7 25.Bxf8 Kxf8 26.Nc6 Rxf3 27.Nxe5 Rf5 28.Nd3 a5 29.h4 1/2-1/2
+
+[Event "World Chess Championship"]
+[Site "Mexico"]
+[Date "2007.09.24"]
+[Round "10"]
+[Board "1"]
+[White "Svidler, Peter"]
+[Black "Morozevich, Alexander"]
+[Result "1/2-1/2"]
+[ECO "B17"]
+[WhiteElo "2735"]
+[BlackElo "2758"]
+[PlyCount "88"]
+[EventDate "2007.09.13"]
+[EventRounds "14"]
+[EventCountry "AUT"]
+
+1.e4 c6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Nd7 5.Ng5 Ngf6 6.Bd3 e6 7.N1f3 Bd6 8.Qe2 h6
+9.Ne4 Nxe4 10.Qxe4 Qc7 11.O-O b6 12.Qg4 Kf8 13.Bd2 Bb7 14.Rfe1 Rd8 15.Rad1 c5
+16.dxc5 bxc5 17.h4 Nf6 18.Qh3 c4 19.Bf1 Bd5 20.h5 Kg8 21.Be3 Kh7 22.Bd4 Rhe8
+23.b3 cxb3 24.axb3 Ne4 25.Bb5 Re7 26.Qg4 f5 27.Qg6+ Kg8 28.c4 Ba8 29.Be3 Rf8
+30.Bd4 a6 31.c5 Bxc5 32.Bc4 Qb6 33.Bxc5 Qxc5 34.Bxe6+ Kh8 35.Rd4 Bc6 36.Bxf5 Nf6
+37.Rc4 Rxe1+ 38.Nxe1 Qe7 39.Nd3 Be8 40.Qg3 Nxh5 41.Qg4 Bf7 42.Rc5 Qd6 43.Qb4 Bg8
+44.Ra5 Qxb4 1/2-1/2
+
+[Event "World Chess Championship"]
+[Site "Mexico"]
+[Date "2007.09.25"]
+[Round "11"]
+[Board "1"]
+[White "Gelfand, Boris"]
+[Black "Svidler, Peter"]
+[Result "1/2-1/2"]
+[ECO "A16"]
+[WhiteElo "2733"]
+[BlackElo "2735"]
+[PlyCount "43"]
+[EventDate "2007.09.13"]
+[EventRounds "14"]
+[EventCountry "AUT"]
+
+1.Nf3 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.Qa4+ Bd7 6.Qb3 Nb6 7.d4 Bg7 8.Bf4 Be6
+9.Qa3 O-O 10.e4 c6 11.Rd1 Nc4 12.Bxc4 Bxc4 13.Ne5 Ba6 14.Be3 Qd6 15.f4 Qxa3
+16.bxa3 f6 17.Nf3 Nd7 18.d5 Nb6 19.dxc6 bxc6 20.Nd4 Rfc8 21.Ne6 Bh6 22.Kf2 1/2-1/2
+
+[Event "World Chess Championship"]
+[Site "Mexico"]
+[Date "2007.09.27"]
+[Round "12"]
+[Board "1"]
+[White "Svidler, Peter"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[ECO "C88"]
+[WhiteElo "2735"]
+[BlackElo "2792"]
+[PlyCount "44"]
+[EventDate "2007.09.13"]
+[EventRounds "14"]
+[EventCountry "AUT"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.h3 Bb7 9.d3
+Re8 10.a4 h6 11.axb5 axb5 12.Rxa8 Bxa8 13.c3 Bf8 14.d4 d6 15.d5 Na5 16.Ba2 c6
+17.Na3 Qc7 18.Qe2 cxd5 19.Nxb5 Qd7 20.exd5 Bxd5 21.Bxd5 Nxd5 22.Rd1 Nf6 {Draw
+1/2-1/2} 1/2-1/2
+
+[Event "World Chess Championship"]
+[Site "Mexico"]
+[Date "2007.09.28"]
+[Round "13"]
+[Board "1"]
+[White "Aronian, Levon"]
+[Black "Svidler, Peter"]
+[Result "1/2-1/2"]
+[ECO "A29"]
+[WhiteElo "2750"]
+[BlackElo "2735"]
+[PlyCount "91"]
+[EventDate "2007.09.13"]
+[EventRounds "14"]
+[EventCountry "AUT"]
+
+1.c4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.g3 Bc5 5.Nxe5 Bxf2+ 6.Kxf2 Nxe5 7.e4 c5 8.h3 O-O
+9.d3 a6 10.Bg2 b5 11.Rf1 d6 12.Kg1 h6 13.b3 Be6 14.Be3 Rb8 15.Ne2 Re8 16.Rc1 Bd7
+17.Rc2 bxc4 18.dxc4 Bc6 19.Nc3 Rb7 20.Rcf2 Nh7 21.h4 Rbe7 22.Rd2 Qa5 23.Qc2 Ng4
+24.Bf4 Nhf6 25.Re1 d5 26.e5 Nxe5 27.Rde2 d4 28.Bxe5 Bxg2 29.Bxf6 Rxe2 30.Rxe2
+Rxe2 31.Qxe2 gxf6 32.Qg4+ Kf8 33.Qc8+ Ke7 34.Kxg2 dxc3 35.Qb7+ Kd8 36.Qd5+ Kc8
+37.Qc6+ Kb8 38.Qe8+ Kb7 39.Qe4+ Kc8 40.Qc6+ Kb8 41.Qe8+ Kb7 42.Qe4+ Kc8 43.Qc2
+Qa3 44.Qxc3 Qxa2+ 45.Kf3 Qb1 46.Qe3 {Draw 1/2-1/2} 1/2-1/2
+
+[Event "World Chess Championship"]
+[Site "Mexico"]
+[Date "2007.09.29"]
+[Round "14"]
+[Board "1"]
+[White "Svidler, Peter"]
+[Black "Grischuk, Alexander"]
+[Result "1-0"]
+[ECO "B90"]
+[WhiteElo "2735"]
+[BlackElo "2726"]
+[PlyCount "83"]
+[EventDate "2007.09.13"]
+[EventRounds "14"]
+[EventCountry "AUT"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 Ng4 7.Bg5 h6 8.Bh4 g5 9.Bg3
+Bg7 10.h3 Ne5 11.Nf5 Bxf5 12.exf5 Nbc6 13.Nd5 e6 14.fxe6 fxe6 15.Ne3 Qa5+ 16.c3
+Nf3+ 17.Qxf3 Bxc3+ 18.Kd1 Qa4+ 19.Nc2 Bxb2 20.Rc1 Bxc1 21.Qf6 Kd7 22.Kxc1 Qxa2
+23.Bd3 Rac8 24.Rd1 d5 25.Bf5 Rhe8 26.Qf7+ Kd8 27.Re1 Qa3+ 28.Nxa3 Ne5+ 29.Kd2
+Nxf7 30.Bxe6 Rc6 31.Bxf7 Rxe1 32.Kxe1 b5 33.Kd2 b4 34.Nc2 b3 35.Nd4 Rb6 36.Kc1
+a5 37.Bxd5 a4 38.Be5 b2+ 39.Kb1 a3 40.Ba2 Rb7 41.Bd6 Rd7 42.Nb5 1-0
+
+[Event "World Chess Championship"]
+[Site "Mexico"]
+[Date "2007.09.13"]
+[Round "1"]
+[Board "1"]
+[White "Kramnik, Vladimir"]
+[Black "Svidler, Peter"]
+[Result "1/2-1/2"]
+[ECO "D43"]
+[WhiteElo "2769"]
+[BlackElo "2735"]
+[PlyCount "45"]
+[EventDate "2007.09.13"]
+[EventRounds "14"]
+[EventCountry "AUT"]
+
+1.Nf3 d5 2.d4 Nf6 3.c4 c6 4.Nc3 e6 5.Bg5 h6 6.Bxf6 Qxf6 7.e3 Nd7 8.Bd3 g6 9.e4
+dxc4 10.e5 Qe7 11.Bxc4 Bg7 12.O-O O-O 13.Re1 Rd8 14.Qe2 b6 15.Rad1 a5 16.Bd3 Bb7
+17.Be4 b5 18.h4 Nb6 19.Bb1 c5 20.Nxb5 Ba6 21.h5 g5 22.Nh2 Rxd4 23.Rxd4 1/2-1/2
+
+[Event "World Chess Championship"]
+[Site "Mexico"]
+[Date "2007.09.14"]
+[Round "2"]
+[Board "1"]
+[White "Svidler, Peter"]
+[Black "Leko, Peter"]
+[Result "1/2-1/2"]
+[ECO "C89"]
+[WhiteElo "2735"]
+[BlackElo "2751"]
+[PlyCount "85"]
+[EventDate "2007.09.13"]
+[EventRounds "14"]
+[EventCountry "AUT"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d5 9.exd5
+Nxd5 10.Nxe5 Nxe5 11.Rxe5 c6 12.d4 Bd6 13.Re1 Qh4 14.g3 Qh3 15.Qe2 Bg4 16.Qf1
+Qh5 17.Nd2 Rae8 18.Rxe8 Rxe8 19.f3 Bf5 20.Ne4 Bc7 21.Bd2 Qg6 22.Re1 Bxe4 23.Rxe4
+Rxe4 24.Bc2 f5 25.fxe4 fxe4 26.Qg2 Nf6 27.Qh3 Ng4 28.Bb3+ Kf8 29.Bd1 e3 30.Bc1
+h5 31.Bxg4 hxg4 32.Qf1+ Ke8 33.Bxe3 Kd7 34.Qe2 Qf5 35.b3 g6 36.Bf2 Bd6 37.c4
+bxc4 38.bxc4 Bc7 39.d5 cxd5 40.cxd5 Bd6 41.a4 Qb1+ 42.Kg2 Qf5 43.Kg1 1/2-1/2
+
+[Event "World Chess Championship"]
+[Site "Mexico"]
+[Date "2007.09.15"]
+[Round "3"]
+[Board "1"]
+[White "Morozevich, Alexander"]
+[Black "Svidler, Peter"]
+[Result "1-0"]
+[ECO "C45"]
+[WhiteElo "2758"]
+[BlackElo "2735"]
+[PlyCount "73"]
+[EventDate "2007.09.13"]
+[EventRounds "14"]
+[EventCountry "AUT"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5 5.Be3 Qf6 6.c3 Nge7 7.Bc4 O-O 8.O-O Ne5
+9.Bb3 d6 10.f3 Be6 11.Kh1 Bc4 12.Rf2 d5 13.Bc2 dxe4 14.Nd2 Bd3 15.Nxe4 Bxe4
+16.fxe4 Qg6 17.Rf4 Nc4 18.Bg1 Qh6 19.Rf3 Qd2 20.Qb1 Bb6 21.Bb3 Bxd4 22.cxd4 Na5
+23.Bc2 Rad8 24.Rc3 Nac6 25.d5 Nb4 26.Bb3 Na6 27.Be3 Qe2 28.Bc4 Qg4 29.h3 Qh4
+30.Bxa6 bxa6 31.Rxc7 f5 32.Bc5 Rfe8 33.d6 Ng6 34.exf5 Nf4 35.Qc2 Re2 36.Qb3+ Kh8
+37.Rg1 1-0
+
+[Event "World Chess Championship"]
+[Site "Mexico"]
+[Date "2007.09.16"]
+[Round "4"]
+[Board "1"]
+[White "Svidler, Peter"]
+[Black "Gelfand, Boris"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "2735"]
+[BlackElo "2733"]
+[PlyCount "48"]
+[EventDate "2007.09.13"]
+[EventRounds "14"]
+[EventCountry "AUT"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.Nc3 Nxc3 6.dxc3 Be7 7.Bf4 O-O 8.Qd2 Nd7
+9.O-O-O Nc5 10.Be3 Re8 11.Bc4 Be6 12.Bxe6 Nxe6 13.h4 Qd7 14.Qd5 Qc6 15.Qf5 Nf8
+16.h5 Qd7 17.Qd5 Qe6 18.c4 Qxd5 19.cxd5 Nd7 20.Nd4 Nf6 21.Nf5 Bf8 22.Bd4 Nxd5
+23.Bxg7 Ne7 24.Nxe7+ Rxe7 1/2-1/2
+
+[Event "World Chess Championship"]
+[Site "Mexico"]
+[Date "2007.09.18"]
+[Round "5"]
+[Board "1"]
+[White "Anand, Viswanathan"]
+[Black "Svidler, Peter"]
+[Result "1-0"]
+[ECO "C89"]
+[WhiteElo "2792"]
+[BlackElo "2735"]
+[PlyCount "77"]
+[EventDate "2007.09.13"]
+[EventRounds "14"]
+[EventCountry "AUT"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d5 9.exd5
+Nxd5 10.Nxe5 Nxe5 11.Rxe5 c6 12.Re1 Bd6 13.g3 Bf5 14.d4 Qd7 15.Be3 Rae8 16.Nd2
+Bg4 17.Qc2 Bf5 18.Qc1 Re7 19.Nf3 Bg4 20.Nh4 Rfe8 21.Qd2 h6 22.Qd3 g6 23.Bd1 Bh3
+24.Bf3 g5 25.Ng2 Bf5 26.Qd1 Nf6 27.a4 Ne4 28.axb5 axb5 29.Ra6 Qb7 30.Qa1 Bc8
+31.Ra8 Bb8 32.Bc1 Nf6 33.Rxe7 Rxe7 34.Qa3 Rd7 35.Ra5 Ba7 36.Ne3 Qc7 37.Nf5 c5
+38.Nxh6+ Kh7 39.Bxg5 1-0
+
+[Event "World Chess Championship"]
+[Site "Mexico"]
+[Date "2007.09.19"]
+[Round "6"]
+[Board "1"]
+[White "Grischuk, Alexander"]
+[Black "Svidler, Peter"]
+[Result "1/2-1/2"]
+[ECO "D43"]
+[WhiteElo "2726"]
+[BlackElo "2735"]
+[PlyCount "81"]
+[EventDate "2007.09.13"]
+[EventRounds "14"]
+[EventCountry "AUT"]
+
+1.Nf3 d5 2.d4 Nf6 3.c4 c6 4.Nc3 e6 5.Bg5 h6 6.Bh4 dxc4 7.e4 g5 8.Bg3 b5 9.Be2
+Bb7 10.h4 g4 11.Ne5 h5 12.O-O Nbd7 13.Qc2 Nxe5 14.Bxe5 Bg7 15.Bg3 Qxd4 16.Rfd1
+Qc5 17.Bd6 Qb6 18.a4 a6 19.e5 Nd7 20.a5 Qa7 21.Ne4 c5 22.Ng5 Nxe5 23.Bxe5 Bxe5
+24.Bxc4 bxc4 25.Qa4+ Kf8 26.Rd7 Bd5 27.Rd1 Bd4 28.Rxa7 Rxa7 29.b3 Kg7 30.bxc4
+Ba8 31.Qc2 g3 32.Rxd4 cxd4 33.Qe2 gxf2+ 34.Qxf2 Rd8 35.Qg3 Kf8 36.Qe5 Ke8
+37.Nxe6 fxe6 38.Qh8+ Ke7 39.Qg7+ Ke8 40.Qh8+ Ke7 41.Qg7+ 1/2-1/2
+
+[Event "World Chess Championship"]
+[Site "Mexico"]
+[Date "2007.09.20"]
+[Round "7"]
+[Board "1"]
+[White "Svidler, Peter"]
+[Black "Aronian, Levon"]
+[Result "1/2-1/2"]
+[ECO "C69"]
+[WhiteElo "2735"]
+[BlackElo "2750"]
+[PlyCount "40"]
+[EventDate "2007.09.13"]
+[EventRounds "14"]
+[EventCountry "AUT"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6 5.O-O f6 6.d4 exd4 7.Nxd4 c5 8.Ne2 Qxd1
+9.Rxd1 Bd7 10.Nbc3 O-O-O 11.Be3 Re8 12.Rd2 Bc6 13.Rad1 b6 14.f3 Bd6 15.Bf4 Bxf4
+16.Nxf4 Nh6 17.Kf2 f5 18.exf5 Nxf5 19.Re1 Rxe1 20.Kxe1 g5 1/2-1/2
+
+[Event "World Chess Championship"]
+[Site "Mexico"]
+[Date "2007.09.21"]
+[Round "8"]
+[Board "1"]
+[White "Svidler, Peter"]
+[Black "Kramnik, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "2735"]
+[BlackElo "2769"]
+[PlyCount "58"]
+[EventDate "2007.09.13"]
+[EventRounds "14"]
+[EventCountry "AUT"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.Nc3 Nxc3 6.dxc3 Be7 7.Bf4 O-O 8.Qd2 Nd7
+9.O-O-O Nc5 10.Be3 Re8 11.Bc4 Be6 12.Bxe6 Nxe6 13.h4 Qd7 14.Qd5 Qc6 15.Qf5 Qc4
+16.Kb1 g6 17.Qh3 h5 18.Nd2 Qe2 19.Rde1 Qg4 20.Qh2 d5 21.f3 Qa4 22.g4 Bd6 23.Qf2
+Ng7 24.c4 dxc4 25.Bd4 Qc6 26.Bc3 Bc5 27.Qg3 Bd6 28.Qf2 Bc5 29.Qg3 Bd6 1/2-1/2
+
+[Event "World Chess Championship"]
+[Site "Mexico"]
+[Date "2007.09.23"]
+[Round "9"]
+[Board "1"]
+[White "Leko, Peter"]
+[Black "Svidler, Peter"]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[WhiteElo "2751"]
+[BlackElo "2735"]
+[PlyCount "57"]
+[EventDate "2007.09.13"]
+[EventRounds "14"]
+[EventCountry "AUT"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nb3 Be6 8.Qd2 Nbd7
+9.f3 Be7 10.g4 O-O 11.O-O-O b5 12.Rg1 Nb6 13.Na5 Rc8 14.g5 Ne8 15.a3 Qc7 16.Kb1
+d5 17.exd5 Nxd5 18.Nxd5 Bxd5 19.Bh3 Be6 20.Bxe6 fxe6 21.Qd7 Qxd7 22.Rxd7 Rc7
+23.Rxe7 Rxe7 24.Bc5 Ref7 25.Bxf8 Kxf8 26.Nc6 Rxf3 27.Nxe5 Rf5 28.Nd3 a5 29.h4 1/2-1/2
+
+[Event "World Chess Championship"]
+[Site "Mexico"]
+[Date "2007.09.24"]
+[Round "10"]
+[Board "1"]
+[White "Svidler, Peter"]
+[Black "Morozevich, Alexander"]
+[Result "1/2-1/2"]
+[ECO "B17"]
+[WhiteElo "2735"]
+[BlackElo "2758"]
+[PlyCount "88"]
+[EventDate "2007.09.13"]
+[EventRounds "14"]
+[EventCountry "AUT"]
+
+1.e4 c6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Nd7 5.Ng5 Ngf6 6.Bd3 e6 7.N1f3 Bd6 8.Qe2 h6
+9.Ne4 Nxe4 10.Qxe4 Qc7 11.O-O b6 12.Qg4 Kf8 13.Bd2 Bb7 14.Rfe1 Rd8 15.Rad1 c5
+16.dxc5 bxc5 17.h4 Nf6 18.Qh3 c4 19.Bf1 Bd5 20.h5 Kg8 21.Be3 Kh7 22.Bd4 Rhe8
+23.b3 cxb3 24.axb3 Ne4 25.Bb5 Re7 26.Qg4 f5 27.Qg6+ Kg8 28.c4 Ba8 29.Be3 Rf8
+30.Bd4 a6 31.c5 Bxc5 32.Bc4 Qb6 33.Bxc5 Qxc5 34.Bxe6+ Kh8 35.Rd4 Bc6 36.Bxf5 Nf6
+37.Rc4 Rxe1+ 38.Nxe1 Qe7 39.Nd3 Be8 40.Qg3 Nxh5 41.Qg4 Bf7 42.Rc5 Qd6 43.Qb4 Bg8
+44.Ra5 Qxb4 1/2-1/2
+
+[Event "World Chess Championship"]
+[Site "Mexico"]
+[Date "2007.09.25"]
+[Round "11"]
+[Board "1"]
+[White "Gelfand, Boris"]
+[Black "Svidler, Peter"]
+[Result "1/2-1/2"]
+[ECO "A16"]
+[WhiteElo "2733"]
+[BlackElo "2735"]
+[PlyCount "43"]
+[EventDate "2007.09.13"]
+[EventRounds "14"]
+[EventCountry "AUT"]
+
+1.Nf3 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.Qa4+ Bd7 6.Qb3 Nb6 7.d4 Bg7 8.Bf4 Be6
+9.Qa3 O-O 10.e4 c6 11.Rd1 Nc4 12.Bxc4 Bxc4 13.Ne5 Ba6 14.Be3 Qd6 15.f4 Qxa3
+16.bxa3 f6 17.Nf3 Nd7 18.d5 Nb6 19.dxc6 bxc6 20.Nd4 Rfc8 21.Ne6 Bh6 22.Kf2 1/2-1/2
+
+[Event "World Chess Championship"]
+[Site "Mexico"]
+[Date "2007.09.27"]
+[Round "12"]
+[Board "1"]
+[White "Svidler, Peter"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[ECO "C88"]
+[WhiteElo "2735"]
+[BlackElo "2792"]
+[PlyCount "44"]
+[EventDate "2007.09.13"]
+[EventRounds "14"]
+[EventCountry "AUT"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.h3 Bb7 9.d3
+Re8 10.a4 h6 11.axb5 axb5 12.Rxa8 Bxa8 13.c3 Bf8 14.d4 d6 15.d5 Na5 16.Ba2 c6
+17.Na3 Qc7 18.Qe2 cxd5 19.Nxb5 Qd7 20.exd5 Bxd5 21.Bxd5 Nxd5 22.Rd1 Nf6 {Draw
+1/2-1/2} 1/2-1/2
+
+[Event "World Chess Championship"]
+[Site "Mexico"]
+[Date "2007.09.28"]
+[Round "13"]
+[Board "1"]
+[White "Aronian, Levon"]
+[Black "Svidler, Peter"]
+[Result "1/2-1/2"]
+[ECO "A29"]
+[WhiteElo "2750"]
+[BlackElo "2735"]
+[PlyCount "91"]
+[EventDate "2007.09.13"]
+[EventRounds "14"]
+[EventCountry "AUT"]
+
+1.c4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.g3 Bc5 5.Nxe5 Bxf2+ 6.Kxf2 Nxe5 7.e4 c5 8.h3 O-O
+9.d3 a6 10.Bg2 b5 11.Rf1 d6 12.Kg1 h6 13.b3 Be6 14.Be3 Rb8 15.Ne2 Re8 16.Rc1 Bd7
+17.Rc2 bxc4 18.dxc4 Bc6 19.Nc3 Rb7 20.Rcf2 Nh7 21.h4 Rbe7 22.Rd2 Qa5 23.Qc2 Ng4
+24.Bf4 Nhf6 25.Re1 d5 26.e5 Nxe5 27.Rde2 d4 28.Bxe5 Bxg2 29.Bxf6 Rxe2 30.Rxe2
+Rxe2 31.Qxe2 gxf6 32.Qg4+ Kf8 33.Qc8+ Ke7 34.Kxg2 dxc3 35.Qb7+ Kd8 36.Qd5+ Kc8
+37.Qc6+ Kb8 38.Qe8+ Kb7 39.Qe4+ Kc8 40.Qc6+ Kb8 41.Qe8+ Kb7 42.Qe4+ Kc8 43.Qc2
+Qa3 44.Qxc3 Qxa2+ 45.Kf3 Qb1 46.Qe3 {Draw 1/2-1/2} 1/2-1/2
+
+[Event "World Chess Championship"]
+[Site "Mexico"]
+[Date "2007.09.29"]
+[Round "14"]
+[Board "1"]
+[White "Svidler, Peter"]
+[Black "Grischuk, Alexander"]
+[Result "1-0"]
+[ECO "B90"]
+[WhiteElo "2735"]
+[BlackElo "2726"]
+[PlyCount "83"]
+[EventDate "2007.09.13"]
+[EventRounds "14"]
+[EventCountry "AUT"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 Ng4 7.Bg5 h6 8.Bh4 g5 9.Bg3
+Bg7 10.h3 Ne5 11.Nf5 Bxf5 12.exf5 Nbc6 13.Nd5 e6 14.fxe6 fxe6 15.Ne3 Qa5+ 16.c3
+Nf3+ 17.Qxf3 Bxc3+ 18.Kd1 Qa4+ 19.Nc2 Bxb2 20.Rc1 Bxc1 21.Qf6 Kd7 22.Kxc1 Qxa2
+23.Bd3 Rac8 24.Rd1 d5 25.Bf5 Rhe8 26.Qf7+ Kd8 27.Re1 Qa3+ 28.Nxa3 Ne5+ 29.Kd2
+Nxf7 30.Bxe6 Rc6 31.Bxf7 Rxe1 32.Kxe1 b5 33.Kd2 b4 34.Nc2 b3 35.Nd4 Rb6 36.Kc1
+a5 37.Bxd5 a4 38.Be5 b2+ 39.Kb1 a3 40.Ba2 Rb7 41.Bd6 Rd7 42.Nb5 1-0
+
+[Event "23rd European Club Cup 2007"]
+[Site ""]
+[Date "2007.10.05"]
+[Round "3"]
+[Board "1"]
+[White "Svidler, Peter"]
+[Black "Van Wely, Loek"]
+[Result "1-0"]
+[ECO ""]
+[WhiteElo "2732"]
+[BlackElo "2680"]
+[PlyCount "83"]
+[EventDate "2007.10.03"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "TUR"]
+[WhiteTeam "OSC Baden-Baden e.V."]
+[BlackTeam "Gros Xake Taldea"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nb3 Be6 8.f4 exf4
+9.Bxf4 Nc6 10.Qe2 Ne5 11.h3 g6 12.Qd2 Nh5 13.Bg5 Be7 14.Bxe7 Qxe7 15.O-O-O Rd8
+16.Qe3 O-O 17.g4 Nf6 18.g5 Nfd7 19.Nd4 Rc8 20.h4 Rc5 21.Nb3 Rc6 22.Nd5 Bxd5
+23.exd5 Rc7 24.h5 Re8 25.Qf4 Nf8 26.Kb1 Rec8 27.Nd4 Rc5 28.hxg6 fxg6 29.Bh3 Re8
+30.Ne6 Rc4 31.Qe3 Kh8 32.Rdf1 Rh4 33.a3 Nxe6 34.dxe6 Kg8 35.Rhg1 Rf8 36.Rxf8+
+Qxf8 37.Rf1 Qe7 38.Bg2 Rg4 39.Bd5 Kg7 40.Qc3 Qxg5 41.Qc7+ Kh6 42.e7 1-0
+
+[Event "23rd European Club Cup 2007"]
+[Site ""]
+[Date "2007.10.06"]
+[Round "4"]
+[Board "1"]
+[White "Ivanchuk, Vassily"]
+[Black "Svidler, Peter"]
+[Result "1/2-1/2"]
+[ECO ""]
+[WhiteElo "2787"]
+[BlackElo "2732"]
+[PlyCount "59"]
+[EventDate "2007.10.03"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "TUR"]
+[WhiteTeam "Bosna Sarajevo"]
+[BlackTeam "OSC Baden-Baden e.V."]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.e3 a6 5.Nbd2 Bf5 6.Qb3 Qc7 7.Bd3 Bxd3 8.Qxd3 e6
+9.O-O Be7 10.e4 dxe4 11.Nxe4 Nbd7 12.Bg5 O-O 13.Bh4 Qd8 14.Nc3 b5 15.Rac1 Rc8
+16.Rfd1 Nh5 17.Bxe7 Qxe7 18.b3 Nhf6 19.Qe3 Qb4 20.Ne5 Rfd8 21.Nd3 Qe7 22.h3 h6
+23.Qe2 Qd6 24.Ne5 Qb4 25.Rc2 bxc4 26.Nxc4 Nb6 27.Nxb6 Qxb6 28.Na4 Qa7 29.Nc5 a5
+30.Rc4 1/2-1/2
+
+[Event "23rd European Club Cup 2007"]
+[Site ""]
+[Date "2007.10.07"]
+[Round "5"]
+[Board "2"]
+[White "Fontaine, Robert"]
+[Black "Svidler, Peter"]
+[Result "1/2-1/2"]
+[ECO ""]
+[WhiteElo "2562"]
+[BlackElo "2732"]
+[PlyCount "26"]
+[EventDate "2007.10.03"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "TUR"]
+[WhiteTeam "Cannes Echecs"]
+[BlackTeam "OSC Baden-Baden e.V."]
+
+1.d4 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 O-O 5.Nc3 d6 6.Nf3 Nc6 7.O-O a6 8.d5 Na5 9.b3 c5
+10.dxc6 Nxc6 11.Bb2 Bf5 12.Nd4 Nxd4 13.Nb1 Bc8 1/2-1/2
+
+[Event "23rd European Club Cup 2007"]
+[Site ""]
+[Date "2007.10.08"]
+[Round "6"]
+[Board "2"]
+[White "Svidler, Peter"]
+[Black "Smirin, Ilia"]
+[Result "1-0"]
+[ECO "B42"]
+[WhiteElo "2732"]
+[BlackElo "2649"]
+[PlyCount "149"]
+[EventDate "2007.10.03"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "TUR"]
+[WhiteTeam "OSC Baden-Baden e.V."]
+[BlackTeam "Ashdod City Club"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3 Bc5 6.Nb3 Ba7 7.Nc3 Nc6 8.Qg4 Nf6
+9.Qg3 d6 10.Bg5 h6 11.Bd2 e5 12.Be2 Nd4 13.Nxd4 exd4 14.Nd5 Nxd5 15.exd5 Qf6
+16.O-O-O O-O 17.Bd3 Bd7 18.h4 Rfe8 19.Rde1 Re5 20.Rxe5 dxe5 21.f4 Re8 22.fxe5
+Qxe5 23.Bf4 Qh5 24.d6 Bb6 25.Re1 Bd8 26.Rxe8+ Bxe8 27.Qe1 Bc6 28.g3 Qd5 29.b3 g5
+30.Be5 Ba5 31.Qe2 Bb4 32.Bc4 Qh1+ 33.Qf1 Ba3+ 34.Kd1 Bf3+ 35.Ke1 Bb4+ 36.Kf2
+Qxf1+ 37.Bxf1 Bg4 38.Bg2 Bc8 39.h5 Bc5 40.Kf3 Bd7 41.g4 b5 42.Kg3 f6 43.Bxf6
+Bxd6+ 44.Kh3 Bc5 45.Bd5+ Kf8 46.Kg3 a5 47.Kf3 Bb6 48.Be5 b4 49.Be4 Kf7 50.Bg6+
+Kf8 51.Bf5 Bc6+ 52.Ke2 Bb5+ 53.Kd2 Ba6 54.Bd6+ Kf7 55.Kc1 Bb5 56.Kb2 Bc6 57.a3
+bxa3+ 58.Kxa3 Bd8 59.b4 Bb6 60.Be5 a4 61.Bg6+ Kf8 62.Bd3 Bf3 63.Kxa4 Bxg4 64.Kb5
+Bd8 65.Bg6 Be2+ 66.Kc6 g4 67.b5 Bf3+ 68.Kc5 Bh4 69.Bxd4 Ke7 70.Kb6 Be1 71.Ka7 g3
+72.b6 Bf2 73.Bxf2 gxf2 74.Bd3 Be4 75.Bf1 1-0
+
+[Event "23rd European Club Cup 2007"]
+[Site ""]
+[Date "2007.10.09"]
+[Round "7"]
+[Board "2"]
+[White "Naiditsch, Arkadij"]
+[Black "Svidler, Peter"]
+[Result "1/2-1/2"]
+[ECO "B42"]
+[WhiteElo "2647"]
+[BlackElo "2732"]
+[PlyCount "169"]
+[EventDate "2007.10.03"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "TUR"]
+[WhiteTeam "Clichy Echecs 92"]
+[BlackTeam "OSC Baden-Baden e.V."]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3 Bc5 6.Nb3 Be7 7.Qg4 g6 8.Qe2 d6 9.O-O
+Nd7 10.a4 Ngf6 11.Bh6 Ne5 12.N1d2 Neg4 13.Bg7 Rg8 14.Bxf6 Nxf6 15.Nc4 d5 16.exd5
+exd5 17.Ne5 Kf8 18.Rfe1 Bd6 19.Qe3 Kg7 20.Qd4 Re8 21.Re3 Bb8 22.Rae1 Qd6 23.Qh4
+Qd8 24.Qd4 Qd6 25.R3e2 b6 26.Qh4 Ra7 27.Nd4 Rae7 28.f4 Qc5 29.c3 Bd6 30.Kh1 Qc7
+31.Bxa6 Bxe5 32.fxe5 Ne4 33.Bxc8 Qxc8 34.Nf3 Qc4 35.Ng5 Nxg5 36.Qxg5 Re6 37.Re3
+h6 38.Qf6+ Kg8 39.Qf3 Qb3 40.R3e2 Qxa4 41.Qxd5 h5 42.h3 R8e7 43.Re4 Qa7 44.Rd4
+Kg7 45.Qb5 Qc7 46.Rd5 Kh7 47.Rf1 Kg8 48.Re1 Kh7 49.Re4 f6 50.Rc4 Qb8 51.Re4 Rxe5
+52.Rexe5 fxe5 53.Rd7 Rxd7 54.Qxd7+ Kh6 55.Qd5 Qc7 56.Kg1 Qe7 57.Kf2 Qf6+ 58.Ke2
+g5 59.b4 g4 60.Qd2+ Kg6 61.Qd3+ Kg5 62.Qe3+ Qf4 63.hxg4 Kxg4 64.Qh3+ Kg5 65.Qe3
+Kg4 66.Qxb6 Qe4+ 67.Kf1 Qb1+ 68.Kf2 Qc2+ 69.Ke3 Qxc3+ 70.Ke4 Qc2+ 71.Kxe5 Qe2+
+72.Kd6 Qxg2 73.Qd4+ Kh3 74.b5 h4 75.b6 Qg3+ 76.Kc5 Kg2 77.Qe4+ Kg1 78.Qb1+ Kg2
+79.Qe4+ Kg1 80.b7 h3 81.Qb1+ Kg2 82.Qc2+ Kg1 83.Qc1+ Kg2 84.Qb2+ Kg1 85.Qb1+ 1/2-1/2
+
+[Event "22nd European Club Cup 2006"]
+[Site "Fuegen, Austria"]
+[Date "2006.10.09"]
+[Round "2"]
+[Board "1"]
+[White "Korchnoi, Viktor"]
+[Black "Svidler, Peter"]
+[Result "1/2-1/2"]
+[ECO "D94"]
+[WhiteElo "2607"]
+[BlackElo "2750"]
+[PlyCount "53"]
+[EventDate "2006.10.08"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "AUT"]
+[WhiteTeam "Schachgesellschaft Zuerich"]
+[BlackTeam "Ural Sverdlovskaya"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.e3 O-O 6.b4 b6 7.Ba3 c5 8.bxc5 bxc5 9.Rc1
+Ne4 10.cxd5 Nxc3 11.Rxc3 cxd4 12.Nxd4 Qxd5 13.Qb3 Be6 14.Qxd5 Bxd5 15.Bb5 a6
+16.Ba4 Ra7 17.O-O Bxa2 18.Rfc1 a5 19.R3c2 Bd5 20.Nb5 Rb7 21.Rc7 Bf6 22.Rxb7 Bxb7
+23.Rc7 Bc6 24.Bxe7 Bxe7 25.Rxe7 Nd7 26.Nc3 Bxa4 27.Nxa4 1/2-1/2
+
+[Event "22nd European Club Cup 2006"]
+[Site "Fuegen, Austria"]
+[Date "2006.10.10"]
+[Round "3"]
+[Board "1"]
+[White "Svidler, Peter"]
+[Black "Asrian, Karen"]
+[Result "1/2-1/2"]
+[ECO "B12"]
+[WhiteElo "2750"]
+[BlackElo "2634"]
+[PlyCount "49"]
+[EventDate "2006.10.08"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "AUT"]
+[WhiteTeam "Ural Sverdlovskaya"]
+[BlackTeam "Bank King"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nf3 e6 5.Be2 Nd7 6.O-O Bg6 7.Nbd2 Nh6 8.c3 Be7 9.Ne1
+c5 10.Ndf3 O-O 11.Nd3 cxd4 12.cxd4 Rc8 13.a4 Qc7 14.Bxh6 gxh6 15.Qd2 Kg7 16.a5
+a6 17.h4 b6 18.axb6 Nxb6 19.b3 Qc2 20.Rxa6 Qxd2 21.Nxd2 Rc2 22.Rd1 Rb8 23.g3
+Bxd3 24.Bxd3 Rb2 25.Ra7 1/2-1/2
+
+[Event "22nd European Club Cup 2006"]
+[Site "Fuegen, Austria"]
+[Date "2006.10.11"]
+[Round "4"]
+[Board "1"]
+[White "Huzman, Alexander"]
+[Black "Svidler, Peter"]
+[Result "1/2-1/2"]
+[ECO "A29"]
+[WhiteElo "2585"]
+[BlackElo "2750"]
+[PlyCount "43"]
+[EventDate "2006.10.08"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "AUT"]
+[WhiteTeam "Beer Sheva"]
+[BlackTeam "Ural Sverdlovskaya"]
+
+1.c4 Nf6 2.Nc3 e5 3.Nf3 Nc6 4.g3 Nd4 5.Bg2 Nxf3+ 6.Bxf3 Bb4 7.d3 O-O 8.O-O c6
+9.Qb3 Be7 10.Rd1 d6 11.d4 Qc7 12.Bg2 h6 13.Qc2 Nh7 14.b4 exd4 15.Rxd4 Ng5 16.Be3
+Bf6 17.Rdd1 Re8 18.Qd3 a5 19.b5 Bxc3 20.b6 Qe7 21.Qxc3 Bg4 22.Qd3 1/2-1/2
+
+[Event "22nd European Club Cup 2006"]
+[Site "Fuegen, Austria"]
+[Date "2006.10.12"]
+[Round "5"]
+[Board "1"]
+[White "Svidler, Peter"]
+[Black "Gelfand, Boris"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "2750"]
+[BlackElo "2733"]
+[PlyCount "94"]
+[EventDate "2006.10.08"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "AUT"]
+[WhiteTeam "Ural Sverdlovskaya"]
+[BlackTeam "Elara Cheboksary"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3 Nc6 7.O-O Be7 8.c4 Nf6 9.h3
+Nb4 10.Be2 dxc4 11.Bxc4 O-O 12.Nc3 c6 13.Bg5 Nbd5 14.Re1 Be6 15.Qb3 Rb8 16.Bh4
+h6 17.Bg3 Bd6 18.Be5 Nxc3 19.Bxe6 Ncd5 20.Bf5 Re8 21.g3 Qc7 22.Re2 Re7 23.Rae1
+Rbe8 24.a3 Bxe5 25.dxe5 Nd7 26.e6 fxe6 27.Rxe6 Nc5 28.Rxe7 Rxe7 29.Rxe7 Qxe7
+30.Qc2 Nd7 31.Bh7+ Kf8 32.Be4 N5f6 33.Bf5 Qc5 34.Qd3 Ke7 35.b4 Qd5 36.Qe3+ Kd6
+37.Bc2 c5 38.bxc5+ Nxc5 39.Nd4 Nce4 40.Qf4+ Kd7 41.Ba4+ Kc8 42.Nf5 Qc4 43.Bd1
+Qc3 44.Kg2 g5 45.Nd6+ Nxd6 46.Qxd6 Qc6+ 47.Qxc6+ bxc6 1/2-1/2
+
+[Event "22nd European Club Cup 2006"]
+[Site "Fuegen, Austria"]
+[Date "2006.10.13"]
+[Round "6"]
+[Board "1"]
+[White "Radjabov, Teimour"]
+[Black "Svidler, Peter"]
+[Result "1/2-1/2"]
+[ECO "B46"]
+[WhiteElo "2729"]
+[BlackElo "2750"]
+[PlyCount "51"]
+[EventDate "2006.10.08"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "AUT"]
+[WhiteTeam "Ladya Kazan"]
+[BlackTeam "Ural Sverdlovskaya"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 a6 6.Be3 Nf6 7.f4 Bb4 8.Bd3 d6
+9.Nxc6 bxc6 10.O-O e5 11.h3 O-O 12.Qf3 exf4 13.Bxf4 Nd7 14.Bc4 Qe7 15.Qg3 Kh8
+16.Bb3 Ne5 17.Rad1 f6 18.Kh1 Rb8 19.Ne2 Bd7 20.c3 Bc5 21.Bc1 Be6 22.Bxe6 Qxe6
+23.b3 a5 24.Rfe1 a4 25.Nd4 Qf7 26.Be3 1/2-1/2
+
+[Event "22nd European Club Cup 2006"]
+[Site "Fuegen, Austria"]
+[Date "2006.10.14"]
+[Round "7"]
+[Board "1"]
+[White "Efimenko, Zahar"]
+[Black "Svidler, Peter"]
+[Result "1/2-1/2"]
+[ECO "B43"]
+[WhiteElo "2612"]
+[BlackElo "2750"]
+[PlyCount "67"]
+[EventDate "2006.10.08"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "AUT"]
+[WhiteTeam "Werder Bremen"]
+[BlackTeam "Ural Sverdlovskaya"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Nc3 Qc7 6.Be2 b5 7.O-O Bb7 8.Re1 Nc6
+9.Nxc6 dxc6 10.e5 Rd8 11.Bd3 c5 12.Qg4 Ne7 13.Bg5 Rd4 14.Qg3 Ng6 15.Rad1 Be7
+16.Bxe7 Qxe7 17.Ne4 Bxe4 18.Rxe4 Rd5 19.b3 O-O 20.Rde1 Rfd8 21.a4 Rd4 22.axb5
+axb5 23.Rxd4 cxd4 24.Ra1 Qc7 25.f4 Ne7 26.Qe1 Nd5 27.Qe4 g6 28.Qxd4 Ne7 29.Qf2
+Qc3 30.Rf1 Nd5 31.Qe1 Qd4+ 32.Qf2 Qc3 33.Qe1 Qd4+ 34.Qf2 1/2-1/2
+
+[Event "37.Chess Olympiad 2006 general"]
+[Site "Turin, Italia"]
+[Date "2006.05.24"]
+[Round "4"]
+[Board "2"]
+[White "Svidler, Peter"]
+[Black "Zhang, Zhong"]
+[Result "1-0"]
+[ECO ""]
+[WhiteElo "2743"]
+[BlackElo "2640"]
+[PlyCount "99"]
+[EventDate "2006.05.21"]
+[EventType "team"]
+[EventRounds "13"]
+[EventCountry "ITA"]
+[WhiteTeam "Russia"]
+[BlackTeam "China"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 d6 7.Bxc6+ bxc6 8.d4 exd4
+9.Nxd4 Bd7 10.Nc3 O-O 11.h3 Re8 12.Bf4 g6 13.Nf3 Nh5 14.Bh2 Ng7 15.Qd2 Qc8
+16.Rad1 Qb7 17.b3 Rad8 18.Bf4 Qb4 19.Bh6 a5 20.Re3 Bc8 21.Nd4 Bd7 22.Rf3 Ne6
+23.Nf5 Bf6 24.a3 Qxa3 25.Nxd6 Qxd6 26.Qxd6 cxd6 27.Rxf6 Bc8 28.f4 c5 29.Nb5 Bb7
+30.f5 Nd4 31.Nxd6 Bxe4 32.Nxe8 Rxe8 33.fxg6 hxg6 34.c3 Nf5 35.Bg5 Bc2 36.Ra1 Ng3
+37.Rf3 Ne4 38.Bf4 c4 39.b4 axb4 40.cxb4 Re6 41.Ra8+ Kg7 42.Ra7 Bd1 43.Rfa3 g5
+44.Be3 Nd6 45.R7a6 f6 46.Bd2 Bb3 47.R3a5 Kf7 48.b5 Ke8 49.Bb4 Kd7 50.Ra7+ 1-0
+
+[Event "37.Chess Olympiad 2006 general"]
+[Site "Turin, Italia"]
+[Date "2006.05.25"]
+[Round "5"]
+[Board "2"]
+[White "Akopian, Vladimir"]
+[Black "Svidler, Peter"]
+[Result "1/2-1/2"]
+[ECO ""]
+[WhiteElo "2706"]
+[BlackElo "2743"]
+[PlyCount "57"]
+[EventDate "2006.05.21"]
+[EventType "team"]
+[EventRounds "13"]
+[EventCountry "ITA"]
+[WhiteTeam "Armenia"]
+[BlackTeam "Russia"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O b5 6.Bb3 Bc5 7.d3 d6 8.c3 O-O 9.Bg5
+h6 10.Bh4 g5 11.Bg3 Bg4 12.Nbd2 Qd7 13.Re1 Rae8 14.Nf1 Bb6 15.h4 gxh4 16.Bxh4
+Nh5 17.N1h2 Kh8 18.Qd2 Kh7 19.Bd1 Rg8 20.Ng5+ hxg5 21.Bxg4 Qe7 22.Bxh5 gxh4
+23.Bg4 Rg5 24.Bf5+ Kh8 25.Nf3 Rh5 26.Bg4 Rh7 27.Bf5 Rh5 28.Bg4 Rh7 29.Bf5 1/2-1/2
+
+[Event "37.Chess Olympiad 2006 general"]
+[Site "Turin, Italia"]
+[Date "2006.05.27"]
+[Round "6"]
+[Board "2"]
+[White "Svidler, Peter"]
+[Black "Tiviakov, Sergey"]
+[Result "1/2-1/2"]
+[ECO ""]
+[WhiteElo "2743"]
+[BlackElo "2669"]
+[PlyCount "54"]
+[EventDate "2006.05.21"]
+[EventType "team"]
+[EventRounds "13"]
+[EventCountry "ITA"]
+[WhiteTeam "Russia"]
+[BlackTeam "Netherlands"]
+
+1.e4 d5 2.exd5 Qxd5 3.Nc3 Qd6 4.d4 Nf6 5.Nf3 a6 6.g3 Bg4 7.Bg2 c6 8.Bf4 Qd8 9.h3
+Bxf3 10.Qxf3 e6 11.O-O-O Be7 12.g4 Nbd7 13.Kb1 Nd5 14.Nxd5 cxd5 15.c4 Nb6 16.c5
+Nc4 17.Bf1 Na5 18.Qg3 Bh4 19.Qe3 h6 20.Be5 Bf6 21.Bxf6 Qxf6 22.f4 Nc6 23.g5 Qe7
+24.h4 g6 25.Rh3 O-O-O 26.Be2 hxg5 27.fxg5 e5 1/2-1/2
+
+[Event "37.Chess Olympiad 2006 general"]
+[Site "Turin, Italia"]
+[Date "2006.05.28"]
+[Round "7"]
+[Board "2"]
+[White "Fedorov, Alexei"]
+[Black "Svidler, Peter"]
+[Result "0-1"]
+[ECO ""]
+[WhiteElo "2614"]
+[BlackElo "2743"]
+[PlyCount "84"]
+[EventDate "2006.05.21"]
+[EventType "team"]
+[EventRounds "13"]
+[EventCountry "ITA"]
+[WhiteTeam "Belarus"]
+[BlackTeam "Russia"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Nc3 Qc7 6.Bd3 Nf6 7.O-O Bc5 8.Nb3 Be7
+9.f4 d6 10.Qe2 Nc6 11.Bd2 b5 12.Rae1 b4 13.Nd1 Bb7 14.Nf2 a5 15.c3 e5 16.c4 a4
+17.Nc1 exf4 18.Bxf4 O-O 19.b3 axb3 20.axb3 Rfe8 21.Kh1 Nd7 22.Ng4 Nce5 23.Bxe5
+Nxe5 24.Nxe5 dxe5 25.c5 Bxc5 26.Bc4 Rf8 27.Nd3 Bd6 28.Rf3 Kh8 29.Nf2 g6 30.Qd2
+Rad8 31.Rd3 Be7 32.Qh6 Rxd3 33.Nxd3 f5 34.exf5 Rxf5 35.Qd2 Qd6 36.Qe2 Bf6 37.Nf2
+Rf4 38.Rd1 Rd4 39.Rd3 e4 40.Rxd4 Qxd4 41.h3 Be7 42.Ng4 Qa1+ 0-1
+
+[Event "37.Chess Olympiad 2006 general"]
+[Site "Turin, Italia"]
+[Date "2006.05.29"]
+[Round "8"]
+[Board "1"]
+[White "Navara, David"]
+[Black "Svidler, Peter"]
+[Result "1-0"]
+[ECO ""]
+[WhiteElo "2658"]
+[BlackElo "2743"]
+[PlyCount "0"]
+[EventDate "2006.05.21"]
+[EventType "team"]
+[EventRounds "13"]
+[EventCountry "ITA"]
+[WhiteTeam "Czech Republic"]
+[BlackTeam "Russia"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.Nf3 dxc4 5.a4 e6 6.e3 c5 7.Bxc4 Nc6 8.O-O cxd4
+9.exd4 Be7 10.Bg5 O-O 11.Re1 Bd7 12.Qe2 h6 13.Bf4 Nb4 14.Ne5 Bc6 15.Rad1 Nbd5
+16.Bc1 Bb4 17.Rd3 Ne7 18.Bd2 Rc8 19.d5 exd5 20.Nxd5 Bxd5 21.Bxb4 Re8 22.Qd2 Qb6
+23.Bxe7 Bxc4 24.Rd6 Qc7 25.Bxf6 gxf6 26.Rd7 Rcd8 27.Rd1 Rxd7 28.Nxd7 Kg7 29.Qc3
+Qf4 30.g3 Qg4 31.Qxf6+ Kg8 32.Qd6 Re6 33.Qf8+ Kh7 34.Qxf7+ Kh8 35.Qf8+ Kh7
+36.Rc1 Qd4 37.Qc5 Re4 38.Qf5+ Kg7 39.Nf6 Re2 40.Rxc4 1-0
+
+[Event "37.Chess Olympiad 2006 general"]
+[Site "Turin, Italia"]
+[Date "2006.05.31"]
+[Round "10"]
+[Board "2"]
+[White "Svidler, Peter"]
+[Black "Volokytin, Andrei"]
+[Result "1-0"]
+[ECO ""]
+[WhiteElo "2743"]
+[BlackElo "2660"]
+[PlyCount "0"]
+[EventDate "2006.05.21"]
+[EventType "team"]
+[EventRounds "13"]
+[EventCountry "ITA"]
+[WhiteTeam "Russia"]
+[BlackTeam "Ukraine"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 a6 6.Nxc6 bxc6 7.Bd3 d5 8.O-O Nf6
+9.Qe2 Be7 10.b3 O-O 11.Bb2 c5 12.Rad1 Bb7 13.Na4 Qc7 14.exd5 Nxd5 15.Be5 Qc6
+16.Be4 f6 17.c4 Rfd8 18.Qh5 fxe5 19.Qxh7+ Kf8 20.cxd5 exd5 21.f4 exf4 22.Bg6 Qe6
+23.Qh8+ Qg8 24.Rxf4+ Bf6 25.Rxf6+ 1-0
+
+[Event "37.Chess Olympiad 2006 general"]
+[Site "Turin, Italia"]
+[Date "2006.06.02"]
+[Round "11"]
+[Board "2"]
+[White "Svidler, Peter"]
+[Black "Onischuk, Alexander"]
+[Result "1/2-1/2"]
+[ECO ""]
+[WhiteElo "2743"]
+[BlackElo "2650"]
+[PlyCount "0"]
+[EventDate "2006.05.21"]
+[EventType "team"]
+[EventRounds "13"]
+[EventCountry "ITA"]
+[WhiteTeam "Russia"]
+[BlackTeam "USA"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.h3 Bb7 9.d3
+Re8 10.Nc3 h6 11.a3 Bc5 12.Ba2 Nd4 13.Be3 d6 14.b4 Bb6 15.Bxd4 exd4 16.Ne2 d5
+17.e5 Nd7 18.Nf4 Nf8 19.c3 dxc3 20.d4 a5 21.Qc2 Ne6 22.Nxe6 Rxe6 23.Qxc3 g6
+24.Bb1 axb4 25.axb4 Rxa1 26.Qxa1 Qf8 27.Qb2 Bc8 28.Re3 Re8 29.h4 Kh8 30.h5 g5
+31.Nd2 Bg4 32.Nf1 Bxh5 33.Ng3 Bg6 34.Nf5 Re6 35.Rf3 Bh7 36.Bd3 Qe8 37.g4 Qc6
+38.Qd2 Kg8 39.Kg2 Kf8 40.Ng3 Be4 41.Bxe4 dxe4 42.Re3 Qd5 43.Nf5 Rxe5 44.Kg1 Rxf5
+45.gxf5 Qxf5 46.Qc2 Bxd4 47.Rxe4 Bxf2+ 48.Kg2 Kg7 49.Qc3+ Kg6 50.Re5 Qf4 51.Qd3+
+Kf6 52.Re4 Qf5 53.Qc3+ Kg6 54.Re5 Qf4 55.Qd3+ Kf6 56.Re4 Qf5 57.Qc3+ Kg6 1/2-1/2
+
+[Event "37.Chess Olympiad 2006 general"]
+[Site "Turin, Italia"]
+[Date "2006.06.03"]
+[Round "12"]
+[Board "2"]
+[White "Dominguez Perez, Leinier"]
+[Black "Svidler, Peter"]
+[Result "1-0"]
+[ECO ""]
+[WhiteElo "2647"]
+[BlackElo "2743"]
+[PlyCount "0"]
+[EventDate "2006.05.21"]
+[EventType "team"]
+[EventRounds "13"]
+[EventCountry "ITA"]
+[WhiteTeam "Cuba"]
+[BlackTeam "Russia"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O 9.h3
+Re8 10.d4 Bb7 11.Nbd2 Bf8 12.d5 Nb8 13.Nf1 Nbd7 14.N3h2 Nc5 15.Bc2 a5 16.Ng4
+Nxg4 17.hxg4 Be7 18.Ne3 Bg5 19.b4 axb4 20.cxb4 Na4 21.Qd3 Ba6 22.Bb3 g6 23.Bd2
+Qb8 24.Rac1 Bc8 25.Rc2 Bd7 26.Rec1 Ra7 27.f3 Nb6 28.g3 Rf8 29.Kg2 Qd8 30.Rh1 Qe7
+31.Bc1 Rb7 32.Rf2 Rbb8 33.Kg1 f5 34.exf5 Bxe3 35.Bxe3 gxf5 36.gxf5 Bxf5 37.Qxb5
+Nd7 38.Qc4 Nf6 39.Qh4 Bg6 40.Bg5 e4 41.fxe4 Qxe4 42.Bxf6 Qe1+ 43.Rf1 Qe3+ 44.Kh2
+Qd2+ 45.Kh3 Rxb4 46.Qg5 Qd3 47.Rf2 h6 48.Qxh6 Rxf6 49.Rxf6 Bf5+ 50.Rxf5 Qxf5+
+51.Kg2 Qe4+ 52.Kf2 Qf5+ 53.Kg1 Qb1+ 54.Kh2 1-0
+
+[Event "37.Chess Olympiad 2006 general"]
+[Site "Turin, Italia"]
+[Date "2006.06.04"]
+[Round "13"]
+[Board "1"]
+[White "Svidler, Peter"]
+[Black "Gelfand, Boris"]
+[Result "1/2-1/2"]
+[ECO ""]
+[WhiteElo "2743"]
+[BlackElo "2727"]
+[PlyCount "0"]
+[EventDate "2006.05.21"]
+[EventType "team"]
+[EventRounds "13"]
+[EventCountry "ITA"]
+[WhiteTeam "Russia"]
+[BlackTeam "Israel"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3 Nc6 7.O-O Be7 8.Nc3 Bf5
+9.Re1 Nxc3 10.bxc3 Bxd3 11.Qxd3 O-O 12.Bf4 Bd6 13.Ng5 g6 14.Qh3 h5 15.Bxd6 Qxd6
+16.Qf3 Qd7 17.Re3 Rae8 18.Rae1 Rxe3 19.Qxe3 Qf5 20.Re2 f6 21.Nf3 Kg7 22.h3 Rf7
+23.Qe8 Rf8 24.Qe3 Rf7 25.Qe8 Rf8 1/2-1/2
+
+[Event "15th European Team Championshi"]
+[Site ""]
+[Date "2005.07.31"]
+[Round "2"]
+[Board "1"]
+[White "Radjabov, Teimour"]
+[Black "Svidler, Peter"]
+[Result "1/2-1/2"]
+[ECO "B41"]
+[WhiteElo "2682"]
+[BlackElo "2738"]
+[PlyCount "93"]
+[EventDate "2005.07.30"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "SWE"]
+[WhiteTeam "Azerbaijan"]
+[BlackTeam "Russia"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.c4 Nf6 6.Nc3 Bb4 7.Bd3 Nc6 8.a3 Bxc3+
+9.bxc3 Qa5 10.O-O O-O 11.Qc2 d6 12.Rb1 Ne5 13.Be2 Qc5 14.Bg5 Ned7 15.Be3 Qc7
+16.f4 b6 17.f5 Nc5 18.Bf3 Bb7 19.fxe6 fxe6 20.e5 dxe5 21.Bxb7 Qxb7 22.Nf3 Qc7
+23.h3 e4 24.Nd4 Nfd7 25.Qe2 Qg3 26.Nc6 Qd6 27.Nd4 Rf6 28.Rbd1 Raf8 29.Rxf6 Nxf6
+30.Nb3 Nd3 31.c5 Qg3 32.Nd2 bxc5 33.Nxe4 Nxe4 34.Qxd3 Qe5 35.c4 h5 36.Re1 Qg3
+37.Rd1 Qh4 38.Qd7 Qf6 39.Qd3 Qf5 40.Rf1 Qxf1+ 41.Qxf1 Rxf1+ 42.Kxf1 Kf7 43.Ke2
+Kf6 44.Kd3 Ke5 45.Bg1 h4 46.Be3 Kf5 47.Bg1 1/2-1/2
+
+[Event "15th European Team Championshi"]
+[Site ""]
+[Date "2005.08.01"]
+[Round "3"]
+[Board "1"]
+[White "Svidler, Peter"]
+[Black "Bacrot, Etienne"]
+[Result "1/2-1/2"]
+[ECO "C91"]
+[WhiteElo "2738"]
+[BlackElo "2729"]
+[PlyCount "43"]
+[EventDate "2005.07.30"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "SWE"]
+[WhiteTeam "Russia"]
+[BlackTeam "France"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O 9.d4
+Bg4 10.Be3 exd4 11.cxd4 Na5 12.Bc2 c5 13.h3 Bxf3 14.Qxf3 cxd4 15.Bxd4 Rc8 16.Bb3
+Nc6 17.Qd1 d5 18.exd5 Nxd4 19.Qxd4 Bc5 20.Qd3 Qb6 21.Qf3 a5 22.Nc3 1/2-1/2
+
+[Event "15th European Team Championshi"]
+[Site ""]
+[Date "2005.08.02"]
+[Round "4"]
+[Board "1"]
+[White "Svidler, Peter"]
+[Black "McNab, Colin"]
+[Result "1-0"]
+[ECO "B06"]
+[WhiteElo "2738"]
+[BlackElo "2451"]
+[PlyCount "63"]
+[EventDate "2005.07.30"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "SWE"]
+[WhiteTeam "Russia"]
+[BlackTeam "Scotland"]
+
+1.e4 g6 2.d4 d6 3.Nc3 Bg7 4.Be3 a6 5.Nf3 b5 6.Bd3 Bb7 7.e5 Nd7 8.e6 fxe6 9.Ng5
+Nf8 10.O-O h6 11.Bxg6+ Nxg6 12.Nxe6 Qd7 13.Nxg7+ Kf7 14.Nh5 Nf6 15.Nxf6 exf6
+16.Qh5 Rag8 17.d5 Re8 18.Bd4 Bc8 19.f3 Qf5 20.Qxf5 Bxf5 21.g3 Rhg8 22.Kf2 b4
+23.Nd1 Bxc2 24.Ne3 Bd3 25.Rfd1 Bb5 26.Rac1 Rc8 27.Ng4 Rh8 28.Nxf6 Ne7 29.g4 c5
+30.dxc6 Nxc6 31.Ne4 Rhd8 32.Bb6 1-0
+
+[Event "15th European Team Championshi"]
+[Site ""]
+[Date "2005.08.03"]
+[Round "5"]
+[Board "1"]
+[White "Stefansson, Hannes"]
+[Black "Svidler, Peter"]
+[Result "1/2-1/2"]
+[ECO "D79"]
+[WhiteElo "2579"]
+[BlackElo "2738"]
+[PlyCount "16"]
+[EventDate "2005.07.30"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "SWE"]
+[WhiteTeam "Iceland"]
+[BlackTeam "Russia"]
+
+1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.g3 c6 5.Bg2 d5 6.cxd5 cxd5 7.Nc3 O-O 8.O-O Ne4 1/2-1/2
+
+[Event "15th European Team Championshi"]
+[Site ""]
+[Date "2005.08.04"]
+[Round "6"]
+[Board "1"]
+[White "Svidler, Peter"]
+[Black "Van Wely, Loek"]
+[Result "1/2-1/2"]
+[ECO "B42"]
+[WhiteElo "2738"]
+[BlackElo "2655"]
+[PlyCount "114"]
+[EventDate "2005.07.30"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "SWE"]
+[WhiteTeam "Russia"]
+[BlackTeam "Netherlands"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3 Bc5 6.Nb3 Be7 7.Qg4 g6 8.Qe2 d6 9.Nc3
+Nd7 10.Be3 Qc7 11.g4 Ngf6 12.g5 Nh5 13.f4 b5 14.a3 O-O 15.O-O-O Rb8 16.Qd2 Nc5
+17.Kb1 Bb7 18.Rhf1 Rfe8 19.f5 Bf8 20.Bd4 Ba8 21.Rf2 Re7 22.fxe6 Rxe6 23.Rdf1 Re7
+24.Be2 Nxe4 25.Nxe4 Bxe4 26.Bxh5 gxh5 27.Bf6 Ree8 28.Nd4 Qc4 29.Nf5 Bxf5 30.Rxf5
+Re2 31.Qd1 Rbe8 32.Bc3 R8e7 33.R5f4 R2e4 34.Qxd6 Rxf4 35.Qxf4 Qxf4 36.Rxf4 Bg7
+37.Bb4 Re5 38.Rd4 Re1+ 39.Bxe1 Bxd4 40.Bd2 Kf8 41.b3 Ke7 42.c4 bxc4 43.bxc4 Ke6
+44.Kc2 Bc5 45.a4 Be7 46.Kd3 Ke5 47.h3 Bd8 48.Bc1 Be7 49.Be3 Bd8 50.Bd4+ Ke6
+51.h4 Bc7 52.Bf2 Be5 53.Ke4 f5+ 54.gxf6 Bxf6 55.Bg3 h6 56.c5 Bg7 57.c6 Bf6 1/2-1/2
+
+[Event "15th European Team Championshi"]
+[Site ""]
+[Date "2005.08.05"]
+[Round "7"]
+[Board "1"]
+[White "Svidler, Peter"]
+[Black "Almasi, Zoltan"]
+[Result "1-0"]
+[ECO "C66"]
+[WhiteElo "2738"]
+[BlackElo "2619"]
+[PlyCount "97"]
+[EventDate "2005.07.30"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "SWE"]
+[WhiteTeam "Russia"]
+[BlackTeam "Hungary"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.d3 d6 5.O-O Bd7 6.c3 g6 7.Nbd2 Bg7 8.Re1 O-O 9.Ba4
+Qe8 10.Bb3 Nh5 11.Nf1 Nd8 12.d4 Ne6 13.Ng3 Nef4 14.Be3 Qe7 15.Nxh5 Nxh5 16.dxe5
+dxe5 17.Qd5 Bc6 18.Qc4 Nf4 19.Bc5 Qd7 20.Bxf8 Rxf8 21.h3 Bb5 22.Rad1 Qxd1
+23.Rxd1 Bxc4 24.Bxc4 a6 25.a4 b5 26.axb5 axb5 27.Bxb5 Ne6 28.Bc4 Rd8 29.Ra1 Bf8
+30.b4 Kg7 31.Nxe5 Rd2 32.Nf3 Rd6 33.Ra7 Rd1+ 34.Kh2 Nd8 35.e5 Rc1 36.Rxc7 Rxc3
+37.b5 Bb4 38.Rc8 Ba5 39.Ng5 Rc2 40.Ne4 Bb6 41.f4 h5 42.h4 Rc1 43.g3 Rc2+ 44.Kh1
+Kh6 45.Nd6 Rc1+ 46.Kg2 Kg7 47.Rb8 Rc2+ 48.Kf1 Ba5 49.Bxf7 1-0
+
+[Event "15th European Team Championshi"]
+[Site ""]
+[Date "2005.08.06"]
+[Round "8"]
+[Board "1"]
+[White "Rozentalis, Eduardas"]
+[Black "Svidler, Peter"]
+[Result "1/2-1/2"]
+[ECO "B31"]
+[WhiteElo "2567"]
+[BlackElo "2738"]
+[PlyCount "33"]
+[EventDate "2005.07.30"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "SWE"]
+[WhiteTeam "Lithuania"]
+[BlackTeam "Russia"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.O-O Bg7 5.Re1 e5 6.Bxc6 dxc6 7.d3 Qe7 8.a3 Nf6 9.b4
+O-O 10.Nbd2 Nd7 11.bxc5 Qxc5 12.a4 b5 13.Nb3 Qd6 14.axb5 cxb5 15.Qd2 Re8 16.Ba3
+Qc7 17.Bb4 1/2-1/2
+
+[Event "15th European Team Championshi"]
+[Site ""]
+[Date "2005.08.07"]
+[Round "9"]
+[Board "1"]
+[White "Agrest, Evgenij"]
+[Black "Svidler, Peter"]
+[Result "0-1"]
+[ECO "E61"]
+[WhiteElo "2592"]
+[BlackElo "2738"]
+[PlyCount "98"]
+[EventDate "2005.07.30"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "SWE"]
+[WhiteTeam "Sweden 1"]
+[BlackTeam "Russia"]
+
+1.d4 g6 2.c4 Bg7 3.Nf3 Nf6 4.Nc3 O-O 5.Bg5 c5 6.d5 d6 7.e3 h6 8.Bh4 a6 9.Nd2
+Nbd7 10.a4 Qb6 11.Ra3 Re8 12.Be2 e6 13.O-O exd5 14.cxd5 Ne5 15.Bg3 Qc7 16.h3 g5
+17.f4 gxf4 18.exf4 Ng6 19.f5 Ne7 20.Bd3 Nexd5 21.Nxd5 Nxd5 22.Nc4 Qc6 23.f6 Nxf6
+24.Nxd6 Be6 25.Nxe8 Rxe8 26.Bh4 Bd5 27.Bc2 Ne4 28.Raf3 Ng5 29.Rg3 Re5 30.Bxg5
+hxg5 31.Qh5 Qh6 32.Qg4 c4 33.Qc8+ Bf8 34.Qd8 Kg7 35.a5 Be7 36.Qc8 Qe6 37.Qxe6
+Bxe6 38.b3 Rxa5 39.bxc4 Bxc4 40.Bd3 Be6 41.Be4 b5 42.Rb1 b4 43.Bc2 Ra2 44.Bb3
+Ra3 45.Kf2 a5 46.Rf3 Rxb3 47.Rfxb3 Bxb3 48.Rxb3 a4 49.Rb1 a3 0-1
+
+[Event "Dortmund 2005"]
+[Site "Dortmund (GER)"]
+[Date "2005.07.08"]
+[Round "1"]
+[Board "4"]
+[White "Kramnik, Vladimir"]
+[Black "Svidler, Peter"]
+[Result "1/2-1/2"]
+[ECO "B44"]
+[WhiteElo "2744"]
+[BlackElo "2738"]
+[PlyCount "0"]
+[EventDate "2005.07.08"]
+[EventRounds "9"]
+[EventCountry "GER"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nb5 d6 6.c4 Nf6 7.N1c3 a6 8.Na3 Be7
+9.Be2 O-O 10.O-O b6 11.Be3 Ne5 12.f3 Bb7 13.Qd4 Ned7 14.Rfd1 Re8 15.Qd2 Rc8
+16.Rac1 Qc7 17.Kh1 Qb8 18.Nc2 Bd8 19.Qe1 d5 20.cxd5 exd5 21.exd5 b5 22.Qf2 Qd6
+23.a3 Nb6 24.Nb4 Nfxd5 25.Ncxd5 1/2-1/2
+
+[Event "Dortmund 2005"]
+[Site "Dortmund (GER)"]
+[Date "2005.07.09"]
+[Round "2"]
+[Board "2"]
+[White "Svidler, Peter"]
+[Black "Nielsen, Peter Heine"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "2738"]
+[BlackElo "2668"]
+[PlyCount "0"]
+[EventDate "2005.07.08"]
+[EventRounds "9"]
+[EventCountry "GER"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3 Nc6 7.O-O Be7 8.Re1 Bg4
+9.c3 f5 10.Qb3 O-O 11.Nbd2 Na5 12.Qc2 Nc6 13.b4 a6 14.a4 Bd6 15.Ba3 Kh8 16.Qb2
+Re8 17.b5 axb5 18.Bxb5 Qf6 19.Bxd6 cxd6 20.a5 Reb8 21.Ra4 Qd8 22.Rea1 Nxa5
+23.Qa3 Bxf3 24.Nxf3 Nc4 25.Bxc4 Rxa4 26.Qxa4 dxc4 27.Qxc4 Qc8 28.Qf7 Qxc3 29.Rf1
+Qc8 30.Nh4 Qf8 31.Qxf5 Qxf5 32.Nxf5 b5 33.f3 Nc3 34.Nxd6 Ne2+ 35.Kf2 Nxd4 36.Ke3
+Ne6 37.Rb1 b4 38.Ne4 g5 39.g3 Kg7 40.Kd3 Rd8+ 41.Ke3 Rb8 42.Kd3 Rd8+ 43.Ke3 Rb8 1/2-1/2
+
+[Event "Dortmund 2005"]
+[Site "Dortmund (GER)"]
+[Date "2005.07.10"]
+[Round "3"]
+[Board "5"]
+[White "Bacrot, Etienne"]
+[Black "Svidler, Peter"]
+[Result "1/2-1/2"]
+[ECO "A40"]
+[WhiteElo "2729"]
+[BlackElo "2738"]
+[PlyCount "0"]
+[EventDate "2005.07.08"]
+[EventRounds "9"]
+[EventCountry "GER"]
+
+1.d4 g6 2.c4 Bg7 3.e4 Nc6 4.Nf3 d6 5.h3 Nf6 6.d5 Ne5 7.Nxe5 dxe5 8.Nc3 O-O 9.Be3
+e6 10.Bc5 Re8 11.Be2 b6 12.Be3 Bb7 13.O-O exd5 14.cxd5 c6 15.dxc6 Bxc6 16.Qxd8
+Rexd8 17.f3 Bf8 18.Rfd1 Bb7 19.Kf2 Kg7 20.a4 Rxd1 21.Rxd1 Rc8 22.g4 h6 23.h4 Be7
+24.Nb5 Bc5 25.Rd2 Bb4 26.Rd3 Rc2 27.Rb3 a5 28.Kf1 Nd7 29.Na3 Rc8 30.Nc4 Bc6
+31.Rd3 Bxa4 32.b3 Bb5 33.Rd5 Bc6 34.Rd1 Rb8 35.Rc1 Bb5 36.Kf2 Bxc4 37.Bxc4 Bc5
+38.Rd1 Bxe3+ 1/2-1/2
+
+[Event "Dortmund 2005"]
+[Site "Dortmund (GER)"]
+[Date "2005.07.11"]
+[Round "4"]
+[Board "1"]
+[White "Van Wely, Loek"]
+[Black "Svidler, Peter"]
+[Result "1/2-1/2"]
+[ECO "D88"]
+[WhiteElo "2655"]
+[BlackElo "2738"]
+[PlyCount "0"]
+[EventDate "2005.07.08"]
+[EventRounds "9"]
+[EventCountry "GER"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Bc4 c5 8.Ne2 Nc6
+9.Be3 O-O 10.O-O Na5 11.Bd3 cxd4 12.cxd4 b6 13.Qd2 Bb7 14.Rad1 Rc8 15.d5 Nc4
+16.Bxc4 Rxc4 17.Bd4 Qd6 18.Bxg7 Kxg7 19.Nd4 Qb4 20.Qe3 Rfc8 21.h4 Kg8 22.h5 Qc3
+23.Rd3 Qb2 24.h6 Rc3 25.Nc6 Rxd3 26.Qxd3 Kf8 27.a4 Bxc6 28.dxc6 Qf6 29.Rc1 Qd6
+30.Qc3 e5 31.c7 Ke7 32.g3 a6 33.Kg2 b5 34.axb5 axb5 35.Qa5 g5 36.Qa7 Kd7 37.Qa1
+Ke7 38.Qa7 Kd7 39.Qb7 Rxc7 40.Qxb5+ Ke7 41.Ra1 Qc5 42.Qb8 Qc6 43.Re1 g4 44.Qh8
+Qf6 45.Qxh7 Qf3+ 46.Kg1 Rc2 47.Rf1 Rxf2 48.Rxf2 Qxg3+ 49.Kf1 Qd3+ 50.Re2 Qd1+
+51.Kf2 g3+ 52.Kxg3 1/2-1/2
+
+[Event "Dortmund 2005"]
+[Site "Dortmund (GER)"]
+[Date "2005.07.12"]
+[Round "5"]
+[Board "5"]
+[White "Svidler, Peter"]
+[Black "Sutovsky, Emil"]
+[Result "1/2-1/2"]
+[ECO "B31"]
+[WhiteElo "2738"]
+[BlackElo "2674"]
+[PlyCount "0"]
+[EventDate "2005.07.08"]
+[EventRounds "9"]
+[EventCountry "GER"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.Bxc6 bxc6 5.O-O Bg7 6.Re1 Nf6 7.e5 Nd5 8.c4 Nc7
+9.d4 cxd4 10.Qxd4 O-O 11.Qh4 f6 12.exf6 exf6 13.Qd4 Ne6 14.Qd6 f5 15.Nbd2 c5
+16.Nf1 Bb7 17.Qd1 Rb8 18.Ne3 Bxf3 19.Qxf3 Nd4 20.Qd5+ Kh8 21.Qxc5 f4 22.Nd5 Qg5
+23.Qe7 Nf3+ 24.Kh1 Qh5 25.gxf3 Qxf3+ 26.Kg1 Qg4+ 27.Kh1 Qf3+ 28.Kg1 Qg4+ 29.Kh1
+Qf3+ 1/2-1/2
+
+[Event "Dortmund 2005"]
+[Site "Dortmund (GER)"]
+[Date "2005.07.14"]
+[Round "6"]
+[Board "2"]
+[White "Topalov, Veselin"]
+[Black "Svidler, Peter"]
+[Result "1/2-1/2"]
+[ECO "B46"]
+[WhiteElo "2788"]
+[BlackElo "2738"]
+[PlyCount "0"]
+[EventDate "2005.07.08"]
+[EventRounds "9"]
+[EventCountry "GER"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e6 5.Nc3 a6 6.Nxc6 bxc6 7.Bd3 d5 8.O-O Qc7
+9.Re1 Bb7 10.Qf3 Bd6 11.e5 Bf8 12.Ne2 Ne7 13.Nf4 g6 14.c4 Bg7 15.Qe2 O-O 16.Bd2
+dxc4 17.Bxc4 c5 18.Rac1 Rfd8 19.Nd3 Nf5 20.f3 Rd4 21.Bg5 a5 22.Qf2 h5 23.b3 Qb6
+24.a4 Rc8 25.Rc3 Bd5 26.Bb5 Qb8 27.Qb2 c4 28.bxc4 Rxd3 29.Rxd3 Rxc4 30.Qd2 Rb4
+31.f4 Bf8 32.Kh1 Qb6 33.Rc1 Nd4 34.Qf2 Qa7 35.Be8 Bc5 36.Rdc3 Nb3 37.Rxc5 Nxc1
+38.Bxf7+ Kxf7 39.Rxd5 Qxf2 40.Rd7+ 1/2-1/2
+
+[Event "Dortmund 2005"]
+[Site "Dortmund (GER)"]
+[Date "2005.07.15"]
+[Round "7"]
+[Board "4"]
+[White "Svidler, Peter"]
+[Black "Leko, Peter"]
+[Result "1-0"]
+[ECO "B31"]
+[WhiteElo "2738"]
+[BlackElo "2763"]
+[PlyCount "0"]
+[EventDate "2005.07.08"]
+[EventRounds "9"]
+[EventCountry "GER"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.Bxc6 dxc6 5.d3 Bg7 6.h3 Nf6 7.Nc3 Nd7 8.Be3 e5
+9.Qd2 h6 10.O-O Qe7 11.Nh2 Nf8 12.f4 exf4 13.Rxf4 Ne6 14.Rf2 Nd4 15.Raf1 Be6
+16.Ng4 O-O-O 17.Nxh6 f6 18.Nd1 Rh7 19.c3 Nb5 20.Rf3 c4 21.Ng4 Rxd3 22.Qe2 Bxg4
+23.hxg4 Qe5 24.Bf4 Qc5+ 25.Nf2 Bh6 26.Bxh6 Rxh6 27.Rxd3 cxd3 28.Qxd3 Rh8 29.Rd1
+Qe7 30.e5 fxe5 31.Qxg6 Kb8 32.g5 Nc7 33.Qf6 Qe8 34.Rd7 Kc8 35.Re7 Qd8 36.Qf5+
+Kb8 37.Qxe5 Rg8 38.Ne4 Qd1+ 39.Kh2 Qh5+ 40.Kg3 Rc8 41.Nf6 1-0
+
+[Event "Dortmund 2005"]
+[Site "Dortmund (GER)"]
+[Date "2005.07.16"]
+[Round "8"]
+[Board "3"]
+[White "Adams, Michael"]
+[Black "Svidler, Peter"]
+[Result "1/2-1/2"]
+[ECO "B46"]
+[WhiteElo "2719"]
+[BlackElo "2738"]
+[PlyCount "0"]
+[EventDate "2005.07.08"]
+[EventRounds "9"]
+[EventCountry "GER"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 a6 6.Nxc6 bxc6 7.Bd3 d5 8.O-O Nf6
+9.Re1 Be7 10.e5 Nd7 11.Qg4 g6 12.b3 c5 13.Na4 c4 14.Bf1 Bb7 15.Bd2 Bc6 16.Nb2
+Qb8 17.Qg3 O-O 18.Rab1 cxb3 19.axb3 Nc5 20.f3 1/2-1/2
+
+[Event "Dortmund 2005"]
+[Site "Dortmund (GER)"]
+[Date "2005.07.17"]
+[Round "9"]
+[Board "3"]
+[White "Svidler, Peter"]
+[Black "Naiditsch, Arkadij"]
+[Result "1/2-1/2"]
+[ECO "C88"]
+[WhiteElo "2738"]
+[BlackElo "2612"]
+[PlyCount "0"]
+[EventDate "2005.07.08"]
+[EventRounds "9"]
+[EventCountry "GER"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.d4 Nxd4
+9.Nxd4 exd4 10.e5 Ne8 11.Qxd4 Bb7 12.Qg4 c5 13.c3 d6 14.exd6 Bxd6 15.Bg5 Nf6
+16.Qh4 h6 17.Bxf6 Qxf6 18.Qxf6 gxf6 19.Nd2 Rfe8 20.Bc2 Rad8 21.Ne4 1/2-1/2
+
+[Event "Corus Wijk aan Zee A"]
+[Site "Wijk aan Zee A (Holland)"]
+[Date "2005.01.15"]
+[Round "1"]
+[Board "2"]
+[White "Polgar, Judit"]
+[Black "Svidler, Peter"]
+[Result "1-0"]
+[ECO "C89"]
+[WhiteElo "2728"]
+[BlackElo "2735"]
+[PlyCount "0"]
+[EventDate "2005.01.15"]
+[EventRounds "13"]
+[EventCountry "NED"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d5 9.exd5
+Nxd5 10.Nxe5 Nxe5 11.Rxe5 c6 12.g3 Bd6 13.Re1 Qd7 14.d3 Qh3 15.Re4 Nf6 16.Rh4
+Qf5 17.Nd2 Re8 18.Ne4 Nxe4 19.Rxe4 Rxe4 20.dxe4 Qxe4 21.Bc2 Qe7 22.Bg5 f6 23.Be3
+Be6 24.Qf3 Qd7 25.Rd1 Rd8 26.Be4 Bxa2 27.Bb6 Bb3 28.Rd4 c5 29.Bxc5 Qe6 30.c4 1-0
+
+[Event "Corus Wijk aan Zee A"]
+[Site "Wijk aan Zee A (Holland)"]
+[Date "2005.01.16"]
+[Round "2"]
+[Board "7"]
+[White "Svidler, Peter"]
+[Black "Sokolov, Ivan"]
+[Result "1/2-1/2"]
+[ECO "C80"]
+[WhiteElo "2735"]
+[BlackElo "2685"]
+[PlyCount "0"]
+[EventDate "2005.01.15"]
+[EventRounds "13"]
+[EventCountry "NED"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.dxe5 Be6
+9.Nbd2 Nc5 10.c3 d4 11.Bxe6 Nxe6 12.cxd4 Ncxd4 13.a4 Bb4 14.axb5 Nxb5 15.Qa4 Be7
+16.Ne4 O-O 17.Rd1 Qc8 18.Bg5 Nxg5 19.Nexg5 h6 20.Ne4 Qe6 21.h3 c5 22.Rac1 Rac8
+23.Qc4 Rc7 24.Qxe6 fxe6 25.Ra1 Ra8 26.Ra5 Rc6 27.Rd7 Ra7 28.Rxa7 Nxa7 29.Nfd2
+Rb6 30.Nc4 Nc6 31.Nxb6 Nxa5 32.Nc8 Bf8 33.Ncd6 Nb3 34.Kf1 Bxd6 35.exd6 Kf7
+36.Ke2 c4 37.Kd1 Nd4 38.Nc5 e5 39.Kd2 Nb5 40.d7 Ke7 41.f3 g5 42.Kc2 Kd8 43.Kd2 1/2-1/2
+
+[Event "Corus Wijk aan Zee A"]
+[Site "Wijk aan Zee A (Holland)"]
+[Date "2005.01.17"]
+[Round "3"]
+[Board "1"]
+[White "Leko, Peter"]
+[Black "Svidler, Peter"]
+[Result "1-0"]
+[ECO "B90"]
+[WhiteElo "2749"]
+[BlackElo "2735"]
+[PlyCount "0"]
+[EventDate "2005.01.15"]
+[EventRounds "13"]
+[EventCountry "NED"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f3 e5 7.Nb3 Be6 8.Be3 Be7 9.Qd2
+O-O 10.O-O-O Nbd7 11.g4 Qc7 12.Kb1 b5 13.g5 Nh5 14.Nd5 Bxd5 15.exd5 Nb6 16.Rg1
+Rab8 17.Rg4 g6 18.h4 Ng7 19.Bxb6 Qxb6 20.Na5 Rfc8 21.Nc6 Rxc6 22.dxc6 Nf5 23.Re4
+Qxc6 24.Bg2 Rd8 25.f4 Qc5 26.Qe1 Rc8 27.c3 b4 28.Rxb4 Ne3 29.Rd2 a5 30.Re4 Nc4
+31.Rxc4 Qxc4 32.fxe5 Qe6 33.Re2 d5 34.Qf1 Qa6 35.Rd2 Qc4 36.Rd4 Qxf1+ 37.Bxf1
+Rd8 38.b4 axb4 39.cxb4 Bf8 40.Bg2 Re8 41.Bxd5 Rxe5 42.a4 Kg7 43.Bb3 h6 44.gxh6+
+Kxh6 45.Bxf7 g5 46.h5 Re7 47.Bg6 Ra7 48.b5 Bc5 49.Rc4 Bf2 50.Kc2 Re7 51.Kb3 Re5
+52.Re4 Rc5 53.Kb4 Rc1 54.Ka5 Rg1 55.b6 g4 56.b7 Rb1 57.Re2 1-0
+
+[Event "Corus Wijk aan Zee A"]
+[Site "Wijk aan Zee A (Holland)"]
+[Date "2005.01.18"]
+[Round "4"]
+[Board "1"]
+[White "Anand, Viswanathan"]
+[Black "Svidler, Peter"]
+[Result "1/2-1/2"]
+[ECO "C99"]
+[WhiteElo "2786"]
+[BlackElo "2735"]
+[PlyCount "0"]
+[EventDate "2005.01.15"]
+[EventRounds "13"]
+[EventCountry "NED"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6 9.h3
+Na5 10.Bc2 c5 11.d4 Qc7 12.Nbd2 cxd4 13.cxd4 Nc6 14.a3 exd4 15.Nb3 d3 16.Bxd3
+Ne5 17.Bf4 Nxd3 18.Qxd3 Re8 19.Rac1 Qb6 20.Be3 Qb7 21.Bd2 Bd8 22.Qxd6 Bb6 23.Ba5
+Bxf2+ 24.Kxf2 Nxe4+ 25.Rxe4 Qxe4 26.Qd2 Qg6 27.Nc5 Bf5 28.Qg5 Qxg5 29.Nxg5 Re5
+30.Nf3 Rd5 31.Rc3 h5 32.Kg3 f6 33.Kh2 Kf7 34.Nh4 Bh7 35.Nb3 Re8 36.Bb4 g5 37.Nf3
+Be4 38.Rc7+ Kg6 39.Nfd4 Rde5 40.Nc5 Bd5 41.Bc3 h4 42.Nxa6 Re2 43.Nxe2 Rxe2
+44.Kg1 Bxg2 45.Nc5 Bxh3 46.Rc6 Rg2+ 47.Kh1 Rf2 48.Rd6 g4 49.Ne4 Rf4 50.Rxf6+
+Rxf6 51.Nxf6 g3 52.Nd5 Bd7 53.Kg1 h3 54.Be5 h2+ 55.Kg2 Bc6 1/2-1/2
+
+[Event "Corus Wijk aan Zee A"]
+[Site "Wijk aan Zee A (Holland)"]
+[Date "2005.01.20"]
+[Round "5"]
+[Board "5"]
+[White "Svidler, Peter"]
+[Black "Ponomariov, Ruslan"]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[WhiteElo "2735"]
+[BlackElo "2700"]
+[PlyCount "0"]
+[EventDate "2005.01.15"]
+[EventRounds "13"]
+[EventCountry "NED"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 Ng4 7.Bg5 h6 8.Bc1 Nf6
+9.Bc4 e6 10.Bb3 Nc6 11.Be3 Be7 12.f4 O-O 13.Qf3 Nxd4 14.Bxd4 b5 15.Bxf6 Bxf6
+16.e5 Bh4+ 17.g3 Rb8 18.O-O-O Be7 19.exd6 Bxd6 20.Ne4 Bb7 21.Qe3 Bxe4 22.Qxe4
+Rb6 23.h4 1/2-1/2
+
+[Event "Corus Wijk aan Zee A"]
+[Site "Wijk aan Zee A (Holland)"]
+[Date "2005.01.21"]
+[Round "6"]
+[Board "4"]
+[White "Kramnik, Vladimir"]
+[Black "Svidler, Peter"]
+[Result "1-0"]
+[ECO "B41"]
+[WhiteElo "2754"]
+[BlackElo "2735"]
+[PlyCount "0"]
+[EventDate "2005.01.15"]
+[EventRounds "13"]
+[EventCountry "NED"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.c4 Nf6 6.Nc3 Bb4 7.Bd3 Nc6 8.a3 Bxc3+
+9.bxc3 d6 10.O-O Ne5 11.f4 Nxd3 12.Qxd3 e5 13.fxe5 dxe5 14.Bg5 h6 15.Bh4 exd4
+16.e5 dxc3 17.Qxd8+ Kxd8 18.exf6 g5 19.Bg3 Be6 20.Rac1 Bxc4 21.Rfe1 Kd7 22.Re7+
+Kc6 23.Rc7+ Kd5 24.Rd1+ Ke6 25.Rxc4 Rac8 26.Bc7 Kxf6 27.Rxc3 Rhe8 28.Rf3+ 1-0
+
+[Event "Corus Wijk aan Zee A"]
+[Site "Wijk aan Zee A (Holland)"]
+[Date "2005.01.22"]
+[Round "7"]
+[Board "6"]
+[White "Svidler, Peter"]
+[Black "Van Wely, Loek"]
+[Result "1-0"]
+[ECO "B30"]
+[WhiteElo "2735"]
+[BlackElo "2679"]
+[PlyCount "0"]
+[EventDate "2005.01.15"]
+[EventRounds "13"]
+[EventCountry "NED"]
+
+1.e4 c5 2.Nf3 Nc6 3.Nc3 e5 4.Bc4 Be7 5.d3 d6 6.Nd2 Bg5 7.h4 Bxd2+ 8.Bxd2 Nf6
+9.O-O Bg4 10.Qe1 Be6 11.f4 Bxc4 12.dxc4 h5 13.fxe5 dxe5 14.Bg5 Ne7 15.Rd1 Qb6
+16.Qg3 Ng6 17.Bxf6 gxf6 18.Nd5 Qxb2 19.Nxf6+ Kf8 20.Nxh5 1-0
+
+[Event "Corus Wijk aan Zee A"]
+[Site "Wijk aan Zee A (Holland)"]
+[Date "2005.01.23"]
+[Round "8"]
+[Board "3"]
+[White "Adams, Michael"]
+[Black "Svidler, Peter"]
+[Result "1/2-1/2"]
+[ECO "B85"]
+[WhiteElo "2741"]
+[BlackElo "2735"]
+[PlyCount "0"]
+[EventDate "2005.01.15"]
+[EventRounds "13"]
+[EventCountry "NED"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e6 7.Be2 Be7 8.O-O Nc6 9.a4
+O-O 10.f4 Qc7 11.Kh1 Re8 12.Bf3 Bf8 13.Nde2 Rb8 14.Qe1 Nd7 15.Qf2 b5 16.axb5
+axb5 17.e5 dxe5 18.Bxc6 Qxc6 19.fxe5 Nxe5 20.Bd4 Ng6 21.Qxf7+ 1/2-1/2
+
+[Event "Corus Wijk aan Zee A"]
+[Site "Wijk aan Zee A (Holland)"]
+[Date "2005.01.25"]
+[Round "9"]
+[Board "6"]
+[White "Svidler, Peter"]
+[Black "Grischuk, Alexander"]
+[Result "1-0"]
+[ECO "B31"]
+[WhiteElo "2735"]
+[BlackElo "2710"]
+[PlyCount "0"]
+[EventDate "2005.01.15"]
+[EventRounds "13"]
+[EventCountry "NED"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.Bxc6 dxc6 5.d3 Bg7 6.h3 Nf6 7.Nc3 Nd7 8.Be3 e5
+9.Qd2 h6 10.O-O Qe7 11.Nh2 Nf8 12.f4 exf4 13.Rxf4 Be6 14.Rf2 O-O-O 15.Raf1 Nd7
+16.Ne2 f6 17.Qa5 Kb8 18.b4 f5 19.bxc5 fxe4 20.d4 Bc4 21.Qa4 Bxe2 22.Rxe2 Qe6
+23.c4 Ka8 24.Rb1 Nb8 25.Rd2 Qf7 26.Ng4 Rd7 27.Qb3 Rhd8 28.Rbd1 g5 29.Nf2 Qf5
+30.d5 h5 31.dxc6 Nxc6 32.Rd5 Be5 33.Qb1 g4 34.hxg4 hxg4 35.Qxe4 Qf7 36.Nxg4 Bb8
+37.Bg5 Re8 38.Rxd7 Qxd7 39.Rxd7 Rxe4 40.Ne3 a5 41.Kf1 Re8 42.a4 Ka7 43.g4 Rg8
+44.Bh6 Rg6 45.Rh7 Be5 46.Kg2 Bd4 47.Kh3 Bxc5 48.Bf4 Re6 49.Nd5 Re4 50.g5 Ne7
+51.Kg4 Nxd5 52.cxd5 Rxa4 53.g6 Bd6 54.Rf7 Be5 55.Kg5 Bb2 56.d6 Rd4 57.Be3 1-0
+
+[Event "Corus Wijk aan Zee A"]
+[Site "Wijk aan Zee A (Holland)"]
+[Date "2005.01.26"]
+[Round "10"]
+[Board "6"]
+[White "Short, Nigel D"]
+[Black "Svidler, Peter"]
+[Result "1/2-1/2"]
+[ECO "B92"]
+[WhiteElo "2674"]
+[BlackElo "2735"]
+[PlyCount "0"]
+[EventDate "2005.01.15"]
+[EventRounds "13"]
+[EventCountry "NED"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e5 7.Nb3 Be7 8.O-O O-O
+9.Kh1 Nc6 10.f3 Be6 11.Nd5 a5 12.Nxe7+ Qxe7 13.Bg5 h6 14.Bh4 a4 15.Nd2 d5
+16.exd5 Bxd5 17.Bd3 a3 18.b3 Nb4 19.Qe2 Qe6 20.Bxf6 Qxf6 21.Be4 Bxe4 22.Nxe4 Qb6
+23.c3 Nd5 24.c4 Nf4 25.Qf2 Qxf2 26.Rxf2 Rfd8 27.g3 Nd3 28.Re2 f6 29.Kg2 Nb4
+30.Nc3 Rd3 31.Nb5 Nc6 32.Rae1 Nd4 33.Nxd4 Rxd4 34.Kf2 Rad8 35.Rc1 Kf7 36.Rc3 1/2-1/2
+
+[Event "Corus Wijk aan Zee A"]
+[Site "Wijk aan Zee A (Holland)"]
+[Date "2005.01.28"]
+[Round "11"]
+[Board "6"]
+[White "Svidler, Peter"]
+[Black "Morozevich, Alexander"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+[WhiteElo "2735"]
+[BlackElo "2741"]
+[PlyCount "0"]
+[EventDate "2005.01.15"]
+[EventRounds "13"]
+[EventCountry "NED"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Be7 6.Qe2 Nd6 7.Bxc6 dxc6 8.dxe5 Nf5
+9.Rd1 Bd7 10.e6 fxe6 11.Ne5 Bd6 12.Qh5+ g6 13.Nxg6 Ng7 14.Qh6 Nf5 15.Qh3 Rg8
+16.Qxh7 Rg7 17.Qh5 Qf6 18.Ne5+ Ke7 19.Ng4 Qg6 20.Qxg6 Rxg6 21.h3 e5 22.Nd2 Nd4
+23.c3 Nc2 24.Rb1 Bxg4 25.hxg4 Rxg4 26.Nf1 Rf8 27.b4 a5 28.Rb2 Na3 29.Ne3 Rgf4
+30.bxa5 Ra4 31.Rxb7 Ke6 32.Rd2 Ra8 33.Bxa3 Rxa3 34.Rb3 R3xa5 35.Rbb2 Rc5 36.Rbc2
+Ra3 37.Nd1 Rd5 38.g3 Be7 39.c4 1/2-1/2
+
+[Event "Corus Wijk aan Zee A"]
+[Site "Wijk aan Zee A (Holland)"]
+[Date "2005.01.29"]
+[Round "12"]
+[Board "5"]
+[White "Bruzon, Lazaro"]
+[Black "Svidler, Peter"]
+[Result "1/2-1/2"]
+[ECO "B45"]
+[WhiteElo "2652"]
+[BlackElo "2735"]
+[PlyCount "0"]
+[EventDate "2005.01.15"]
+[EventRounds "13"]
+[EventCountry "NED"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 d6 6.g3 Nf6 7.Bg2 Bd7 8.O-O a6
+9.Nxc6 Bxc6 10.a4 Be7 11.a5 O-O 12.Be3 Nd7 13.Re1 Qc7 14.Na4 Rae8 15.Nb6 f5
+16.Nxd7 Qxd7 17.Qd3 fxe4 18.Bxe4 Bxe4 19.Qxe4 Rf5 20.Bb6 Bf6 1/2-1/2
+
+[Event "Corus Wijk aan Zee A"]
+[Site "Wijk aan Zee A (Holland)"]
+[Date "2005.01.30"]
+[Round "13"]
+[Board "6"]
+[White "Svidler, Peter"]
+[Black "Topalov, Veselin"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "2735"]
+[BlackElo "2757"]
+[PlyCount "0"]
+[EventDate "2005.01.15"]
+[EventRounds "13"]
+[EventCountry "NED"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3 Nc6 7.O-O Be7 8.c4 Nb4
+9.Be2 O-O 10.Nc3 Bf5 11.a3 Nxc3 12.bxc3 Nc6 13.Re1 Re8 14.Bf4 dxc4 15.Bxc4 Bd6
+16.Rxe8+ Qxe8 17.Qd2 Qd7 18.Bxd6 cxd6 19.Re1 Re8 20.Rxe8+ Qxe8 21.Qf4 Qd7 22.Nh4
+Bc2 23.Qd2 Bf5 24.Qf4 1/2-1/2
+
+[Event "36th Chess Olympiad 2004"]
+[Site "Calvia, Mallorca (Spain)"]
+[Date "2004.10.20"]
+[Round "6"]
+[Board "2"]
+[White "Svidler, Peter"]
+[Black "Sutovsky, Emil"]
+[Result "1-0"]
+[ECO "B90"]
+[WhiteElo "2735"]
+[BlackElo "2697"]
+[PlyCount "61"]
+[EventDate "2004.10.14"]
+[EventType "team"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[WhiteTeam "Russia"]
+[BlackTeam "Israel"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f3 e5 7.Nb3 Be6 8.Be3 Nbd7
+9.Qd2 b5 10.O-O-O Be7 11.g4 b4 12.Ne2 a5 13.Kb1 h6 14.Ng3 a4 15.Nc1 d5 16.Nf5
+Bxf5 17.gxf5 d4 18.Bf2 O-O 19.Rg1 Kh8 20.Bb5 Nc5 21.Nd3 a3 22.Nxe5 axb2 23.Bxd4
+Rxa2 24.Kxa2 Qa5+ 25.Kxb2 Qxb5 26.Rxg7 Kxg7 27.Ng4 Rh8 28.Nxf6 Bxf6 29.Rg1+ Kh7
+30.Bxf6 Na4+ 31.Kc1 1-0
+
+[Event "36th Chess Olympiad 2004"]
+[Site "Calvia, Mallorca (Spain)"]
+[Date "2004.10.22"]
+[Round "7"]
+[Board "2"]
+[White "Delchev, Aleksander"]
+[Black "Svidler, Peter"]
+[Result "1/2-1/2"]
+[ECO "B51"]
+[WhiteElo "2601"]
+[BlackElo "2735"]
+[PlyCount "61"]
+[EventDate "2004.10.14"]
+[EventType "team"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[WhiteTeam "Bulgaria"]
+[BlackTeam "Russia"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nd7 4.c3 Ngf6 5.Qe2 a6 6.Ba4 b5 7.Bc2 e5 8.d4 Be7 9.O-O
+O-O 10.Rd1 Qc7 11.a4 Bb7 12.dxe5 dxe5 13.axb5 axb5 14.Rxa8 Rxa8 15.Na3 b4 16.Nc4
+h6 17.Bd2 Bf8 18.h3 Bc6 19.Rc1 Qb8 20.Bd3 Bb7 21.Be1 Nh5 22.g3 Qe8 23.Nh2 Nhf6
+24.Nf3 Qe6 25.h4 Qg4 26.Nfxe5 Nxe5 27.Nxe5 Qxe2 28.Bxe2 Re8 29.Nc4 Nxe4 30.Kf1
+bxc3 31.Bxc3 1/2-1/2
+
+[Event "36th Chess Olympiad 2004"]
+[Site "Calvia, Mallorca (Spain)"]
+[Date "2004.10.23"]
+[Round "8"]
+[Board "2"]
+[White "Aronian, Levon"]
+[Black "Svidler, Peter"]
+[Result "1/2-1/2"]
+[ECO "D73"]
+[WhiteElo "2675"]
+[BlackElo "2735"]
+[PlyCount "97"]
+[EventDate "2004.10.14"]
+[EventType "team"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[WhiteTeam "Armenia"]
+[BlackTeam "Russia"]
+
+1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.g3 c6 5.Bg2 d5 6.Qb3 a5 7.Bf4 a4 8.Qb4 dxc4 9.Qxc4
+O-O 10.O-O Qb6 11.Qc1 Bg4 12.e3 Nd5 13.Nc3 Nd7 14.h3 Bf5 15.a3 Qa5 16.Re1 Nxc3
+17.Qxc3 Qxc3 18.bxc3 e5 19.e4 Be6 20.Be3 Rfd8 21.Reb1 b5 22.Nd2 Rab8 23.d5 cxd5
+24.exd5 Bf5 25.Rb2 Nf6 26.c4 Bd3 27.Rc1 Bf8 28.Rxb5 Rxb5 29.cxb5 Bxb5 30.Bg5 Be7
+31.Rb1 Be8 32.Rb7 Nxd5 33.Bxe7 Nxe7 34.Rxe7 Kf8 35.Rxe5 Rxd2 36.Re3 Rd1+ 37.Kh2
+h5 38.h4 Bd7 39.Be4 Bb5 40.Rc3 Ke7 41.Rc7+ Bd7 42.Kg2 Kd6 43.Rc3 Bb5 44.Kf3 f5
+45.Bc2 Rd2 46.Ke3 Re2+ 47.Kf3 Rd2 48.Ke3 Re2+ 49.Kf3 1/2-1/2
+
+[Event "36th Chess Olympiad 2004"]
+[Site "Calvia, Mallorca (Spain)"]
+[Date "2004.10.24"]
+[Round "9"]
+[Board "2"]
+[White "Svidler, Peter"]
+[Black "Sasikiran, Krishnan"]
+[Result "1/2-1/2"]
+[ECO "C99"]
+[WhiteElo "2735"]
+[BlackElo "2668"]
+[PlyCount "62"]
+[EventDate "2004.10.14"]
+[EventType "team"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[WhiteTeam "Russia"]
+[BlackTeam "India"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O 9.h3
+Na5 10.Bc2 c5 11.d4 Qc7 12.Nbd2 cxd4 13.cxd4 Nc6 14.Nb3 a5 15.Be3 a4 16.Nbd2 Bd7
+17.a3 Rac8 18.Bd3 Na5 19.Qe2 Qb8 20.Reb1 h6 21.b4 axb3 22.Nxb3 Nc4 23.Nbd2 Qa8
+24.dxe5 dxe5 25.Nxc4 bxc4 26.Bxc4 Qxe4 27.Ba6 Rc3 28.Bb7 Qa4 29.Nxe5 Rxa3
+30.Rxa3 Bxa3 31.Nxd7 Qxd7 1/2-1/2
+
+[Event "36th Chess Olympiad 2004"]
+[Site "Calvia, Mallorca (Spain)"]
+[Date "2004.10.25"]
+[Round "10"]
+[Board "1"]
+[White "Svidler, Peter"]
+[Black "Lautier, Joel"]
+[Result "1-0"]
+[ECO "B83"]
+[WhiteElo "2735"]
+[BlackElo "2682"]
+[PlyCount "125"]
+[EventDate "2004.10.14"]
+[EventType "team"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[WhiteTeam "Russia"]
+[BlackTeam "France"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 a6 6.Be2 d6 7.Be3 Nf6 8.f4 Be7 9.Qd2
+O-O 10.O-O-O Nd7 11.Bf3 Rb8 12.Nce2 Qa5 13.Nxc6 Qxd2+ 14.Rxd2 bxc6 15.Rhd1 Nb6
+16.Bxb6 Rxb6 17.Rxd6 Bxd6 18.Rxd6 e5 19.fxe5 Re8 20.Nd4 Kf8 21.e6 Bxe6 22.e5 Bc4
+23.b3 Bf1 24.Nxc6 g5 25.a4 g4 26.Bd5 Rxe5 27.Rd8+ Re8 28.Rd7 Re1+ 29.Kb2 Rd1
+30.Rxf7+ Ke8 31.Re7+ Kf8 32.Re5 Rd2 33.Kc1 Rf2 34.Rg5 Ke8 35.Rxg4 Kd7 36.Ne5+
+Kd6 37.Nc4+ Bxc4 38.Bxc4 Kc5 39.Bd3 h6 40.a5 Rbf6 41.Kb2 R2f4 42.Rg7 Rf7 43.Rg3
+Kb4 44.Bxa6 Kxa5 45.Bd3 Rf2 46.Rh3 R7f6 47.Rh5+ Kb6 48.g4 Rd6 49.Ka3 Rg2 50.h3
+Rg3 51.Kb4 Rd4+ 52.Kc3 Rd6 53.Kc4 Rf3 54.b4 Rf4+ 55.Kb3 Rf3 56.Ka4 Rg3 57.Be4
+Rc3 58.Bd3 Kb7 59.h4 Rc8 60.g5 hxg5 61.hxg5 Rd4 62.g6 Rg4 63.Bf5 1-0
+
+[Event "36th Chess Olympiad 2004"]
+[Site "Calvia, Mallorca (Spain)"]
+[Date "2004.10.26"]
+[Round "11"]
+[Board "1"]
+[White "Svidler, Peter"]
+[Black "Onischuk, Alexander"]
+[Result "1-0"]
+[ECO "C88"]
+[WhiteElo "2735"]
+[BlackElo "2653"]
+[PlyCount "81"]
+[EventDate "2004.10.14"]
+[EventType "team"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[WhiteTeam "Russia"]
+[BlackTeam "United States"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.a4 Bb7 9.d3
+Re8 10.c3 Bf8 11.Bg5 h6 12.Bh4 d6 13.Na3 b4 14.Nc4 Rb8 15.a5 Bc8 16.Ne3 Be6
+17.Ba4 Bd7 18.Bxf6 Qxf6 19.Nd5 Qd8 20.Bxc6 Bxc6 21.Nxb4 Bb7 22.Qa4 Qc8 23.Rab1
+Qe6 24.c4 c5 25.Na2 f5 26.Nd2 Be7 27.Nc3 Rec8 28.Qa3 fxe4 29.dxe4 Bg5 30.Rbd1
+Bxd2 31.Rxd2 Qxc4 32.Rxd6 Bc6 33.h3 Qb4 34.Qxb4 Rxb4 35.Re2 Kf7 36.Nd5 Ra4
+37.Nb6 Ra1+ 38.Kh2 Bb5 39.Rc2 Rc7 40.Nd5 Rc8 41.Rc3 1-0
+
+[Event "36th Chess Olympiad 2004"]
+[Site "Calvia, Mallorca (Spain)"]
+[Date "2004.10.27"]
+[Round "12"]
+[Board "2"]
+[White "Svidler, Peter"]
+[Black "Izoria, Zviad"]
+[Result "1/2-1/2"]
+[ECO "B18"]
+[WhiteElo "2735"]
+[BlackElo "2600"]
+[PlyCount "85"]
+[EventDate "2004.10.14"]
+[EventType "team"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[WhiteTeam "Russia"]
+[BlackTeam "Georgia"]
+
+1.e4 c6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.Bc4 e6 7.N1e2 Bb4+ 8.c3 Bd6
+9.h4 h6 10.Nf4 Bxf4 11.Bxf4 Nf6 12.h5 Bh7 13.O-O O-O 14.Bb3 a5 15.c4 b5 16.a3 a4
+17.Ba2 bxc4 18.Bxc4 Nd5 19.Bxd5 Qxd5 20.Qg4 Kh8 21.Be5 f6 22.Bf4 Nd7 23.Rfe1
+Rfe8 24.Rad1 Nb6 25.Nf1 Qf5 26.Qxf5 Bxf5 27.Rc1 Rac8 28.Rc5 Bd3 29.Nd2 Nd5
+30.Bg3 Kg8 31.Rec1 Ne7 32.Nc4 Nf5 33.Nb6 Rcd8 34.Bc7 Rxd4 35.Rxc6 Be2 36.f3 Bd1
+37.R6c4 Bb3 38.Rxd4 Nxd4 39.Rc5 e5 40.Bd6 Nf5 41.Bc7 Nd4 42.Bd6 Nf5 43.Bc7 1/2-1/2
+
+[Event "36th Chess Olympiad 2004"]
+[Site "Calvia, Mallorca (Spain)"]
+[Date "2004.10.28"]
+[Round "13"]
+[Board "2"]
+[White "Svidler, Peter"]
+[Black "Bruzon, Lazaro"]
+[Result "1-0"]
+[ECO "C91"]
+[WhiteElo "2735"]
+[BlackElo "2637"]
+[PlyCount "121"]
+[EventDate "2004.10.14"]
+[EventType "team"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[WhiteTeam "Russia"]
+[BlackTeam "Cuba"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O 9.d4
+Bg4 10.d5 Na5 11.Bc2 Qc8 12.Nbd2 c6 13.b4 Nc4 14.Nxc4 bxc4 15.h3 Bd7 16.dxc6
+Qxc6 17.a4 Rfe8 18.Bg5 h6 19.Bxf6 Bxf6 20.a5 Rad8 21.Ba4 Qb7 22.Nd2 d5 23.exd5
+Qxd5 24.Bxd7 Qxd7 25.Nxc4 Qe6 26.Qg4 e4 27.Qxe6 Rxe6 28.Rac1 Rc8 29.Nb6 Rxc3
+30.Nd5 Rxc1 31.Rxc1 Bg5 32.Rc8+ Kh7 33.Kf1 Rd6 34.Rc5 Bf6 35.Nxf6+ gxf6 36.Ke2
+Rd4 37.b5 axb5 38.Rxb5 Kg6 39.Ke3 Ra4 40.g4 Kg7 41.h4 Kg6 42.h5+ Kg7 43.Rf5 Rc4
+44.Rd5 Ra4 45.Kf4 Kf8 46.Kf5 Ke7 47.Rb5 Ra2 48.Kxe4 Rxf2 49.a6 Ra2 50.Rb7+ Kf8
+51.a7 Kg7 52.Kd5 f5 53.gxf5 Kf6 54.Kc6 Kxf5 55.Rxf7+ Kg4 56.Kb7 Kxh5 57.a8=Q
+Rxa8 58.Kxa8 Kg4 59.Rg7+ Kf4 60.Rh7 Kg5 61.Kb7 1-0
+
+[Event "36th Chess Olympiad 2004"]
+[Site "Calvia, Mallorca (Spain)"]
+[Date "2004.10.29"]
+[Round "14"]
+[Board "2"]
+[White "Xu, Jun"]
+[Black "Svidler, Peter"]
+[Result "1/2-1/2"]
+[ECO "D91"]
+[WhiteElo "2589"]
+[BlackElo "2735"]
+[PlyCount "25"]
+[EventDate "2004.10.14"]
+[EventType "team"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[WhiteTeam "China"]
+[BlackTeam "Russia"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Bg5 Ne4 5.Bh4 Nxc3 6.bxc3 Bg7 7.e3 c5 8.cxd5 cxd4
+9.cxd4 Qxd5 10.Nf3 Nc6 11.Be2 O-O 12.O-O b6 13.Qb3 1/2-1/2
+
+[Event "Armenien gegen den Rest der We"]
+[Site "Moskau"]
+[Date "2004.06.10"]
+[Round "1"]
+[Board "2"]
+[White "Svidler, Peter"]
+[Black "Gelfand, Boris"]
+[Result "1-0"]
+[ECO "B90"]
+[WhiteElo "2733"]
+[BlackElo "2714"]
+[PlyCount "0"]
+[EventDate "2004.06.10"]
+[EventType "team"]
+[EventRounds "6"]
+[EventCountry "RUS"]
+[WhiteTeam "Rest der Welt"]
+[BlackTeam "Armenien"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nb3 Be6 8.Qd2 Nbd7
+9.f3 b5 10.O-O-O Nb6 11.Qf2 Nfd7 12.f4 Rc8 13.f5 Bc4 14.Bxc4 Rxc4 15.Qd2 Qc8
+16.Na5 Rc7 17.g4 Be7 18.g5 Rxc3 19.Qxc3 Qxc3 20.bxc3 d5 21.exd5 Ba3+ 22.Kb1 Na4
+23.c4 Nc3+ 24.Ka1 Bb4 25.Nc6 Nxd1 26.Rxd1 Bc3+ 27.Kb1 bxc4 28.Rg1 h5 29.a4 e4
+30.Ka2 Ne5 31.Rb1 Kd7 32.Rb6 Rc8 33.Nb8+ Ke8 34.h3 Nd7 35.Nxd7 Kxd7 36.Rxa6 Rb8
+37.Rc6 Rc8 38.Rxc8 Kxc8 39.Kb1 g6 40.fxg6 fxg6 41.Kc1 Kd7 42.Bf4 Ba5 43.Kd1 c3
+44.Ke2 Bb6 45.Be5 Ke7 46.Bxc3 Kd6 47.a5 Bc5 48.Bd2 Kxd5 49.Be3 Be7 50.a6 Kc6
+51.a7 Kb7 52.Kd2 1-0
+
+[Event "Armenien gegen den Rest der We"]
+[Site "Moskau"]
+[Date "2004.06.11"]
+[Round "2"]
+[Board "6"]
+[White "Lputian, Smbat G"]
+[Black "Svidler, Peter"]
+[Result "0-1"]
+[ECO "D91"]
+[WhiteElo "2634"]
+[BlackElo "2733"]
+[PlyCount "0"]
+[EventDate "2004.06.10"]
+[EventType "team"]
+[EventRounds "6"]
+[EventCountry "RUS"]
+[WhiteTeam "Armenien"]
+[BlackTeam "Rest der Welt"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Bg5 Ne4 5.Bh4 Nxc3 6.bxc3 Bg7 7.e3 c5 8.cxd5 cxd4
+9.cxd4 Qxd5 10.Nf3 Nc6 11.Be2 e5 12.dxe5 Qa5+ 13.Qd2 Qxd2+ 14.Kxd2 Nxe5 15.Rab1
+Nc6 16.Rhc1 O-O 17.Bc4 h6 18.Ke2 Bf5 19.Rxb7 Na5 20.Rc7 Nxc4 21.R1xc4 Rfb8
+22.Nd4 Be4 23.Nb5 Bxg2 24.Rxa7 Rxa7 25.Nxa7 Rb2+ 26.Ke1 Bf3 27.a4 Re2+ 28.Kf1 g5
+29.Bg3 Bb2 30.Bd6 Rd2 31.Bb4 Rd1+ 32.Be1 Be5 33.Nb5 Bxh2 34.Nd4 Bb7 35.Rb4 Ba6+
+36.Kg2 Bc7 37.Bc3 h5 38.Nb5 Bb6 39.Nd4 Bf1+ 40.Kf3 Bc7 41.a5 f5 0-1
+
+[Event "Armenien gegen den Rest der We"]
+[Site "Moskau"]
+[Date "2004.06.12"]
+[Round "3"]
+[Board "2"]
+[White "Svidler, Peter"]
+[Black "Vaganian, Rafael A"]
+[Result "1/2-1/2"]
+[ECO "C17"]
+[WhiteElo "2733"]
+[BlackElo "2639"]
+[PlyCount "0"]
+[EventDate "2004.06.10"]
+[EventType "team"]
+[EventRounds "6"]
+[EventCountry "RUS"]
+[WhiteTeam "Rest der Welt"]
+[BlackTeam "Armenien"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Ba5 6.b4 cxd4 7.Nb5 Bc7 8.f4 Bd7 9.Nxc7+
+Qxc7 10.Nf3 Ba4 11.Bd3 Ne7 12.Bb2 Nbc6 13.Qe2 a6 14.O-O Qb6 15.Qf2 Bb5 16.Nxd4
+Bxd3 17.cxd3 Rc8 18.Rfc1 O-O 19.Nxc6 1/2-1/2
+
+[Event "Armenien gegen den Rest der We"]
+[Site "Moskau"]
+[Date "2004.06.13"]
+[Round "4"]
+[Board "4"]
+[White "Leko, Peter"]
+[Black "Svidler, Peter"]
+[Result "1/2-1/2"]
+[ECO "B80"]
+[WhiteElo "2741"]
+[BlackElo "2733"]
+[PlyCount "0"]
+[EventDate "2004.06.10"]
+[EventType "team"]
+[EventRounds "6"]
+[EventCountry "RUS"]
+[WhiteTeam "Armenien"]
+[BlackTeam "Rest der Welt"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 d6 6.Be3 Nf6 7.Qd2 Be7 8.f3 O-O 9.g4
+d5 10.g5 Nh5 11.Rg1 dxe4 12.Nxe4 e5 13.Nxc6 bxc6 14.O-O-O Qc7 15.Bc4 Bf5 16.Qd3
+Rad8 17.Nf6+ Nxf6 18.Qxf5 Nd5 19.Bd2 Qb6 20.Qe4 1/2-1/2
+
+[Event "Armenien gegen den Rest der We"]
+[Site "Moskau"]
+[Date "2004.06.14"]
+[Round "5"]
+[Board "2"]
+[White "Svidler, Peter"]
+[Black "Kasparov, Garry"]
+[Result "1/2-1/2"]
+[ECO "B31"]
+[WhiteElo "2733"]
+[BlackElo "2817"]
+[PlyCount "0"]
+[EventDate "2004.06.10"]
+[EventType "team"]
+[EventRounds "6"]
+[EventCountry "RUS"]
+[WhiteTeam "Rest der Welt"]
+[BlackTeam "Armenien"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.Bxc6 dxc6 5.d3 Bg7 6.h3 Nf6 7.Nc3 Nd7 8.Be3 e5
+9.O-O Qe7 10.Qd2 h6 11.Nh2 Nf8 12.Ne2 Ne6 13.a3 Nd4 14.b4 Be6 15.bxc5 Qxc5
+16.Bxd4 exd4 17.Qb4 b6 18.Nf3 O-O-O 19.Qxc5 bxc5 20.Nf4 Bd7 21.e5 Rhe8 22.Rfe1
+g5 23.e6 fxe6 24.Nh5 Bh8 25.Ne5 Kc7 26.Ng3 Bxe5 27.Rxe5 Kd6 28.Re2 c4 29.dxc4 e5
+30.Rae1 Re7 31.f3 c5 32.Rb1 Kc6 33.Rb5 a6 34.Rb3 Ree8 35.Re1 Rb8 36.Rxb8 Rxb8
+37.Rxe5 Re8 38.Rxe8 Bxe8 39.Ne4 Bf7 40.Nd2 Bg6 41.Ne4 Bf7 42.Nd2 Kb6 43.Kf2 Ka5
+44.Nb3+ Ka4 45.Nxc5+ Kxa3 46.Nxa6 Bxc4 47.Nc5 Kb2 48.f4 Kxc2 49.fxg5 hxg5 50.Kf3
+Kc3 51.Ne4+ Kc2 52.Nc5 Bd5+ 53.Kg4 Kc3 54.Kxg5 Bc6 55.Kf4 Kc4 56.Ne6 d3 57.Ke3
+Kc3 58.Nf4 d2 1/2-1/2
+
+[Event "Armenien gegen den Rest der We"]
+[Site "Moskau"]
+[Date "2004.06.15"]
+[Round "6"]
+[Board "4"]
+[White "Akopian, Vladimir"]
+[Black "Svidler, Peter"]
+[Result "1/2-1/2"]
+[ECO "B42"]
+[WhiteElo "2689"]
+[BlackElo "2733"]
+[PlyCount "0"]
+[EventDate "2004.06.10"]
+[EventType "team"]
+[EventRounds "6"]
+[EventCountry "RUS"]
+[WhiteTeam "Armenien"]
+[BlackTeam "Rest der Welt"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3 Nf6 6.O-O Qc7 7.Qe2 d5 8.exd5 Nxd5
+9.Bc4 Nf6 10.Bg5 Be7 11.Nc3 O-O 12.Rad1 b5 13.Bd3 Bb7 14.Qe3 Nbd7 15.Ne4 Rfe8
+16.Nxf6+ 1/2-1/2
+

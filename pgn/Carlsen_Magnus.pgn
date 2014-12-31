@@ -1,0 +1,973 @@
+[Event "Bazna Kings 2011, 5th edition "]
+[Site "Bazna"]
+[Date "2011.06.11"]
+[Round "1"]
+[Board "2"]
+[White "Carlsen, Magnus"]
+[Black "Nakamura, Hikaru"]
+[Result "1-0"]
+[ECO "D31"]
+[WhiteElo "2815"]
+[BlackElo "2774"]
+[PlyCount "0"]
+[EventDate "2011.06.11"]
+[EventRounds "10"]
+[EventCountry "ROU"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Be7 4.cxd5 exd5 5.Bf4 c6 6.Qc2 Bg4 7.e3 Bh5 8.Bd3 Bg6
+9.Bxg6 hxg6 10.O-O-O Nf6 11.f3 Nbd7 12.Nge2 b5 13.e4 b4 14.Na4 dxe4 15.fxe4 Qa5
+16.Kb1 O-O 17.h4 Rfe8 18.e5 Nd5 19.h5 g5 20.h6 g6 21.Bc1 N7b6 22.Nc5 Bxc5
+23.dxc5 b3 24.Qxb3 Qxc5 25.Nd4 Rxe5 26.Nf3 Re2 27.Nxg5 Qe7 28.Qd3 Rf8 29.Rdf1 f5
+30.g4 Na4 31.Qd4 Qe5 32.Qxe5 Rxe5 33.gxf5 gxf5 34.Nf3 Re7 35.Rfg1+ Kh7 36.Rg7+
+Kh8 37.Rhg1 Rfe8 38.Nh4 Rxg7 1-0
+
+[Event "Bazna Kings 2011, 5th edition "]
+[Site "Bazna"]
+[Date "2011.06.12"]
+[Round "2"]
+[Board "3"]
+[White "Ivanchuk, Vassily"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[ECO "C65"]
+[WhiteElo "2776"]
+[BlackElo "2815"]
+[PlyCount "0"]
+[EventDate "2011.06.11"]
+[EventRounds "10"]
+[EventCountry "ROU"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.d3 d6 5.O-O Be7 6.Re1 O-O 7.c3 a6 8.Ba4 b5 9.Bc2
+d5 10.Nbd2 dxe4 11.dxe4 Be6 12.Bb3 Bxb3 13.axb3 Qd3 14.b4 Rfd8 15.Qb3 Qd7 16.Qc2
+Qe6 17.Qb3 Qd7 18.Qc2 Qe6 19.h3 a5 20.bxa5 Rxa5 21.Rxa5 Nxa5 22.b4 Nb7 23.Qb3
+Qxb3 24.Nxb3 Nd7 25.Be3 Nd6 26.Nfd2 Ra8 27.Kf1 f6 28.Ke2 Kf7 29.Kd3 Ke6 30.f3
+Ra2 31.Ra1 Rxa1 32.Nxa1 Nb7 33.Nab3 1/2-1/2
+
+[Event "Bazna Kings 2011, 5th edition "]
+[Site "Bazna"]
+[Date "2011.06.13"]
+[Round "3"]
+[Board "1"]
+[White "Carlsen, Magnus"]
+[Black "Radjabov, Teimour"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[WhiteElo "2815"]
+[BlackElo "2744"]
+[PlyCount "0"]
+[EventDate "2011.06.11"]
+[EventRounds "10"]
+[EventCountry "ROU"]
+
+1.c4 e6 2.Nc3 d5 3.d4 Be7 4.Nf3 Nf6 5.Bf4 O-O 6.e3 Nbd7 7.a3 c5 8.cxd5 Nxd5
+9.Nxd5 exd5 10.dxc5 Nxc5 11.Be5 Bf6 12.Bxf6 Qxf6 13.Qd4 Qe7 14.Qf4 Qe4 15.Qxe4
+dxe4 16.Nd4 Be6 17.Be2 Rfd8 18.O-O Nb3 19.Nxe6 fxe6 20.Rad1 Kf7 21.f4 Kf6 22.Kf2
+Nd2 23.Rfe1 Rac8 24.Rc1 Nb3 25.Rc4 Rxc4 26.Bxc4 Nc5 27.Ke2 b5 28.Ba2 Nd3 29.Rd1
+Rc8 30.Bb1 Nxb2 31.Rd7 Na4 32.Bxe4 Nc5 33.Rd4 Nxe4 34.Rxe4 Rc2+ 35.Kf3 Ra2
+36.Rb4 a6 37.Rb3 Ke7 1/2-1/2
+
+[Event "Bazna Kings 2011, 5th edition "]
+[Site "Bazna"]
+[Date "2011.06.14"]
+[Round "4"]
+[Board "3"]
+[White "Carlsen, Magnus"]
+[Black "Nisipeanu, Liviu-Dieter"]
+[Result "1-0"]
+[ECO "D27"]
+[WhiteElo "2815"]
+[BlackElo "2662"]
+[PlyCount "0"]
+[EventDate "2011.06.11"]
+[EventRounds "10"]
+[EventCountry "ROU"]
+
+1.d4 d5 2.c4 dxc4 3.e3 Nf6 4.Bxc4 e6 5.Nf3 c5 6.O-O a6 7.dxc5 Bxc5 8.Qxd8+ Kxd8
+9.Be2 Ke7 10.Nbd2 Bd7 11.Nb3 Bd6 12.Na5 Ra7 13.Nc4 Bb5 14.b3 Rd8 15.Bb2 Bxc4
+16.Bxc4 Nc6 17.Rfd1 Raa8 18.h3 g6 19.g4 h6 20.Bf1 Rac8 21.Rac1 Nd5 22.h4 Ke8
+23.g5 hxg5 24.hxg5 Be7 25.Kg2 Nb6 26.Bd3 Nb4 27.Be4 Nxa2 28.Rxd8+ Kxd8 29.Rh1
+Nd5 30.Ne5 f5 31.Bxd5 1-0
+
+[Event "Bazna Kings 2011, 5th edition "]
+[Site "Bazna"]
+[Date "2011.06.15"]
+[Round "5"]
+[Board "2"]
+[White "Karjakin, Sergey"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[ECO "B12"]
+[WhiteElo "2776"]
+[BlackElo "2815"]
+[PlyCount "0"]
+[EventDate "2011.06.11"]
+[EventRounds "10"]
+[EventCountry "ROU"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nf3 e6 5.Be2 Ne7 6.O-O c5 7.c4 Nbc6 8.dxc5 d4 9.Bd3
+Bxd3 10.Qxd3 Ng6 11.Qe4 Bxc5 12.a3 a5 13.Nbd2 Bb6 14.Rb1 a4 15.b4 axb3 16.Rxb3
+O-O 17.c5 Bxc5 18.Rxb7 Qd5 19.Qxd5 exd5 20.Nb3 Bxa3 21.Bxa3 Rxa3 22.Nbxd4 Ngxe5
+23.Nxc6 Nxc6 24.Rc7 Rc3 25.Re1 Rc4 26.Rd7 Nb4 27.g3 h6 28.Ree7 Nc6 29.Re1 Rc5
+30.Kg2 Nb4 31.Ree7 Nc6 32.Re1 Rb8 33.h4 Rc8 34.Rb1 d4 35.Nxd4 1/2-1/2
+
+[Event "Bazna Kings 2011, 5th edition "]
+[Site "Bazna"]
+[Date "2011.06.17"]
+[Round "6"]
+[Board "2"]
+[White "Nakamura, Hikaru"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[ECO "C95"]
+[WhiteElo "2774"]
+[BlackElo "2815"]
+[PlyCount "0"]
+[EventDate "2011.06.11"]
+[EventRounds "10"]
+[EventCountry "ROU"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6 9.h3
+Nb8 10.d4 Nbd7 11.c4 c6 12.Nc3 b4 13.Na4 c5 14.d5 Re8 15.Bc2 Nf8 16.a3 a5 17.b3
+Ng6 18.Nb2 Bd7 19.Nh2 h6 20.Nf1 Nh7 21.Ne3 Bg5 22.axb4 axb4 23.Rxa8 Qxa8 24.Nf5
+Bxc1 25.Qxc1 Bxf5 26.exf5 Ngf8 27.Nd1 Nf6 28.f3 Qa2 29.g4 Ra8 30.Nf2 Qa3 31.Qb1
+Qa2 32.Qc1 Qa3 33.Qb1 Qa2 34.Qc1 1/2-1/2
+
+[Event "Bazna Kings 2011, 5th edition "]
+[Site "Bazna"]
+[Date "2011.06.18"]
+[Round "7"]
+[Board "3"]
+[White "Carlsen, Magnus"]
+[Black "Ivanchuk, Vassily"]
+[Result "1-0"]
+[ECO "D38"]
+[WhiteElo "2815"]
+[BlackElo "2776"]
+[PlyCount "0"]
+[EventDate "2011.06.11"]
+[EventRounds "10"]
+[EventCountry "ROU"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Bb4 5.Bg5 Nbd7 6.cxd5 exd5 7.Qc2 c5 8.dxc5 h6
+9.Bd2 O-O 10.e3 Bxc5 11.Rc1 Qe7 12.Be2 a6 13.Qd3 Nb6 14.O-O Bg4 15.Nd4 Bd7
+16.Bf3 Rfe8 17.b3 Ba3 18.Rc2 Rac8 19.Nce2 Rxc2 20.Qxc2 Be6 21.Bc1 Rc8 22.Bxa3
+Qxa3 23.Qd2 Bg4 24.Bxg4 Nxg4 25.Nf5 Nf6 26.h3 Kh7 27.Qd4 Nbd7 28.Qf4 Nf8 29.Neg3
+Ng6 30.Qd4 Qc5 31.f3 Qxd4 32.Nxd4 Ne5 33.Rd1 g6 34.Kf2 Kg7 35.Nge2 Kf8 36.g4 Nc6
+37.Rc1 Ke7 38.h4 Kd6 39.h5 Ne7 40.Rh1 gxh5 41.gxh5 Rg8 42.Ng3 Rg5 43.b4 Kd7
+44.Rh4 Ne8 45.Rf4 Nd6 46.a4 b6 47.a5 bxa5 48.bxa5 f5 49.Rh4 Nc4 50.f4 Rg4 51.Rh3
+Nd6 52.Rh1 Rg8 53.Rb1 Ra8 54.Kf3 Kc7 55.Ne6+ Kc8 56.Nc5 Rb8 57.Rxb8+ Kxb8
+58.Nxa6+ Kb7 59.Nb4 Nc4 60.a6+ Kb6 61.Ke2 Nd6 62.Kd3 Nb5 63.Ne2 Ka5 64.Nc3 Nc7
+65.Nbxd5 Nexd5 66.Nxd5 Nxd5 67.a7 Nc7 68.Kd4 Kb6 69.Ke5 Kxa7 70.Kxf5 Nd5 71.Kg6
+Nxe3 72.Kxh6 1-0
+
+[Event "Bazna Kings 2011, 5th edition "]
+[Site "Bazna"]
+[Date "2011.06.19"]
+[Round "8"]
+[Board "1"]
+[White "Radjabov, Teimour"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[WhiteElo "2744"]
+[BlackElo "2815"]
+[PlyCount "0"]
+[EventDate "2011.06.11"]
+[EventRounds "10"]
+[EventCountry "ROU"]
+
+1.Nf3 Nf6 2.c4 e6 3.Nc3 d5 4.d4 Be7 5.Bf4 O-O 6.e3 b6 7.cxd5 Nxd5 8.Nxd5 Qxd5
+9.Bd3 Qa5+ 10.Ke2 Ba6 11.a3 c5 12.b4 Bxd3+ 13.Qxd3 Qa4 14.bxc5 bxc5 15.Rhc1 Nd7
+16.Qc4 Qa5 17.dxc5 Nxc5 18.Nd4 Rac8 19.Qb5 Qd8 20.Nc6 Qd7 21.Nxe7+ Qxe7 22.Be5
+Ne4 23.f3 Qg5 24.fxe4 Rcd8 25.Qb2 Qxg2+ 26.Ke1 Qg1+ 27.Ke2 Qg2+ 28.Ke1 Qg1+
+29.Ke2 1/2-1/2
+
+[Event "Bazna Kings 2011, 5th edition "]
+[Site "Bazna"]
+[Date "2011.06.20"]
+[Round "9"]
+[Board "3"]
+[White "Nisipeanu, Liviu-Dieter"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[ECO "C95"]
+[WhiteElo "2662"]
+[BlackElo "2815"]
+[PlyCount "0"]
+[EventDate "2011.06.11"]
+[EventRounds "10"]
+[EventCountry "ROU"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O 9.h3
+Nb8 10.d4 Nbd7 11.Nbd2 Bb7 12.Bc2 Re8 13.a4 Bf8 14.Bd3 c6 15.b3 g6 16.Bb2 exd4
+17.cxd4 d5 18.Ne5 Bb4 19.Nxd7 Qxd7 20.e5 Nh5 21.Bf1 Nf4 22.Re3 c5 23.dxc5 d4
+24.Ne4 Bxe4 25.Rxe4 Ne6 26.Rxd4 Nxd4 27.Qxd4 Qxd4 28.Bxd4 Rad8 29.Be3 Rxe5
+30.axb5 axb5 31.Rc1 Rxe3 32.fxe3 1/2-1/2
+
+[Event "Bazna Kings 2011, 5th edition "]
+[Site "Bazna"]
+[Date "2011.06.21"]
+[Round "10"]
+[Board "2"]
+[White "Carlsen, Magnus"]
+[Black "Karjakin, Sergey"]
+[Result "1/2-1/2"]
+[ECO "E12"]
+[WhiteElo "2815"]
+[BlackElo "2776"]
+[PlyCount "0"]
+[EventDate "2011.06.11"]
+[EventRounds "10"]
+[EventCountry "ROU"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.Nc3 Bb4 5.e3 Bb7 6.Bd3 O-O 7.O-O c5 8.Na4 cxd4
+9.exd4 Re8 10.a3 Bf8 11.Bf4 d6 12.Re1 Nbd7 13.Rc1 e5 14.dxe5 Bxf3 15.Qxf3 Nxe5
+16.Bxe5 dxe5 17.Nc3 g6 18.Be4 Nxe4 19.Qxe4 Rc8 20.b4 Qd4 21.Qxd4 exd4 22.Rxe8
+Rxe8 23.Nd5 Re2 24.Kf1 Ra2 25.Rd1 Rxa3 26.Rxd4 Ra4 27.Nf6+ Kg7 28.Ne8+ Kg8
+29.Nf6+ Kg7 30.Ne8+ Kg8 1/2-1/2
+
+[Event "23rd European Club Cup 2007"]
+[Site ""]
+[Date "2007.10.03"]
+[Round "1"]
+[Board "1"]
+[White "Carlsen, Magnus"]
+[Black "Pruijssers, Roeland"]
+[Result "1-0"]
+[ECO ""]
+[WhiteElo "2714"]
+[BlackElo "2408"]
+[PlyCount "79"]
+[EventDate "2007.10.03"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "TUR"]
+[WhiteTeam "OSC Baden-Baden e.V."]
+[BlackTeam "Homburg Apeldoorn"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O 9.h3
+Nb8 10.d4 Nbd7 11.Nbd2 Bb7 12.Bc2 Re8 13.Nf1 Bf8 14.Ng3 g6 15.b3 c6 16.Bg5 Bg7
+17.Qd2 Qe7 18.a4 Qf8 19.Rad1 h6 20.Be3 Rad8 21.Qc1 Kh7 22.b4 Re6 23.Qb1 d5
+24.dxe5 Nxe4 25.Bxe4 dxe4 26.Nxe4 Nxe5 27.Nfg5+ hxg5 28.Nxg5+ Kg8 29.Nxe6 Rxd1
+30.Qxd1 fxe6 31.Bd4 Qd6 32.f4 Nc4 33.Bxg7 Kxg7 34.Qxd6 Nxd6 35.Rd1 Nc4 36.Rd7+
+Kf6 37.axb5 Bc8 38.Rc7 Nd6 39.bxa6 Bxa6 40.Rxc6 1-0
+
+[Event "23rd European Club Cup 2007"]
+[Site ""]
+[Date "2007.10.04"]
+[Round "2"]
+[Board "1"]
+[White "Haba, Petr"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[ECO ""]
+[WhiteElo "2525"]
+[BlackElo "2714"]
+[PlyCount "70"]
+[EventDate "2007.10.03"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "TUR"]
+[WhiteTeam "1. Novoborsky SK"]
+[BlackTeam "OSC Baden-Baden e.V."]
+
+1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.Nf3 dxe5 5.Nxe5 c6 6.Bc4 Nd7 7.Nxd7 Bxd7 8.Qf3 e6
+9.O-O Qf6 10.Qxf6 Nxf6 11.Nd2 c5 12.dxc5 Bxc5 13.Nf3 Rc8 14.Be2 Ke7 15.Ne5 Be8
+16.c3 Nd7 17.Nd3 Bd6 18.Be3 Nc5 19.Nxc5 Bxc5 20.Bxc5+ Rxc5 21.Rfd1 Bc6 22.Rd2
+Rd8 23.Rad1 Rxd2 24.Rxd2 Bd5 25.c4 Bc6 26.b4 Re5 27.g3 Re4 28.Kf1 e5 29.Rc2 Bd7
+30.Rc3 Be6 31.Re3 Rxe3 32.fxe3 a5 33.a3 axb4 34.axb4 b6 35.Kf2 Kd6 1/2-1/2
+
+[Event "23rd European Club Cup 2007"]
+[Site ""]
+[Date "2007.10.05"]
+[Round "3"]
+[Board "2"]
+[White "Milov, Vadim"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[ECO ""]
+[WhiteElo "2680"]
+[BlackElo "2714"]
+[PlyCount "57"]
+[EventDate "2007.10.03"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "TUR"]
+[WhiteTeam "Gros Xake Taldea"]
+[BlackTeam "OSC Baden-Baden e.V."]
+
+1.d4 Nf6 2.c4 c5 3.d5 b5 4.Nf3 g6 5.cxb5 a6 6.b6 d6 7.Nc3 Qxb6 8.e4 Bg7 9.Nd2
+Nbd7 10.a4 Qb4 11.Be2 Ne5 12.O-O O-O 13.Ra3 g5 14.Qc2 Bd7 15.b3 g4 16.Na2 Qb7
+17.Nc4 Nxc4 18.Bxc4 Nh5 19.Bb2 Nf4 20.Bxg7 Kxg7 21.Nc1 Ng6 22.Nd3 f6 23.Raa1 a5
+24.f4 gxf3 25.gxf3 Ne5 26.Kh1 Nxc4 27.bxc4 Kh8 28.Rab1 Qc7 29.Rg1 1/2-1/2
+
+[Event "23rd European Club Cup 2007"]
+[Site ""]
+[Date "2007.10.06"]
+[Round "4"]
+[Board "2"]
+[White "Carlsen, Magnus"]
+[Black "Almasi, Zoltan"]
+[Result "1-0"]
+[ECO ""]
+[WhiteElo "2714"]
+[BlackElo "2691"]
+[PlyCount "163"]
+[EventDate "2007.10.03"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "TUR"]
+[WhiteTeam "OSC Baden-Baden e.V."]
+[BlackTeam "Bosna Sarajevo"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 O-O 5.a3 Bxc3+ 6.Qxc3 b6 7.Nf3 Bb7 8.e3 d6
+9.Be2 Nbd7 10.O-O c5 11.b4 a5 12.Bb2 Qe7 13.Rfd1 Rfc8 14.dxc5 dxc5 15.b5 Rd8
+16.Rd3 Be4 17.Rd2 Ne8 18.Rad1 f6 19.h3 Nf8 20.Nh2 Nd6 21.Nf1 Bb7 22.Ng3 Ne4
+23.Nxe4 Bxe4 24.Bg4 Kf7 25.h4 Ke8 26.Bh5+ Ng6 27.f3 Bb7 28.Qc2 Kf7 29.Rd3 Qc7
+30.Bc3 e5 31.Kf2 e4 32.fxe4 Ke7 33.Bxg6 hxg6 34.e5 fxe5 35.Rxd8 Rxd8 36.Rxd8
+Qxd8 37.Qxg6 Qf8+ 38.Kg3 Qf6 39.Qh5 Kd6 40.Qe8 Be4 41.Qb8+ Kd7 42.Qxe5 Qxe5+
+43.Bxe5 g6 44.Bf6 a4 45.Be5 Bd3 46.Kf4 Bxc4 47.Kg5 Ke6 48.Bc7 Kf7 49.Bxb6 Bxb5
+50.Bxc5 Bf1 51.g4 Bd3 52.Kf4 Ke6 53.e4 Be2 54.Bd4 Bd1 55.Bh8 Be2 56.Kg5 Kf7
+57.h5 gxh5 58.gxh5 Bf3 59.e5 Ke6 60.Bf6 Be4 61.Kf4 Bc2 62.h6 Kd5 63.Ke3 Bg6
+64.Kd2 Ke6 65.Kc3 Kd7 66.Kb4 Bc2 67.Kb5 Ke6 68.Kc6 Bg6 69.Kc7 Bf5 70.Kd8 Kf7
+71.Bg7 Bg6 72.Kd7 Bf5+ 73.Kd6 Bg4 74.Bf6 Bf5 75.Bg5 Bg4 76.Bf4 Bf5 77.e6+ Bxe6
+78.h7 Kg7 79.Kxe6 Kxh7 80.Kd5 Kg6 81.Kc6 Kf5 82.Kd5 1-0
+
+[Event "23rd European Club Cup 2007"]
+[Site ""]
+[Date "2007.10.07"]
+[Round "5"]
+[Board "3"]
+[White "Carlsen, Magnus"]
+[Black "Cornette, Matthieu"]
+[Result "1/2-1/2"]
+[ECO ""]
+[WhiteElo "2714"]
+[BlackElo "2494"]
+[PlyCount "119"]
+[EventDate "2007.10.03"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "TUR"]
+[WhiteTeam "OSC Baden-Baden e.V."]
+[BlackTeam "Cannes Echecs"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 c5 4.g3 cxd4 5.Nxd4 d5 6.Bg2 e5 7.Nf3 e4 8.Nd4 dxc4
+9.Qa4+ Bd7 10.Qxc4 Na6 11.O-O Rc8 12.Qb3 Nc5 13.Qd1 Be7 14.Nc3 O-O 15.Be3 Ng4
+16.Bf4 e3 17.Bxe3 Nxe3 18.fxe3 Bg5 19.Nf5 Bxf5 20.Rxf5 Bxe3+ 21.Kh1 g6 22.Rd5
+Qf6 23.Rd6 Qe7 24.Qd5 Rfd8 25.Rd1 Rxd6 26.Qxd6 Qxd6 27.Rxd6 Bg5 28.Bf3 Be7
+29.Rd1 Kg7 30.Nd5 Bf8 31.Rc1 Rd8 32.Kg2 Ne6 33.Nc7 Bd6 34.Nxe6+ fxe6 35.Bxb7 Rb8
+36.Ba6 Rxb2 37.Bc4 Kf6 38.Kf3 a5 39.a4 h5 40.Bb5 Rb3+ 41.Kg2 Bb4 42.Rc7 Rc3
+43.Ra7 Rc2 44.Ra6 g5 45.Ra7 h4 46.gxh4 gxh4 47.Rh7 Be1 48.Rh6+ Ke7 49.Rg6 Rc3
+50.Bd3 Ra3 51.Rg4 Bb4 52.Rxh4 Rxa4 53.Re4 Kf6 54.h4 Ra1 55.h5 Bd2 56.Rg4 Be3
+57.Kf3 Rg1 58.Ra4 Bh6 59.Rxa5 Rg5 60.Rxg5 1/2-1/2
+
+[Event "23rd European Club Cup 2007"]
+[Site ""]
+[Date "2007.10.08"]
+[Round "6"]
+[Board "3"]
+[White "Sutovsky, Emil"]
+[Black "Carlsen, Magnus"]
+[Result "1-0"]
+[ECO "B45"]
+[WhiteElo "2656"]
+[BlackElo "2714"]
+[PlyCount "115"]
+[EventDate "2007.10.03"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "TUR"]
+[WhiteTeam "Ashdod City Club"]
+[BlackTeam "OSC Baden-Baden e.V."]
+
+1.e4 c5 2.Nf3 Nc6 3.Nc3 e6 4.d4 cxd4 5.Nxd4 Nf6 6.Nxc6 bxc6 7.e5 Nd5 8.Ne4 Bb7
+9.Be2 c5 10.O-O Qc7 11.c4 Ne3 12.Nd6+ Bxd6 13.exd6 Qc6 14.Bf3 Nxd1 15.Bxc6 Bxc6
+16.Rxd1 Rb8 17.Rd3 a5 18.Rg3 Kf8 19.Rb3 Rxb3 20.axb3 f6 21.Rxa5 Kf7 22.Be3 Rb8
+23.Ra3 Be4 24.Bxc5 Bd3 25.Ba7 Rb4 26.Bc5 Rb8 27.Ra7 Ke8 28.Ba3 e5 29.f3 Rxb3
+30.c5 Bb5 31.Rb7 Bc4 32.c6 dxc6 33.d7+ Kd8 34.Bb4 Rxb4 35.Rxb4 Bb5 36.f4 Kxd7
+37.fxe5 fxe5 38.Rb3 Ke6 39.Rc3 h5 40.Kf2 h4 41.Kf3 Kf5 42.Ke3 g6 43.Rc5 g5 44.b3
+Bf1 45.Rc2 Bb5 46.Rc1 g4 47.g3 hxg3 48.hxg3 Ke6 49.Ke4 Kd6 50.Rd1+ Kc5 51.Re1
+Kb4 52.Re3 Bf1 53.Kxe5 Bg2 54.Rd3 Bf3 55.Kd6 Kb5 56.Rd4 Be2 57.Re4 Bf3 58.Rc4 1-0
+
+[Event "23rd European Club Cup 2007"]
+[Site ""]
+[Date "2007.10.09"]
+[Round "7"]
+[Board "3"]
+[White "Carlsen, Magnus"]
+[Black "Fressinet, Laurent"]
+[Result "1-0"]
+[ECO "C77"]
+[WhiteElo "2714"]
+[BlackElo "2654"]
+[PlyCount "63"]
+[EventDate "2007.10.03"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "TUR"]
+[WhiteTeam "OSC Baden-Baden e.V."]
+[BlackTeam "Clichy Echecs 92"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d3 b5 6.Bb3 Be7 7.O-O O-O 8.a4 Rb8 9.Nbd2
+d6 10.c3 Nd7 11.axb5 axb5 12.Re1 Bf6 13.Nf1 Nc5 14.Ba2 Bg4 15.b4 Ne6 16.Ne3 Bxf3
+17.Qxf3 Bg5 18.Bd5 Qd7 19.Nf5 Ne7 20.Nxg7 Nxd5 21.Nxe6 fxe6 22.Qg4 Nxc3 23.Bxg5
+Kh8 24.Ra7 Qf7 25.Qh4 Rbc8 26.Be7 Qf4 27.Qxf4 Rxf4 28.Kf1 Na4 29.Rc1 Nb2 30.Ra3
+Rg8 31.Rxc7 Nd1 32.Bxd6 1-0
+
+[Event "37.Chess Olympiad 2006 general"]
+[Site "Turin, Italia"]
+[Date "2006.05.27"]
+[Round "6"]
+[Board "1"]
+[White "Carlsen, Magnus"]
+[Black "Prasca, Rafael"]
+[Result "1-0"]
+[ECO ""]
+[WhiteElo "2646"]
+[BlackElo "2448"]
+[PlyCount "65"]
+[EventDate "2006.05.21"]
+[EventType "team"]
+[EventRounds "13"]
+[EventCountry "ITA"]
+[WhiteTeam "Norway"]
+[BlackTeam "Venezuela"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3 cxd4 8.Nxd4 Bc5
+9.Qd2 Nxd4 10.Bxd4 Bxd4 11.Qxd4 Qb6 12.Qd2 Qxb2 13.Rb1 Qa3 14.Nb5 Qxa2 15.Nd6+
+Ke7 16.Rc1 b6 17.Be2 Qa5 18.c3 f5 19.O-O Qc5+ 20.Kh1 Nf8 21.g4 Bd7 22.gxf5 exf5
+23.Bf3 Ng6 24.c4 d4 25.Nb7 Qa3 26.Qxd4 Be6 27.Ra1 Qb3 28.Qd6+ Kf7 29.Bd5 Bxd5+
+30.Qxd5+ Ke7 31.Qd6+ Ke8 32.Qe6+ Ne7 33.Nd6+ 1-0
+
+[Event "37.Chess Olympiad 2006 general"]
+[Site "Turin, Italia"]
+[Date "2006.05.28"]
+[Round "7"]
+[Board "1"]
+[White "Carlsen, Magnus"]
+[Black "Adams, Michael"]
+[Result "1-0"]
+[ECO ""]
+[WhiteElo "2646"]
+[BlackElo "2720"]
+[PlyCount "145"]
+[EventDate "2006.05.21"]
+[EventType "team"]
+[EventRounds "13"]
+[EventCountry "ITA"]
+[WhiteTeam "Norway"]
+[BlackTeam "England"]
+
+1.Nf3 Nf6 2.c4 e6 3.Nc3 Bb4 4.g3 O-O 5.Bg2 d5 6.d4 dxc4 7.O-O Nc6 8.a3 Bxc3
+9.bxc3 Rb8 10.Bg5 b5 11.e4 h6 12.Bh4 e5 13.Nxe5 Nxe5 14.dxe5 Qxd1 15.Rfxd1 Nd7
+16.f4 Re8 17.e6 fxe6 18.e5 Nxe5 19.Bd8 Nd3 20.Bxc7 Rb7 21.Bxb7 Bxb7 22.a4 bxa4
+23.Rdb1 Bc6 24.Rb8 Kf7 25.Rxe8 Kxe8 26.Bd6 a6 27.Rb1 h5 28.Rb6 Kd7 29.Bf8 g6
+30.Rxa6 e5 31.fxe5 Nxe5 32.h4 Ng4 33.Bg7 Kc7 34.Bd4 Nh6 35.Kf2 Nf5 36.Bc5 Kd7
+37.Bb4 Kc7 38.Ra7+ Kb6 39.Rf7 Nh6 40.Re7 Bd5 41.Rd7 Ng4+ 42.Ke2 Be4 43.Rd4 Bd3+
+44.Kf3 Nh2+ 45.Kf4 Nf1 46.Rd6+ Kb5 47.Rd5+ Kb6 48.Ra5 Bc2 49.Re5 Bd3 50.Kf3 Nd2+
+51.Kf4 Nf1 52.g4 hxg4 53.Kxg4 Nd2 54.Kf4 Nb3 55.Re6+ Kb5 56.Re8 Nc1 57.Rb8+ Kc6
+58.Ra8 Ne2+ 59.Kf3 Ng1+ 60.Ke3 Ne2 61.Rxa4 Kd5 62.Ra5+ Ke6 63.Ra2 Ng3 64.Kf4 Nf5
+65.Ra6+ Kf7 66.Kg5 Ng3 67.Ra7+ Kg8 68.Kf6 Nh5+ 69.Ke5 Ng3 70.Bc5 Nf5 71.Bf2 Nh6
+72.Bd4 Nf5 73.Kf6 1-0
+
+[Event "37.Chess Olympiad 2006 general"]
+[Site "Turin, Italia"]
+[Date "2006.05.29"]
+[Round "8"]
+[Board "1"]
+[White "Macieja, Bartlomiej"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[ECO ""]
+[WhiteElo "2584"]
+[BlackElo "2646"]
+[PlyCount "0"]
+[EventDate "2006.05.21"]
+[EventType "team"]
+[EventRounds "13"]
+[EventCountry "ITA"]
+[WhiteTeam "Poland"]
+[BlackTeam "Norway"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.b3 Bb4+ 6.Bd2 Be7 7.Bg2 c6 8.Bc3 d5 9.Ne5
+Nfd7 10.Nxd7 Nxd7 11.Nd2 O-O 12.O-O Rc8 13.e4 b5 14.Re1 dxe4 15.Nxe4 bxc4 16.Qe2
+Rb8 17.Bf1 Nb6 18.Nc5 Bb5 19.a4 Nd5 20.Qf3 Bxc5 21.dxc5 Ba6 22.bxc4 Nxc3 23.Qxc3
+Qf6 24.Qxf6 gxf6 25.Red1 Rfd8 26.Bg2 Rxd1+ 27.Rxd1 Rb4 28.h4 Rxc4 29.Rd7 Rxc5
+30.Rxa7 Bc4 31.Rc7 Bd5 32.Bxd5 exd5 33.a5 Rxa5 34.Rxc6 Kg7 35.Kg2 h5 36.Rd6 Kg6
+37.Rd7 Rb5 38.Kf3 Rb3+ 39.Ke2 Rb2+ 40.Ke3 Rb5 41.Kf3 f5 42.Rd6+ f6 43.Rd7 Rb3+
+44.Kf4 Rd3 45.Rd8 Rd4+ 46.Ke3 Re4+ 47.Kf3 d4 48.Rd7 Rg4 49.Rd5 f4 50.Rxd4 fxg3
+51.Rxg4+ hxg4+ 52.Kxg3 Kh5 53.Kf4 Kxh4 54.Kf5 g3 55.fxg3+ Kxg3 56.Kxf6 1/2-1/2
+
+[Event "37.Chess Olympiad 2006 general"]
+[Site "Turin, Italia"]
+[Date "2006.05.30"]
+[Round "9"]
+[Board "1"]
+[White "Ghaemmaghami, Ehsan"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[ECO ""]
+[WhiteElo "2584"]
+[BlackElo "2646"]
+[PlyCount "0"]
+[EventDate "2006.05.21"]
+[EventType "team"]
+[EventRounds "13"]
+[EventCountry "ITA"]
+[WhiteTeam "Iran"]
+[BlackTeam "Norway"]
+
+1.c4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.d3 Bb4 5.Bd2 O-O 6.e3 d5 7.cxd5 Nxd5 8.Qc2 Nxc3
+9.Bxc3 Qe7 10.Be2 Bf5 11.O-O e4 12.dxe4 Bxe4 13.Qb3 Rfd8 14.Rfd1 Bxc3 15.Qxc3
+Nb4 16.a3 Nd5 17.Qe5 Qxe5 18.Nxe5 Nb6 19.Rac1 c6 20.f3 Bd5 21.e4 Bb3 22.Rd3 Rxd3
+23.Nxd3 Na4 24.Kf2 1/2-1/2
+
+[Event "37.Chess Olympiad 2006 general"]
+[Site "Turin, Italia"]
+[Date "2006.05.31"]
+[Round "10"]
+[Board "1"]
+[White "Carlsen, Magnus"]
+[Black "Radjabov, Teimour"]
+[Result "1/2-1/2"]
+[ECO ""]
+[WhiteElo "2646"]
+[BlackElo "2717"]
+[PlyCount "0"]
+[EventDate "2006.05.21"]
+[EventType "team"]
+[EventRounds "13"]
+[EventCountry "ITA"]
+[WhiteTeam "Norway"]
+[BlackTeam "Azerbaijan"]
+
+1.e4 c5 2.Nf3 Nc6 3.Nc3 d6 4.d4 cxd4 5.Nxd4 e5 6.Nf3 Be6 7.Nd5 Nf6 8.Nxf6+ Qxf6
+9.Ng5 Bd7 10.Bc4 h6 11.Qh5 Nd4 12.O-O g6 13.Bxf7+ Ke7 14.Bxg6 Rg8 15.Bh7 Rxg5
+16.Bxg5 Qxg5 17.Qxg5+ hxg5 18.c3 Ne2+ 19.Kh1 Nf4 20.Rad1 Bh6 21.g3 Nh5 22.Bf5
+Bxf5 23.exf5 Rc8 24.Kg2 Nf6 25.Rfe1 Rc5 26.h3 Bf8 27.Re3 Kf7 28.a4 Be7 29.Kf1
+Bf8 30.Ke2 Be7 31.Kf1 Bf8 32.Kg2 Be7 33.Kf1 1/2-1/2
+
+[Event "37.Chess Olympiad 2006 general"]
+[Site "Turin, Italia"]
+[Date "2006.06.02"]
+[Round "11"]
+[Board "1"]
+[White "Carlsen, Magnus"]
+[Black "Granda, Julio"]
+[Result "1-0"]
+[ECO ""]
+[WhiteElo "2646"]
+[BlackElo "2631"]
+[PlyCount "0"]
+[EventDate "2006.05.21"]
+[EventType "team"]
+[EventRounds "13"]
+[EventCountry "ITA"]
+[WhiteTeam "Norway"]
+[BlackTeam "Peru"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nb3 Be7 8.Be2 O-O
+9.O-O Nbd7 10.a4 b6 11.f3 Bb7 12.Rf2 Qc7 13.Bf1 Rfb8 14.Nc1 Nc5 15.Rd2 Ne6
+16.N1a2 Nd4 17.Nb4 Rd8 18.Kh1 a5 19.Nd3 Ne6 20.Nf2 Nd7 21.Nb5 Qb8 22.Nxd6 1-0
+
+[Event "37.Chess Olympiad 2006 general"]
+[Site "Turin, Italia"]
+[Date "2006.06.03"]
+[Round "12"]
+[Board "1"]
+[White "Naiditsch, Arkadij"]
+[Black "Carlsen, Magnus"]
+[Result "0-1"]
+[ECO ""]
+[WhiteElo "2664"]
+[BlackElo "2646"]
+[PlyCount "0"]
+[EventDate "2006.05.21"]
+[EventType "team"]
+[EventRounds "13"]
+[EventCountry "ITA"]
+[WhiteTeam "Germany"]
+[BlackTeam "Norway"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 b5 6.Bf1 h6 7.Ne6 fxe6 8.dxc6 Bc5
+9.d3 O-O 10.Be3 Bxe3 11.fxe3 Qd6 12.Nd2 Qxc6 13.e4 Qc5 14.Nb3 Qb6 15.Qe2 Bd7
+16.g3 a5 17.Bh3 a4 18.Nd2 a3 19.b3 Be8 20.Qf2 Qc6 21.O-O Bh5 22.Qe3 Bg4 23.Bg2
+Qxc2 24.Rfc1 Qb2 25.h3 Rad8 26.Rab1 Qxa2 27.Ra1 Qb2 28.Rab1 Qa2 29.Ra1 Qb2
+30.Rab1 Qd4 31.Qxd4 Rxd4 32.hxg4 Rxd3 33.Nf1 Ra8 34.Rxc7 a2 35.Ra1 Rxb3 36.Rc2
+Rba3 37.Rb2 R8a5 38.Nd2 Nxg4 39.Nb3 R5a4 40.Bh3 h5 41.Bxg4 hxg4 42.Nd2 Rxg3+
+43.Kf2 Rga3 44.Rxb5 Kf7 45.Ke2 Kf6 46.Kd1 Rh3 47.Kc2 g3 48.Rb3 Kg5 49.Kb2 Kg4
+50.Rc3 g2 51.Rcc1 Re3 52.Kc2 Kg3 53.Kb2 Kf2 54.Rc2 Re2 0-1
+
+[Event "37.Chess Olympiad 2006 general"]
+[Site "Turin, Italia"]
+[Date "2006.06.04"]
+[Round "13"]
+[Board "1"]
+[White "Kamsky, Gata"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[ECO ""]
+[WhiteElo "2671"]
+[BlackElo "2646"]
+[PlyCount "0"]
+[EventDate "2006.05.21"]
+[EventType "team"]
+[EventRounds "13"]
+[EventCountry "ITA"]
+[WhiteTeam "USA"]
+[BlackTeam "Norway"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.dxe5 Be6
+9.Be3 Be7 10.c3 O-O 11.Nbd2 Qd7 12.Re1 Nxd2 13.Qxd2 Na5 14.Bg5 c5 15.Bc2 Nc4
+16.Qf4 Rfe8 17.Bf6 Qd8 18.b3 Na3 19.Bxe7 Qxe7 20.Bf5 Bxf5 21.Qxf5 Qe6 22.Qd3 a5
+23.Rad1 Rad8 24.Re2 h6 25.Qe3 Rc8 26.Red2 Red8 27.h4 Rd7 28.Qf4 b4 29.c4 Rcd8
+30.cxd5 Rxd5 31.Qe4 1/2-1/2
+
+[Event "36th Chess Olympiad 2004"]
+[Site "Calvia, Mallorca (Spain)"]
+[Date "2004.10.25"]
+[Round "10"]
+[Board "1"]
+[White "Carlsen, Magnus"]
+[Black "Ibraev, Nurlan"]
+[Result "1-0"]
+[ECO "E38"]
+[WhiteElo "2581"]
+[BlackElo "2476"]
+[PlyCount "33"]
+[EventDate "2004.10.14"]
+[EventType "team"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[WhiteTeam "Norway"]
+[BlackTeam "Kazakhstan"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Bxc5 6.Nf3 Qb6 7.e3 Qc7 8.b3 b6 9.Bb2
+Bb7 10.Nb5 Qd8 11.O-O-O O-O 12.Ng5 Re8 13.h4 e5 14.Nd6 Bxd6 15.Rxd6 h6 16.Qf5
+Nc6 17.Rxf6 1-0
+
+[Event "36th Chess Olympiad 2004"]
+[Site "Calvia, Mallorca (Spain)"]
+[Date "2004.10.26"]
+[Round "11"]
+[Board "1"]
+[White "Carlsen, Magnus"]
+[Black "Kotronias, Vasilios"]
+[Result "1/2-1/2"]
+[ECO "B67"]
+[WhiteElo "2581"]
+[BlackElo "2599"]
+[PlyCount "79"]
+[EventDate "2004.10.14"]
+[EventType "team"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[WhiteTeam "Norway"]
+[BlackTeam "Greece"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 e6 7.Qd2 a6 8.O-O-O Bd7
+9.f4 b5 10.Bxf6 gxf6 11.Kb1 Qb6 12.Nxc6 Bxc6 13.f5 Qc5 14.Bd3 Ra7 15.Rhf1 b4
+16.Ne2 e5 17.Ng3 h5 18.h4 Ke7 19.Qe2 a5 20.Bc4 Bh6 21.Nxh5 Be3 22.Nxf6 Kxf6
+23.Rxd6+ Ke7 24.Rxc6 Qxc6 25.Qxe3 Rc7 26.f6+ Kd8 27.Qd3+ Kc8 28.Bd5 Qb6 29.Qg3
+Qd4 30.h5 Kb8 31.h6 a4 32.a3 Qd2 33.axb4 Qxc2+ 34.Ka1 a3 35.bxa3 Rxh6 36.Qxe5
+Qd3 37.Qe8+ Rc8 38.Qe5+ Rc7 39.Qe8+ Rc8 40.Qe5+ 1/2-1/2
+
+[Event "36th Chess Olympiad 2004"]
+[Site "Calvia, Mallorca (Spain)"]
+[Date "2004.10.27"]
+[Round "12"]
+[Board "1"]
+[White "Khamdamov, Suhrob"]
+[Black "Carlsen, Magnus"]
+[Result "0-1"]
+[ECO "A07"]
+[WhiteElo "2150"]
+[BlackElo "2581"]
+[PlyCount "80"]
+[EventDate "2004.10.14"]
+[EventType "team"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[WhiteTeam "Tajikistan"]
+[BlackTeam "Norway"]
+
+1.g3 d5 2.Bg2 e5 3.d3 Nc6 4.Nf3 Nf6 5.O-O Be7 6.e4 dxe4 7.dxe4 Qxd1 8.Rxd1 Bg4
+9.Re1 O-O-O 10.h3 Be6 11.c3 Nd7 12.Ng5 Bc4 13.b4 f6 14.Nd2 Bg8 15.Ngf3 Nb6 16.a4
+a5 17.b5 Nb8 18.Bf1 N8d7 19.c4 Bb4 20.Ba3 Bxa3 21.Rxa3 Nc5 22.Rc1 Be6 23.Nb3
+Nxb3 24.Rxb3 Nd7 25.Rb2 Nc5 26.Nd2 Rd4 27.Nb3 Nxb3 28.Rxb3 Rxe4 29.b6 c6 30.Rd3
+Rd8 31.Rxd8+ Kxd8 32.Rd1+ Rd4 33.Rxd4+ exd4 34.f4 c5 35.Bd3 h6 36.h4 Kd7 37.Be4
+Bxc4 38.Bxb7 d3 39.Kf2 d2 40.Bf3 Bb3 0-1
+
+[Event "36th Chess Olympiad 2004"]
+[Site "Calvia, Mallorca (Spain)"]
+[Date "2004.10.28"]
+[Round "13"]
+[Board "1"]
+[White "Carlsen, Magnus"]
+[Black "Kulaots, Kaido"]
+[Result "1/2-1/2"]
+[ECO "D17"]
+[WhiteElo "2581"]
+[BlackElo "2597"]
+[PlyCount "99"]
+[EventDate "2004.10.14"]
+[EventType "team"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[WhiteTeam "Norway"]
+[BlackTeam "Estonia"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Bf5 6.Ne5 Nbd7 7.Nxc4 Nb6 8.Ne5 a5
+9.Bg5 h6 10.Bh4 e6 11.e4 Bh7 12.f3 Be7 13.Bf2 O-O 14.Be2 Nbd7 15.Nd3 Qb8 16.O-O
+Bd8 17.Qb3 Bb6 18.Rad1 Qa7 19.Ne5 Qb8 20.Nc4 Bc7 21.g3 Qc8 22.Rd2 Rb8 23.Rfd1
+Qe8 24.Qa3 Ra8 25.Bf1 Qb8 26.Qb3 Re8 27.d5 exd5 28.exd5 Ne5 29.Kg2 cxd5 30.Nxe5
+Bxe5 31.Nxd5 Nxd5 32.Rxd5 Bf5 33.Qb5 f6 34.Bb6 Qc8 35.Rd8 Qc6 36.Rxe8+ Qxe8
+37.Qxe8+ Rxe8 38.Rd2 Rc8 39.Bxa5 Bc2 40.Bb5 Bxb2 41.Bd7 Rc5 42.Bb6 Bc1 43.Re2
+Rc3 44.Ba5 Rc5 45.Bb4 Rc7 46.Re7 Kh8 47.Bd6 Rc4 48.Re1 Rd4 49.Rxc1 Rxd6 50.Rxc2 1/2-1/2
+
+[Event "36th Chess Olympiad 2004"]
+[Site "Calvia, Mallorca (Spain)"]
+[Date "2004.10.29"]
+[Round "14"]
+[Board "1"]
+[White "Onischuk, Alexander"]
+[Black "Carlsen, Magnus"]
+[Result "1-0"]
+[ECO "E55"]
+[WhiteElo "2653"]
+[BlackElo "2581"]
+[PlyCount "113"]
+[EventDate "2004.10.14"]
+[EventType "team"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[WhiteTeam "United States"]
+[BlackTeam "Norway"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 d5 6.Nf3 c5 7.O-O dxc4 8.Bxc4 Nbd7
+9.Qe2 b6 10.Rd1 cxd4 11.exd4 Bxc3 12.bxc3 Qc7 13.Bd2 Bb7 14.Bd3 Rfe8 15.Re1 Rad8
+16.Ne5 Nxe5 17.Qxe5 Qxe5 18.Rxe5 Rc8 19.Rc1 Red8 20.Ree1 Rd5 21.a4 Ne8 22.Rb1
+Bc6 23.Rb4 Nd6 24.Ra1 Bd7 25.f3 h6 26.Be1 e5 27.Ba6 Re8 28.Bg3 exd4 29.Rxd4 Rxd4
+30.cxd4 Nf5 31.Bf2 Ne3 32.a5 Nc2 33.Rc1 Nb4 34.Rc7 Nxa6 35.Rxd7 Rc8 36.g4 bxa5
+37.Rxa7 Nb4 38.Rxa5 Rc1+ 39.Kg2 Rd1 40.Rb5 Nd3 41.Bg3 Nc1 42.d5 Ne2 43.Kf2 Nxg3
+44.Kxg3 Kf8 45.h4 g6 46.Kf4 f6 47.h5 Kf7 48.Rb7+ Kg8 49.Ke4 gxh5 50.gxh5 Kf8
+51.Rh7 Re1+ 52.Kf5 Kg8 53.Rd7 Rf1 54.f4 Kf8 55.d6 Ke8 56.Rh7 Rd1 57.Ke6 1-0
+
+[Event "18. Schwarzacher Open"]
+[Site "Schwarzach"]
+[Date ""]
+[Round "1"]
+[Board "11"]
+[White "Adinolfi, Vincenzo"]
+[Black "Carlsen, Magnus"]
+[Result "0-1"]
+[ECO "D94"]
+[WhiteElo "2110"]
+[BlackElo "2385"]
+[PlyCount "152"]
+[EventDate "2003.08.23"]
+[EventRounds "9"]
+[EventCountry "AUT"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.e3 O-O 6.Be2 dxc4 7.Bxc4 c5 8.O-O cxd4
+9.Nxd4 Bd7 10.Qe2 Nc6 11.Rd1 Nxd4 12.exd4 a6 13.Bf4 b5 14.Bb3 b4 15.Nd5 Nxd5
+16.Bxd5 Bb5 17.Qe4 Ra7 18.Be5 Rd7 19.Bxg7 Kxg7 20.Bb3 Qb6 21.Rd2 Qf6 22.Re1 Rfd8
+23.d5 a5 24.Red1 Rc8 25.Rc2 Rdc7 26.Rcd2 a4 27.Qxb4 axb3 28.Qxb5 bxa2 29.Qa4 Rc1
+30.Qxa2 R8c2 31.Qa7 Rxd2 32.Rxc1 Qxb2 33.Re1 Qe5 34.Qa1 Qxa1 35.Rxa1 Rxd5 36.h4
+Kf6 37.g3 Rd7 38.Kg2 h5 39.Kf3 Kf5 40.Ra5+ e5 41.Ke3 Rb7 42.Ra3 Rb6 43.Kf3 f6
+44.Ra4 Rd6 45.Rb4 Rd3+ 46.Kg2 Rd2 47.Rb5 Ke6 48.Rb6+ Rd6 49.Rb5 Rd5 50.Rb6+ Kf5
+51.Ra6 e4 52.Ra3 Ke5 53.Kf1 Rd3 54.Ra5+ Ke6 55.Ke2 Rd5 56.Ra8 Kf5 57.Ra6 Rd3
+58.Ra5+ Kg4 59.Ra6 Rf3 60.Re6 Kh3 61.Rxe4 Kg2 62.g4 Rxf2+ 63.Ke1 Kg3 64.gxh5
+gxh5 65.Re3+ Rf3 66.Re8 Kxh4 67.Rg8 Rf5 68.Rg6 Kh3 69.Ke2 h4 70.Ke1 Kh2 71.Ke2
+h3 72.Ke1 Kh1 73.Ke2 h2 74.Ke1 Rg5 75.Rxf6 Kg2 76.Rf2+ Kh3 0-1
+
+[Event "18. Schwarzacher Open"]
+[Site "Schwarzach"]
+[Date ""]
+[Round "2"]
+[Board "9"]
+[White "Carlsen, Magnus"]
+[Black "Danner, Lambert"]
+[Result "1-0"]
+[ECO "A80"]
+[WhiteElo "2385"]
+[BlackElo "2178"]
+[PlyCount "107"]
+[EventDate "2003.08.23"]
+[EventRounds "9"]
+[EventCountry "AUT"]
+
+1.d4 f5 2.Nc3 Nf6 3.Bg5 d5 4.Bxf6 exf6 5.e3 Be6 6.Qf3 c6 7.Nge2 Bd6 8.Nf4 Qe7
+9.Bd3 g6 10.O-O-O Nd7 11.Nxe6 Qxe6 12.h3 O-O-O 13.g4 fxg4 14.hxg4 Rdf8 15.Rh6
+Rfg8 16.Rdh1 Nf8 17.e4 dxe4 18.Nxe4 Be7 19.b3 Rg7 20.Bc4 Qd7 21.Rd1 f5 22.gxf5
+Qxf5 23.Qe3 Ba3+ 24.Kb1 Re7 25.f3 Nd7 26.b4 Bxb4 27.a3 Nb6 28.axb4 Nxc4 29.Nd6+
+Kd7 30.Qxe7+ Kxe7 31.Nxf5+ gxf5 32.Kc1 Nd6 33.Rdh1 Nf7 34.Rxh7 Rg8 35.Kd2 Rg2+
+36.Kd3 Kf6 37.R7h2 Rg3 38.Ke3 Ke6 39.Kf4 Rg8 40.Re2+ Kd5 41.Re7 Nd6 42.Re5+ Kc4
+43.Rc5+ Kxb4 44.Rb1+ Ka4 45.Ra1+ Kb4 46.Rxa7 Rh8 47.Ke5 Rh6 48.Ra1 Nc4+ 49.Kxf5
+b6 50.Rb1+ Kc3 51.Rxb6 Kxd4 52.Rcxc6 Rh3 53.Kg4 Rh2 54.Rb4 1-0
+
+[Event "18. Schwarzacher Open"]
+[Site "Schwarzach"]
+[Date ""]
+[Round "3"]
+[Board "2"]
+[White "Zelcic, Robert"]
+[Black "Carlsen, Magnus"]
+[Result "1-0"]
+[ECO "B33"]
+[WhiteElo "2543"]
+[BlackElo "2385"]
+[PlyCount "77"]
+[EventDate "2003.08.23"]
+[EventRounds "9"]
+[EventCountry "AUT"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Nd5 Nxd5 8.exd5 Nb8
+9.c4 Be7 10.Bd3 O-O 11.O-O a6 12.Nc3 f5 13.f3 Nd7 14.Kh1 Bg5 15.b4 Bxc1 16.Rxc1
+e4 17.fxe4 f4 18.Ne2 g5 19.Nd4 Ne5 20.Nf5 Qf6 21.c5 Bxf5 22.exf5 Nxd3 23.Qxd3
+Qxf5 24.Qd2 Rac8 25.c6 Rf7 26.a4 Re7 27.h3 Kf7 28.b5 axb5 29.axb5 bxc6 30.dxc6
+Qxb5 31.Qxd6 Qe5 32.Qb4 Qf6 33.Qa5 Kg7 34.c7 h6 35.Rc5 Re3 36.Qd2 Qe6 37.Rd1 Kf7
+38.Kh2 Ke7 39.Qd8+ 1-0
+
+[Event "18. Schwarzacher Open"]
+[Site "Schwarzach"]
+[Date ""]
+[Round "4"]
+[Board "9"]
+[White "Carlsen, Magnus"]
+[Black "Laqua, Christian"]
+[Result "1-0"]
+[ECO "E08"]
+[WhiteElo "2385"]
+[BlackElo "2196"]
+[PlyCount "99"]
+[EventDate "2003.08.23"]
+[EventRounds "9"]
+[EventCountry "AUT"]
+
+1.d4 Nf6 2.Nf3 e6 3.g3 d5 4.Bg2 Be7 5.O-O O-O 6.c4 c6 7.b3 b6 8.Qc2 Bb7 9.Nc3
+Nbd7 10.Bb2 Qc7 11.Rad1 Rac8 12.e4 Nxe4 13.Nxe4 dxe4 14.Qxe4 Rfd8 15.Rfe1 c5
+16.d5 Bf6 17.Bc1 Qb8 18.Ng5 Bxg5 19.Bxg5 Re8 20.Bf4 Qa8 21.dxe6 Bxe4 22.Bxe4
+Rxe6 23.Bxa8 Rxe1+ 24.Rxe1 Rxa8 25.Re7 Nf8 26.Rb7 Ne6 27.Bb8 Nd8 28.Re7 Ne6
+29.Bxa7 Kf8 30.Rb7 Nd8 31.Rb8 Rxa7 32.Rxd8+ Ke7 33.Rd2 Ke6 34.Kg2 h5 35.h4 g6
+36.Kf3 Ke5 37.a4 Rc7 38.Rd5+ Ke6 39.Kf4 Rc8 40.Kg5 Ra8 41.f4 f6+ 42.Kh6 Rc8
+43.Kg7 Ra8 44.a5 Rxa5 45.Kxg6 Ra3 46.f5+ Ke7 47.Rd3 b5 48.cxb5 c4 49.Re3+ Kf8
+50.b6 1-0
+
+[Event "18. Schwarzacher Open"]
+[Site "Schwarzach"]
+[Date ""]
+[Round "5"]
+[Board "4"]
+[White "Krivoshey, Sergei"]
+[Black "Carlsen, Magnus"]
+[Result "0-1"]
+[ECO "A48"]
+[WhiteElo "2507"]
+[BlackElo "2385"]
+[PlyCount "80"]
+[EventDate "2003.08.23"]
+[EventRounds "9"]
+[EventCountry "AUT"]
+
+1.d4 Nf6 2.Nf3 g6 3.Bf4 Bg7 4.e3 O-O 5.Be2 d6 6.h3 Nbd7 7.O-O e5 8.Bh2 Qe7 9.c4
+b6 10.Nc3 Bb7 11.Qc2 exd4 12.Nxd4 Ne5 13.Rad1 c5 14.Nb3 Rad8 15.e4 Qe6 16.Nd5
+Nxd5 17.cxd5 Qe7 18.f4 Nd7 19.Bf3 Qh4 20.Nd2 Ba6 21.Nc4 Bxc4 22.Qxc4 Bxb2 23.Qa6
+Qe7 24.Rfe1 Rfe8 25.a4 Rc8 26.Re2 Bg7 27.e5 dxe5 28.d6 Qd8 29.fxe5 Bxe5 30.Bxe5
+Rxe5 31.Rde1 Rxe2 32.Rxe2 c4 33.Bd5 c3 34.Qd3 Nf6 35.Bb3 Rc6 36.Re7 Rxd6 37.Qe3
+Rd3 38.Qe2 Rd2 39.Qe3 c2 40.Bxf7+ Kf8 0-1
+
+[Event "18. Schwarzacher Open"]
+[Site "Schwarzach"]
+[Date ""]
+[Round "6"]
+[Board "2"]
+[White "Carlsen, Magnus"]
+[Black "Shchekachev, Andrei"]
+[Result "1/2-1/2"]
+[ECO "B08"]
+[WhiteElo "2385"]
+[BlackElo "2550"]
+[PlyCount "68"]
+[EventDate "2003.08.23"]
+[EventRounds "9"]
+[EventCountry "AUT"]
+
+1.e4 g6 2.d4 Bg7 3.Nc3 d6 4.Nf3 Nf6 5.Be2 O-O 6.O-O Nc6 7.Be3 Ng4 8.Bg5 h6 9.Bc1
+e6 10.h3 Nf6 11.Be3 b6 12.e5 dxe5 13.Nxe5 Ne7 14.Bf3 Nfd5 15.Nxd5 exd5 16.Bf4
+Be6 17.Re1 Rc8 18.c3 c5 19.Qd2 Kh7 20.Rad1 Re8 21.Be2 c4 22.b3 b5 23.Bf3 Nf5
+24.bxc4 bxc4 25.Rb1 Nd6 26.Ng4 h5 27.Bg5 Qd7 28.Nf6+ Bxf6 29.Bxf6 Bf5 30.Rbc1
+Be4 31.Be2 Re6 32.Be5 f6 33.Bh2 Rce8 34.Bf1 g5 1/2-1/2
+
+[Event "18. Schwarzacher Open"]
+[Site "Schwarzach"]
+[Date ""]
+[Round "7"]
+[Board "4"]
+[White "Zimmerman, Yuri"]
+[Black "Carlsen, Magnus"]
+[Result "0-1"]
+[ECO "D85"]
+[WhiteElo "2320"]
+[BlackElo "2385"]
+[PlyCount "84"]
+[EventDate "2003.08.23"]
+[EventRounds "9"]
+[EventCountry "AUT"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.Bd2 Bg7 6.e4 Nb6 7.Be3 O-O 8.Bb5 Be6
+9.Nf3 Bc4 10.b3 Bxb5 11.Nxb5 Qd7 12.Nc3 Nc6 13.Qd2 Rad8 14.Rd1 f5 15.e5 Nd5
+16.Nxd5 Qxd5 17.O-O Qb5 18.Bh6 Rd5 19.Bxg7 Kxg7 20.Qc3 h6 21.Rd2 Rfd8 22.Rfd1
+Qb4 23.Qe3 e6 24.h4 Qe7 25.Qf4 Rh8 26.Qg3 Kf7 27.Qf4 Ke8 28.Rc2 Nb4 29.Rc4 Rd7
+30.Qd2 Nd5 31.b4 g5 32.hxg5 hxg5 33.Qxg5 Qh7 34.Kf1 Rg7 35.Qc1 Rxg2 36.Ke2 Qg7
+37.Rg1 Rh3 38.Rxg2 Qxg2 39.Ne1 Qe4+ 40.Kd2 Nf4 41.Qd1 Rd3+ 42.Nxd3 Qxd3+ 0-1
+
+[Event "18. Schwarzacher Open"]
+[Site "Schwarzach"]
+[Date ""]
+[Round "8"]
+[Board "2"]
+[White "Hertneck, Gerald"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[ECO "E15"]
+[WhiteElo "2524"]
+[BlackElo "2385"]
+[PlyCount "94"]
+[EventDate "2003.08.23"]
+[EventRounds "9"]
+[EventCountry "AUT"]
+
+1.c4 e6 2.d4 Nf6 3.Nf3 b6 4.g3 Ba6 5.Nbd2 Bb7 6.Bg2 d5 7.cxd5 exd5 8.O-O Be7
+9.Ne5 O-O 10.b3 Nbd7 11.Bb2 c5 12.Ndc4 cxd4 13.Bxd4 Nc5 14.Ne3 Ne6 15.Bb2 Ne4
+16.Rc1 Bg5 17.f4 Be7 18.Nf5 Bc5+ 19.e3 f6 20.Nd3 g6 21.Nh6+ Kg7 22.Ng4 h5
+23.Bxe4 dxe4 24.Nxc5 Nxc5 25.Nxf6 Rxf6 26.Qxd8 Rxd8 27.b4 Na6 28.Rfd1 Rd3 29.a3
+Kf7 30.Rxd3 exd3 31.Bxf6 Kxf6 32.Kf2 Kf5 33.Rc4 Be4 34.h3 d2 35.Rd4 Nc7 36.Rxd2
+Nd5 37.Rd4 Nf6 38.b5 Bd5 39.Ra4 Ne4+ 40.Ke1 Nc5 41.Rxa7 Ke4 42.Rg7 Kxe3 43.Rxg6
+Bc4 44.Rxb6 Nd3+ 45.Kf1 Ne5+ 46.Ke1 Nd3+ 47.Kf1 Ne5+ 1/2-1/2
+
+[Event "18. Schwarzacher Open"]
+[Site "Schwarzach"]
+[Date ""]
+[Round "9"]
+[Board "3"]
+[White "Carlsen, Magnus"]
+[Black "Ivanov, Mikhail"]
+[Result "1/2-1/2"]
+[ECO "C43"]
+[WhiteElo "2385"]
+[BlackElo "2406"]
+[PlyCount "98"]
+[EventDate "2003.08.23"]
+[EventRounds "9"]
+[EventCountry "AUT"]
+
+1.e4 e5 2.Nf3 Nf6 3.d4 Nxe4 4.dxe5 d5 5.Nbd2 Nxd2 6.Qxd2 c5 7.Bd3 Nc6 8.O-O h6
+9.Bb5 Be6 10.c4 dxc4 11.Qc2 Be7 12.Bxc4 Qc8 13.Be3 b6 14.Bb5 O-O 15.Qe4 Nb4
+16.a3 Bf5 17.Qf4 Nd5 18.Qg3 Nxe3 19.fxe3 Qe6 20.Qf4 Bh7 21.Bc4 g5 22.Bxe6 gxf4
+23.Bd5 fxe3 24.Bxa8 Rxa8 25.Rfd1 c4 26.Rd7 Bc5 27.Kf1 Bf5 28.Rd5 Be4 29.Rd7 Bf5
+30.Rd5 Be6 31.Rdd1 a5 32.Rac1 a4 33.Nd4 Bg4 34.Nf3 Be6 35.Nd4 Bg4 36.Ne2 b5
+37.Rd5 Rc8 38.h3 Be6 39.Rdd1 b4 40.axb4 Bxb4 41.Nd4 Bd2 42.Rc2 Bd7 43.Ke2 a3
+44.bxa3 Ba4 45.Rb1 c3 46.Rb7 Bxc2 47.Nxc2 Rc5 48.Re7 h5 49.a4 Kg7 1/2-1/2
+
