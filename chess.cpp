@@ -675,6 +675,7 @@ tree::~tree() {
     delete lst[i].next;
 }
 
+<<<<<<< HEAD
 static const double max_parm_value=1e5, max_prob_value=1-1/max_parm_value;
 
 inline double prob2parm(double p) {
@@ -686,6 +687,8 @@ inline double parm2prob(double p) {
   return p/(1+p);
 }
 
+=======
+>>>>>>> 271a2dc582392dc39009dd86c84afbcb11e54ba5
 void tree::make(int d) {
   if(lst.size()) {
     if(d) {
@@ -695,6 +698,7 @@ void tree::make(int d) {
           lst[i].next->go(lst[i].m);
           lst[i].next->make(d-1);
           if(lst[i].next->size()) {
+<<<<<<< HEAD
             lst[i].w=lst[i].l=0;
             for(int j=0; j<lst[i].next->size(); j++) {
               lst[i].l += prob2parm(1-lst[i].next->lst[j].w);
@@ -702,6 +706,14 @@ void tree::make(int d) {
             }
             lst[i].w=parm2prob(lst[i].w);
             lst[i].l=1-parm2prob(lst[i].l);
+=======
+            lst[i].w=lst[i].l=1;
+            for(int j=0; j<lst[i].next->size(); j++) {
+              lst[i].l *= lst[i].next->lst[j].w;
+              lst[i].w *= 1-lst[i].next->lst[j].l;
+            }
+            lst[i].w=1-lst[i].w;
+>>>>>>> 271a2dc582392dc39009dd86c84afbcb11e54ba5
           } else {
             lst[i].w=0;
             lst[i].l=lst[i].next->check()?1:0;
@@ -720,6 +732,7 @@ void tree::make(int d) {
       m.next=new tree(lm[i].second);
       m.next->make(d-1);
       if(m.next->lst.size()) {
+<<<<<<< HEAD
         m.w=m.l=0;
         for(int j=0; j<m.next->lst.size(); j++) {
           m.l += prob2parm(1-m.next->lst[j].w);
@@ -727,6 +740,14 @@ void tree::make(int d) {
         }
         m.l = 1-parm2prob(m.l);
         m.w = parm2prob(m.w);
+=======
+        m.w=m.l=1;
+        for(int j=0; j<m.next->lst.size(); j++) {
+          m.l *= m.next->lst[j].w;
+          m.w *= 1-m.next->lst[j].l;
+        }
+        m.w = 1-m.w;
+>>>>>>> 271a2dc582392dc39009dd86c84afbcb11e54ba5
       } else {
         m.w=0;
         m.l=lm[i].second.check()?1:0;
@@ -741,11 +762,19 @@ void tree::make(int d) {
 }
 
 bool win_ordering(mvalue* a, mvalue* b) {
+<<<<<<< HEAD
   return a->w < b->w;
 }
 
 bool lose_ordering(mvalue* a, mvalue* b) {
   return a->l > b->l;
+=======
+  return a->w > b->w;
+}
+
+bool lose_ordering(mvalue* a, mvalue* b) {
+  return a->l < b->l;
+>>>>>>> 271a2dc582392dc39009dd86c84afbcb11e54ba5
 }
 
 static mvalue* tree_lst_ptr;
@@ -753,9 +782,14 @@ static int* tree_ordering_index;
 
 int mvalue_ordering(const void* a, const void* b) {
   int ai=tree_ordering_index[(const mvalue*)a-tree_lst_ptr], bi=tree_ordering_index[(const mvalue*)b-tree_lst_ptr];
+<<<<<<< HEAD
   if(ai != bi) return ai - bi;
   double diff=(((const mvalue*)a)->w-((const mvalue*)a)->l)-(((const mvalue*)b)->w-((const mvalue*)b)->l);
   return diff<0?-1:(diff>0?1:0);
+=======
+  if(ai != bi) return ai < bi;
+  return ((const mvalue*)a)->w-((const mvalue*)a)->l<((const mvalue*)b)->w-((const mvalue*)b)->l;
+>>>>>>> 271a2dc582392dc39009dd86c84afbcb11e54ba5
 };
 
 void tree::ordering() {

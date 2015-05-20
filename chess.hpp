@@ -1,5 +1,8 @@
 #include <vector>
+<<<<<<< HEAD
 #include <map>
+=======
+>>>>>>> 271a2dc582392dc39009dd86c84afbcb11e54ba5
 
 struct field {
   unsigned char v:4, h:4;
@@ -68,6 +71,7 @@ public:
   void ordering();
   void choose(int);
 };
+<<<<<<< HEAD
 
 enum MOVE_FLAGS {
   CHECK=1, CHECKMATE=3, PROMOTION=4, TAKE=8, APP_HORIZ=16, APP_VERT=32, ROCKING=64
@@ -86,3 +90,5 @@ class game {
 public:
   game(std::map<std::string, std::string>*, std::vector<shortmove>*,int);
 };
+=======
+>>>>>>> 271a2dc582392dc39009dd86c84afbcb11e54ba5
