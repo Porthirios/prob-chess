@@ -22,40 +22,26 @@ pgn.tab.c: pgn.y
 stat-pgn: stat-pgn.cpp
 	g++ stat-pgn.cpp -o stat-pgn
 
-test: test.cpp chess.cpp chess.hpp
-	g++ -o test test.cpp chess.cpp
-
 pgn.tab.c: pgn.y
 	bison -d pgn.y
 
 import-tables: parm-sql games.sql.part1 twic.sql.part1 cache.sql openings.sql
 	echo "Импорт баз данных партий в mysql"
-	cat games.sql.part* twic.sql.part*  cache.sql openings.sql| mysql -h`head parm-sql -n 1` -u`head parm-sql -n 2 | tail -n 1` -p`head parm-sql -n 3 | head -n 1` -A `head parm-sql -n 4 | tail -n 1`
+	cat games.sql.part* twic.sql.part*  cache.sql openings.sql| mysql -h`head parm-sql -n 1` -u`head parm-sql -n 2 | tail -n 1` -p`head parm-sql -n 3 | tail -n 1` -A `head parm-sql -n 4 | tail -n 1`
 	echo "Создание сводной таблицы"
-	echo "drop table pgn if exists; create table pgn (content text, whiteelo int(4), blackelo int(4), result varchar(7), primary key game(content(64),whiteelo,blackelo,result)) select content,whiteelo,blackelo,result from twic where content<>'' and result in ('1-0','0-1','1/2-1/2') union distinct select content,whiteelo,blackelo,result from games where content<>'' and result in ('1-0','0-1','1/2-1/2')" | mysql -h`head parm-sql -n 1` -u`head parm-sql -n 2 | tail -n 1` -p`head parm-sql -n 3 | head -n 1` -A `head parm-sql -n 4 | tail -n 1`
+	echo "drop table if exists pgn; create table pgn (content text, whiteelo int(4), blackelo int(4), result varchar(7), primary key game(content(64),whiteelo,blackelo,result),key whiteelo(whiteelo), key blackelo(blackelo)); insert ignore into pgn select content,whiteelo,blackelo,result from twic where content<>'' and result in ('1-0','0-1','1/2-1/2') union distinct select content,whiteelo,blackelo,result from games where content<>'' and result in ('1-0','0-1','1/2-1/2')" | mysql -h`head parm-sql -n 1` -u`head parm-sql -n 2 | tail -n 1` -p`head parm-sql -n 3 | tail -n 1` -A `head parm-sql -n 4 | tail -n 1`
 
-export-tables: games.sql.part1 twic.sql.part1 cache.sql openings.sql
+export-tables:
+	mysqldump -h`head parm-sql -n 1` -u`head parm-sql -n 2 | tail -n 1` -p`head parm-sql -n 3 | tail -n 1` `head parm-sql -n 4 | tail -n 1` games | ./split -o games.sql
+	mysqldump -h`head parm-sql -n 1` -u`head parm-sql -n 2 | tail -n 1` -p`head parm-sql -n 3 | tail -n 1` `head parm-sql -n 4 | tail -n 1` twic | ./split -o twic.sql
+	mysqldump -h`head parm-sql -n 1` -u`head parm-sql -n 2 | tail -n 1` -p`head parm-sql -n 3 | tail -n 1` `head parm-sql -n 4 | tail -n 1` cache > cache.sql
+	mysqldump -h`head parm-sql -n 1` -u`head parm-sql -n 2 | tail -n 1` -p`head parm-sql -n 3 | tail -n 1` `head parm-sql -n 4 | tail -n 1` openings > openings.sql
 
-games.sql.part1: split parm-sql
-	mysqldump -h`head parm-sql -n 1` -u`head parm-sql -n 2 | tail -n 1` -p`head parm-sql -n 3 | head -n 1` `head parm-sql -n 4 | tail -n 1` games | ./split -o games.sql
-
-twic.sql.part1:
-	mysqldump -h`head parm-sql -n 1` -u`head parm-sql -n 2 | tail -n 1` -p`head parm-sql -n 3 | head -n 1` `head parm-sql -n 4 | tail -n 1` twic | ./split -o twic.sql
-
-cache.sql:
-	mysqldump -h`head parm-sql -n 1` -u`head parm-sql -n 2 | tail -n 1` -p`head parm-sql -n 3 | head -n 1` `head parm-sql -n 4 | tail -n 1` cache > cache.sql
-
-openings.sql:
-	mysqldump -h`head parm-sql -n 1` -u`head parm-sql -n 2 | tail -n 1` -p`head parm-sql -n 3 | head -n 1` `head parm-sql -n 4 | tail -n 1` openings > openings.sql
-
-split: split.o
-	g++ -o split split.o
-
-split.o: split.cpp
+split: split.cpp
 	g++ split.cpp
 
 parm-sql:
-	dialog --form "Параметры сервера mysql" 15 30 10 "Хост:" 2 1 localhost 2 8 16 15 "User:" 4 1 "chessplayer" 4 8 16 15 "пароль" 6 1 " " 6 8 16 15 "dbname:" 8 1 "chess" 8 8 16 15 2> parm-sql
+	dialog --form "Параметры сервера mysql" 15 40 10 "Хост:" 2 1 localhost 2 8 26 25 "User:" 4 1 "chessplayer" 4 8 26 25 "пароль" 6 1 " " 6 8 26 25 "dbname:" 8 1 "chess" 8 8 26 25 2> parm-sql
 	clear
 
 install: parm-sql import-tables openings.php seekgame.php
